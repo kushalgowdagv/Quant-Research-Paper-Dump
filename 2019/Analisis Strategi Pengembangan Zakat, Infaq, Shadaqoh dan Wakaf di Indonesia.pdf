@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>	
+	<title>UMSIDA (OLD OJS) New list on journal.umsida.ac.id</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="generator" content="Open Journal Systems 2.4.8.0" />
+	
+		<link rel="stylesheet" href="http://ojs.umsida.ac.id/plugins/themes/customSite/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="http://ojs.umsida.ac.id/plugins/themes/customSite/css/sitestyle.css" type="text/css" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<script type="text/javascript" src="http://ojs.umsida.ac.id/plugins/themes/customSite/js/jquery.min.js"></script>
+
+			<link rel="stylesheet" href="http://ojs.umsida.ac.id/public/site/sitestyle.css" type="text/css" />
+				
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="http://ojs.umsida.ac.id/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="http://ojs.umsida.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="http://ojs.umsida.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>		
+</head>
+
+<body id="body-site">
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://ojs.umsida.ac.id/index.php/index/index"><i class="fa fa-home"></i> Home</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+		<li id="about"><a href="http://ojs.umsida.ac.id/index.php/index/about"><i class="fa fa-info-circle"></i> About</a></li>        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+
+					<li id="login"><a href="http://ojs.umsida.ac.id/index.php/index/login"><i class="fa fa-unlock-alt"></i> Login</a></li>
+							<li id="register"><a href="http://ojs.umsida.ac.id/index.php/index/user/register"><i class="fa fa-file-text-o "></i> Register</a></li>
+										<li id="categories"><a href="http://ojs.umsida.ac.id/index.php/index/search/categories"><i class="fa fa-folder-open-o"></i> Categories</a></li>
+							<li id="search"><a href="http://ojs.umsida.ac.id/index.php/index/search"><i class="fa fa-search"></i> Search</a></li>
+		
+		
+				
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav><div class="container header-container">
+
+	<div id="header">
+		<div id="headerTitle">
+			<h1>
+													UMSIDA (OLD OJS) New list on journal.umsida.ac.id
+							</h1>
+			<h4>U</h4>
+		</div>
+	</div>
+</div><!-- container -->
+
+<div class="container">
+
+<div class="row" id="main-content">
+<a name="journals"></a>
+				<span style="display:none">1</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="http://ojs.umsida.ac.id/index.php/icebam"  class="thumbnail">
+                                  
+Parse error: syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /var/www/ojs.umsida.ac.id/public_html/cache/fc-journalSettings-52.php on line 371

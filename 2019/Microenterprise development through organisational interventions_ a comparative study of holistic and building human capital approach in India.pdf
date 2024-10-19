@@ -1,0 +1,308 @@
+<script type="text/javascript"> window.location="https://www.inderscience.com";</script>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+  <title>Inderscience Publishers - linking academia, business and industry through research</title>
+  <meta name="description" content="International publishers of academic, scientific and professional journals since 1979, disseminating research in science, engineering & technology; business; environment; computing">
+<meta name="keywords" content="Inderscience, publishers, journals, academic, scientific, management, business, conference, article, publication">
+
+  <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">-->
+
+
+  <!-- CSS: implied media="all" -->
+  <link rel="stylesheet" type="text/css" href="http://www.inderscience.com/info/style.css">
+  <link rel="stylesheet" type="text/css" href="http://www.inderscience.com/info/homepagetabstyling.css">
+
+  <!-- Uncomment if you are specifically targeting less enabled mobile browsers
+  <link rel="stylesheet" media="handheld" href="css/handheld.css?v=2">  -->
+
+<script src="https://www.inderscience.com/info/js/jquery.js" type="text/javascript"></script>
+
+<!-- jquery script for tabs -->
+<script src="https://www.inderscience.com/info/js/jquery.tools.min.js"></script>
+
+<!-- end tabs jquery script -->
+
+ <!-- new titles slider -->
+  <link rel="stylesheet" href="http://www.inderscience.com/info/nivo-slider.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="http://www.inderscience.com/info/themes/default/default.css" type="text/css" media="screen" />
+  <script src="https://www.inderscience.com/info/js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<!-- image and news slider needs to call this too, but the cdn script above covers it and tabs break if use both, so this is for info only ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js -->
+
+<!-- end new titles slider stuff -->
+
+<!-- news carousel -->
+<link rel="stylesheet" href="http://www.inderscience.com/info/slideshow.css" type="text/css" media="screen" />
+        <!-- needs to call googleapis jquery.min.js, but already called above for other items -->
+        <script type="text/javascript" src="https://www.inderscience.com/info/js/jquery.cycle.js"></script>
+        <script type="text/javascript" src="https://www.inderscience.com/info/js/slideshow.js"></script>
+
+<script type="text/javascript">
+<!-- begin hiding
+function expandSELECT(sel) {
+sel.style.width = '';
+}
+function contractSELECT(sel) {
+sel.style.width = '200px';
+}
+// end hiding -->
+</script>
+
+<!-- end news carousel stuff -->
+<!-- carousel script with thanks to Jenna Smith  - http://net.tutsplus.com -->
+
+
+</head>
+
+<body class="home">
+
+
+<div id="container">
+    <header id="header"><div id="skip"><a href="#maincontent">Skip to main Inderscience content</a></div>
+
+	
+<!-- start loginbox -->
+<div id="loginbox"><h2>LOG IN</h2>
+		 For Authors, Editors, Board Members<br>&nbsp;<br>
+			<form action="https://www.inderscience.com/login.php?op=login" method="post" class="login" name="thisloginform">
+			<ul><li><input type="hidden" name="refer" value="http://www.inderscience.com/mapper.php?id=9" /></li>
+			<li><label for="Username">Username</label> <input type="text" name="username" id="Username" value="Username" onclick="clickclear(this, 'Username')" onblur="clickrecall(this,'Username')" /></li>
+			<li><input type="hidden" name="password" value="Next"></li>
+			<li class="remember"><input type="checkbox" name="remember" value="1">Remember me </li>	
+			<li class="forgotten"><a href="http://www.inderscience.com/forgotpwd.php">Forgotten?</a></li>
+			</ul>
+			&nbsp; <input type="image" name="login" class="button" src="http://www.inderscience.com/info/images/global/gobutton.png" alt="Go" />
+			</form></div>
+<!-- end of loginbox -->
+
+    <div><a href="http://www.inderscience.com/index.php"><img id="logo" src="http://www.inderscience.com/info/images/global/inderscience_logo.png" alt="Inderscience company logo" title="Inderscience Publishers - linking academia, business and industry through research" border="0" width="620" height="114" /></a></div>
+		<h1 class="hide">Inderscience Publishers</h1>
+
+
+	<!--<div id="byline">Publishers of distinguished academic, scientific and professional journals</div>-->
+
+
+		<div id="bannertriangle"><img src="http://www.inderscience.com/info/images/global/titchytriangle.png" alt="" /></div>
+	<div id="nav">
+				<ul>
+				<li class="home"><a href="http://www.inderscience.com/index.php">Home</a></li>
+				<li class="authors"><a href="http://www.inderscience.com/info/inauthors.php">For Authors</a></li>
+				<li class="libs"><a href="http://www.inderscience.com/librarians/index.php">For Librarians</a></li>
+				<li class="orders"><a href="http://www.inderscience.com/inorders.php">Orders</a></li>
+ 				<li class="online"><a href="http://www.Inderscienceonline.com">Inderscience <i>Online</i></a></li>
+				<li class="news"><a href="http://www.inderscience.com/info/innews/index.php">News</a></li>
+
+     			</ul>
+
+		<!-- web site search form-->
+
+<form method="post" action="http://www.inderscience.com/dev/search/index.php?action=basic" name="searchForm" class="websitesearchform">
+
+			    <input name="q" type="text" class="textboxsmall" value="Article search" size="20" maxlength="250" onclick="clickclear(this, 'Article search')" onblur="clickrecall(this,'Article search')">
+				 <input type="hidden" name="o" value="2">
+				 <input type="hidden" name="year1" value="1992">
+				 <input type="hidden" name="year2" value="2015">
+				 <input type="hidden" name="wf" value="full">
+				 <input type="submit" value="Go" name="sendSearch">
+				<!-- <a href="http://www.inderscience.com/search/index.php?action=moreSearch"><u style="font-size:9px">Advanced Search</u></a> -->
+      </form>
+
+
+
+
+
+
+		</div>  <!-- end #nav -->
+
+	<img id="handle" src="http://www.inderscience.com/info/images/global/handle.gif" alt="" />
+	<br class="clearboth" />
+	 <a id="maincontent"></a></header>
+	<!-- end of #header -->
+
+
+
+
+	<div id="main" role="main">
+
+
+	<div id="maincol1">
+	<div id="innercolleft">
+	<h1><span class="orange">Explore our</span> JOURNALS</h1>
+	<br /><br />
+
+	
+	<br />
+	<h2><span class="notbold">BROWSE JOURNALS</span> BY SUBJECT</h2>
+			<br />
+			<div class="righttriangle">
+			<ul class="noliststyle">
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=7">Computing and Mathematics</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=6">Economics and Finance</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=5">Education, Knowledge and Learning</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=2">Energy and Environment</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=3">Healthcare and Biosciences</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=4">Management and Business</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=8">Public Policy and Administration</a></li>
+
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=9">Risk, Safety and Emergency Management</a></li>
+				<li><a href="http://www.inderscience.com/info/insubcat.php?catid=1">Science, Engineering and Technology</a></li>
+                <li><a href="http://www.inderscience.com/info/insubcat.php?catid=10">Society and Leisure</a></li>
+				<li><a href="http://www.inderscience.com/info/insubjall.php">All Subjects</a></li>
+		    </ul>
+			</div>
+
+	</div><!-- end of #innercol for left-hand side -->
+
+	<div id="innercolright">
+
+ <!-- tabs js script -->
+	<script>
+
+// perform JavaScript after the document is scriptable.
+$(function() {
+	// setup ul.tabs to work as tabs for each div directly under div.panes
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+<!-- end tabs js script -->
+
+			<!-- the tabs -->
+				<ul class="tabs">
+					<li><a href="#" class="s">ARTICLES</a></li>
+					<li><a href="#" class="s">JOURNALS</a></li>
+
+				</ul>
+
+				<!-- tab for first pane - articles -->
+				<div class="panes">
+					<div><p class="nbrtitles">  articles from  journals</p>
+					<form method="post" action="http://www.inderscience.com/dev/search/index.php?action=basic" name="browseTitlesForm">
+					<input id="Search" type="text" name="q" size="24" title="Search" value="Enter search terms" onclick="clickclear(this, 'Enter search terms')" onblur="clickrecall(this,'Enter search terms')" />
+					<input type="hidden" name="o" value="2">
+				  <input type="hidden" name="year1" value="1992">
+				  <input type="hidden" name="year2" value="2018">
+				  <input type="hidden" name="wf" value="full">
+					<br />
+					<select name="wf" style="width:181px;">
+				  <option value="full" SELECTED>All fields</option>
+					<option value="title">Title</option>
+					<option value="author">Author</option>
+					<option value="abstract">Abstract</option>
+					<option value="keywords">Keywords</option>
+					<option value="address">Author Address</option>
+					<option value="reference">Journal title</option>
+					</select>
+					<input type="hidden" name="sendSearch" value="Search">
+					<input id="comments" type="submit" value="Go">
+				</form>
+					<a href="http://www.inderscience.com/dev/search/index.php?action=moreSearch" class="smallfont">Advanced search</a>
+
+					</div>
+					<!-- tab for second pane - journals -->
+					<div><form method="post" action="http://www.inderscience.com/dev/search/index.php?action=basic" name="searchForm">
+					<input id="Search" type="text" name="q" size="24" title="Search" value="Enter search terms" onclick="clickclear(this, 'Enter search terms')" onblur="clickrecall(this,'Enter search terms')" />
+					<input type="hidden" name="wf" value="reference">
+					<input type="hidden" name="o" value="2">
+				  <input type="hidden" name="year1" value="1995">
+				  <input type="hidden" name="year2" value="2018">
+					<input type="hidden" name="journal_search" value="yes">
+					<input id="comments" type="submit" value="Go">
+				</form>
+				<span class="smallfont"><br>Search terms can be either 1) any word from the journal title or 2) the journal acronym</span>
+					</div>
+
+				</div>
+
+
+
+	<br />
+
+
+
+			
+	</div><!-- end of #innercol for right-hand side -->
+
+
+
+	</div><!-- end of #maincol1 -->
+
+	<div id="col2">
+
+	
+
+	<div id="palerectangle5" class="orangetriangle"><div style="font-size:1.5em;font-weight:normal;padding-top:.4em;margin:0em .5em 0em .5em;color:#003399;">For Authors</div>
+		<ul class="liststyle">
+		<li><span class="blacktext">Registered authors: log in above</span></li>
+		<li><a href="http://www.inderscience.com/ospeers/authorregister.php">Online submissions: new author registration</a></li>
+		<li><a href="http://www.inderscience.com/info/inauthors/author_mp.php">Preparing articles</a></li>
+<li><a href="http://www.inderscience.com/info/inauthors/author_submit.php">Submitting articles</a></li>
+<li><a href="http://www.inderscience.com/info/inauthors/author_copyright.php">Copyright and author entitlement</a></li>
+		<li><a href="http://www.inderscience.com/callPapers.php">View all calls for papers</a></li>
+		<li><a href="http://www.inderscience.com/info/ingeneral/conference.php">Conferences/Events</a></li>
+	 </ul>
+	</div>
+
+
+	<div id="bluerectangle" class="bluetriangle"><h2>Orders</h2>
+	<ul class="liststyle">
+		<li><a href="http://www.inderscience.com/inorders.php">Journal subscriptions</a></li>
+		<li><a href="http://www.inderscience.com/inorders.php">Buying one-off articles and issues</a></li>
+		<li><a href="http://www.inderscience.com/info/inpub/inbooks.php">Books</a> and <a href="http://www.inderscience.com/info/inpub/inconfp.php">Conference Proceedings</a></li>
+		<li>See our subscription rates (PDF format) </li>
+		</ul>
+
+	</div>
+	<aside>
+		</aside>
+
+	<aside>
+</aside>
+	<!-- end of #col2 -->
+
+
+
+    </div>
+	<!-- end of #main -->
+
+
+
+</div>
+<!-- end of #container -->
+
+     	<!-- end of #footer -->
+
+
+<!--  google analytics tracking START -->
+ <!--  google analytics tracking END -->
+
+
+<!-- Code to have clickable text in the search box and disappear when on click -->
+
+<script type="text/javascript">
+function clickclear(thisfield, defaulttext) {
+if (thisfield.value == defaulttext) {
+thisfield.value = "";
+}
+}
+function clickrecall(thisfield, defaulttext) {
+if (thisfield.value == "") {
+thisfield.value = defaulttext;
+}
+}
+</script>
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=732691186" async></script></body>
+</html>

@@ -1,0 +1,644 @@
+
+<!doctype html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Journal of Economics, Management and Trade</title>
+
+	
+<link rel="icon" href="https://journaljemt.com/public/journals/95/favicon_en_US.jpg">
+<meta name="description" content="Journal of Economics, Management and Trade publishes manuscripts with valuable insight to research, ideas and strategies of economics, management and trade.">
+<meta name="generator" content="Open Journal Systems 3.3.0.11">
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<meta name="robots" content="index, follow">
+ <meta name="Googlebot" content="index, follow">
+ <script type="text/javascript">  
+        function googleTranslateElementInit() {  
+            new google.translate.TranslateElement(  
+                {pageLanguage: 'en'},  
+                'google_translate_element'  
+            );  
+        }  
+    </script>  
+  
+<!-- Script code for google translator API -->  
+    <script type="text/javascript"   
+    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">  
+    </script>  
+<link rel="alternate" type="application/atom+xml" href="https://journaljemt.com/index.php/JEMT/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://journaljemt.com/index.php/JEMT/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://journaljemt.com/index.php/JEMT/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700;800&display=swap" type="text/css" /><link rel="stylesheet" href="https://journaljemt.com/plugins/themes/gopher/css/fa_all.min.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journaljemt.com/plugins/themes/gopher/css/v4-font-face.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journaljemt.com/plugins/themes/gopher/css/bootstrap.min.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journaljemt.com/plugins/themes/gopher/css/custom.css?v=3.3.0.11" type="text/css" /><style type="text/css">:root { --color-primary: #113383;}</style><link rel="stylesheet" href="https://journaljemt.com/plugins/generic/citations/css/citations.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journaljemt.com/public/journals/95/styleSheet.css?d=2023-02-13+11%3A16%3A53" type="text/css" />
+</head>
+<body>
+<section class="header container-fluid py-4">
+	<div class="container px-3 px-md-4">
+		<div class="row align-items-center align-items-md-start">
+			<!---<div class="col-sm-5 ps-md-3 p-0"><img src="https://journaljemt.com/public/site/pageHeaderTitleImage_en_US.png" alt="" class="img-fluid"></div>--->
+			<div class="col-sm-7 text-end right-col pe-0 pe-md-2 mt-sm-0 mt-4">
+					                            
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="container shadow p-0">
+	<div class="container page-header py-3 py-lg-4 px-4">
+				<h1>
+            				<a class="heading-link" href="			https://journaljemt.com/index.php/JEMT/index
+		"}>
+                	Journal of Economics, Management and Trade
+				</a>
+            		</h1>
+	</div>
+	<div class="container border-bottom menu-row px-xl-4 px-2 position-relative">
+		<nav class="navbar navbar-expand-xl navbar-dark">
+			<div class="container-fluid p-0">
+				<button
+					class="navbar-toggler"
+					type="button"
+					data-bs-toggle="collapse"
+					data-bs-target="#collapsibleNavbar"
+					aria-controls="collapsibleNavbar"
+					aria-expanded="false"
+					aria-label="Toggle navigation"
+				>
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    	<ul id="" class="navbar-nav">
+																		<li class="nav-item dropdown">
+					<a
+						id="0"
+						class="nav-link dropdown-toggle"
+						data-bs-toggle="dropdown"
+						aria-expanded="false"
+						role="button"
+						href="https://journaljemt.com/index.php/JEMT/about"
+					>
+						About
+					</a>
+				 						<ul class="dropdown-menu" aria-labelledby="0">
+																					<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/about"
+									>
+										About the Journal
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/about/submissions"
+									>
+										Author Guideline
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/articles-press"
+									>
+										Accepted Papers
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/editorial-policy"
+									>
+										Editorial Policy
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/about/editorialTeam"
+									>
+										Editorial Board Members
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/reviewers"
+									>
+										Reviewers
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/article-reprints"
+									>
+										Printed Hard copy
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/about/privacy"
+									>
+										Publication Ethics and Malpractice Statement
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/digital-archiving"
+									>
+										Digital Archiving
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journaljemt.com/index.php/JEMT/about/contact"
+									>
+										Contact
+									</a>
+								</li>
+																		</ul>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journaljemt.com/index.php/JEMT/issue/archive">
+											Archives
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journaljemt.com/index.php/JEMT/abstracting-indexing">
+											Indexing
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journaljemt.com/index.php/JEMT/publication-charge">
+											Price
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://www.journaljemt.com/index.php/JEMT/manuscript-submission">
+											Submission
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://bit.ly/sdi-testimonial">
+											Testimonials
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journaljemt.com/index.php/JEMT/announcement">
+											Announcements
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journaljemt.com/index.php/JEMT/recommended-journal">
+											Similar Journals
+									</a>
+				</li>
+						</ul>
+
+				</div>
+			</div>
+		</nav>
+							<a href="https://journaljemt.com/index.php/JEMT/search" class="btn btn-primary small">Search</a>
+			</div>
+	<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
+
+
+<div class="container px-4 home-sec-1">
+		<div class="row">
+	
+		<div >
+
+										
+			<!--				<p class="bold">ISSN: 2456-9216</p>
+			--->
+							<p style="text-align: justify;"><strong>Journal of Economics, Management and Trade (ISSN:&nbsp;2456-9216)</strong> publishes manuscripts with valuable insight to research, ideas and strategies of economics, management and trade. By not excluding papers based on novelty, this journal facilitates the research and wishes to publish papers as long as they are technically correct and scientifically motivated. The journal also encourages the submission of useful reports of negative results. This is a quality controlled, OPEN peer-reviewed, open-access INTERNATIONAL journal.</p>
+					</div>
+	</div>
+    </div>
+
+<div class="border-top">
+	<div class="container pt-4 px-4">
+	
+	<div class="row">
+		<h2>
+							Current Issue
+					</h2>
+
+		                
+				
+		
+		<div class="">
+							<p class="bold m-0">2024 - Volume 30 [Issue 9]</p>
+			
+		
+
+			            
+								</div>
+	</div>
+</div>
+
+
+	<div class="container px-4 pt-0 pt-md-4">
+		<hr>
+									<h3>Original Research Article</h3>
+										
+    
+
+<div class="row ">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-1237" href="https://journaljemt.com/index.php/JEMT/article/view/1237">
+				Influence of Financial Literacy on Financial Well-Being: A Case of Vietnam
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Huyen Do Phuong, Hoang Lan Nguyen, Thuc Khanh Nguyen</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1237/2484" aria-labelledby=article-1237>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1237/2485" aria-labelledby=article-1237>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1237/2486" aria-labelledby=article-1237>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-1238" href="https://journaljemt.com/index.php/JEMT/article/view/1238">
+				Evaluating the Efficacy of GARCH Models in Forecasting Volatility Dynamics Across Major Global Financial Indices: A Decade-long Analysis
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Nagendra Marisetty</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1238/2487" aria-labelledby=article-1238>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1238/2488" aria-labelledby=article-1238>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1238/2489" aria-labelledby=article-1238>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-1239" href="https://journaljemt.com/index.php/JEMT/article/view/1239">
+				Exploring the Challenges and Unveiling the Glass Ceiling Effect  on Career Progression among  Turkish Women in 3 to 5 Star Hotels
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Mojgan Saghaei, Sree Kala Kunju Raman Nair</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1239/2490" aria-labelledby=article-1239>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article – PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1239/2491" aria-labelledby=article-1239>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1239/2492" aria-labelledby=article-1239>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-1241" href="https://journaljemt.com/index.php/JEMT/article/view/1241">
+				Export Performance of CPO and RPO: A Comparative Study between Indonesia and Malaysia
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Mahatma Windrawan Inantha, Tulus T.H. Tambunan, Tri Kunawangsih P</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1241/2493" aria-labelledby=article-1241>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1241/2494" aria-labelledby=article-1241>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1241/2495" aria-labelledby=article-1241>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-1243" href="https://journaljemt.com/index.php/JEMT/article/view/1243">
+				From Barista to Bytes: How Starbucks Brewed a Digital Revolution
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">P. Ullagaddi</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1243/2499" aria-labelledby=article-1243>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1243/2500" aria-labelledby=article-1243>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1243/2501" aria-labelledby=article-1243>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+						</div>
+	<div class="container px-4 pt-0 pt-md-4">
+		<hr>
+									<h3>Policy Article</h3>
+										
+    
+
+<div class="row ">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-1242" href="https://journaljemt.com/index.php/JEMT/article/view/1242">
+				Effects of Crises on the Tourism Sector: The Case of Greece
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Triantafyllos Pnevmatikos, Georgia Zouni, Paraskevi-Myrsini Nasiou</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1242/2496" aria-labelledby=article-1242>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1242/2497" aria-labelledby=article-1242>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journaljemt.com/index.php/JEMT/article/view/1242/2498" aria-labelledby=article-1242>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+						</div>
+
+<div class="container px-4 pt-2 pt-md-4">
+	<hr class="mb-1">
+	<a href="https://journaljemt.com/index.php/JEMT/issue/archive" class="btn btn-link chevron-btn">
+        View All Issues <i class="fa-solid fa-chevron-right"></i>
+	</a>
+</div>
+
+
+</div>
+
+
+    <div class="container mt-5 px-4 pb-4">
+	</div>
+</section>
+
+<section class="footer container-fluid">
+	<div class="container py-3">
+		<div class="row">
+			<div class="col-12">
+          							<p>© Copyright 2010-Till Date, Journal of Economics, Management and Trade. All rights reserved.</p>
+							</div>
+		</div>
+	</div>
+	<div class="row bottom-bar py-3"></div>
+</section>
+
+<script src="https://journaljemt.com/plugins/themes/gopher/js/jquery.js?v=3.3.0.11" type="text/javascript"></script><script src="https://journaljemt.com/plugins/themes/gopher/js/bootstrap.bundle.min.js?v=3.3.0.11" type="text/javascript"></script><script src="https://journaljemt.com/plugins/themes/gopher/js/custom.js?v=3.3.0.11" type="text/javascript"></script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-135398133-10', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>
