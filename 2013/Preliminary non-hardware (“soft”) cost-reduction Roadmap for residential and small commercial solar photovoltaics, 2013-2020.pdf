@@ -1,0 +1,1140 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+
+        
+        
+        
+            
+            
+            
+            
+            
+                
+            
+        
+        
+        
+            
+            
+            
+            
+            
+            
+            
+            
+        <!doctype html>
+
+
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The U.S. Department of Energy's Office of Scientific and Technical Information">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+    <title>Non-Hardware (&quot;Soft&quot;) Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020 (Technical Report) | OSTI.GOV</title>
+    <link rel="icon" type="image/png" href="https://www.osti.gov/sites/www.osti.gov/files/public/styles/large/public/image-files/OSTI_favicon_32px.png" />
+    <link rel="search" type="application/opensearchdescription+xml" href="/res/ostigovsearch.xml" title="OSTI.GOV Search" />
+    <link rel="canonical" href="https://www.osti.gov/biblio/1096122" />
+    
+    <link href="/css/ostigov.240918.2212.css" rel="stylesheet">
+    
+    
+    
+        
+            
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-MP0JFZ283F"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-MP0JFZ283F', {'Product Type':'Technical Report'});
+                </script>
+            
+        
+    
+
+    <meta name="citation_title" content="Non-Hardware (&quot;Soft&quot;) Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020" />
+                <meta name="citation_abstract" content="The objective of this analysis is to roadmap the cost reductions and innovations necessary to achieve the U.S. Department of Energy (DOE) SunShot Initiative's total soft-cost targets by 2020. The roadmap focuses on advances in four soft-cost areas: (1) customer acquisition; (2) permitting, inspection, and interconnection (PII); (3) installation labor; and (4) financing. Financing cost reductions are in terms of the weighted average cost of capital (WACC) for financing PV system installations, with real-percent targets of 3.0% (residential) and 3.4% (commercial)." />
+                
+                    <meta name="citation_author" content="Ardani, K. " />
+                    
+                    
+                
+                    <meta name="citation_author" content="Seif, D. " />
+                    
+                    
+                
+                    <meta name="citation_author" content="Margolis, R. " />
+                    
+                    
+                
+                    <meta name="citation_author" content="Morris, J. " />
+                    
+                    
+                
+                    <meta name="citation_author" content="Davidson, C. " />
+                    
+                    
+                
+                    <meta name="citation_author" content="Truitt, S. " />
+                    
+                    
+                
+                    <meta name="citation_author" content="Torbert, R. " />
+                    
+                    
+                
+                <meta name="citation_date" content="Thu Aug 01 00:00:00 EDT 2013" />
+                <meta name="citation_language" content="English" />
+                <meta name="citation_technical_report_number" content="NREL/TP-7A40-59155" />
+                <meta name="citation_technical_report_institution" content="National Renewable Energy Lab. (NREL), Golden, CO (United States)" />
+                <meta name="citation_pdf_url" content="https://www.osti.gov/servlets/purl/1096122" />
+                <meta name="citation_doi" content="10.2172/1096122" />
+                <meta name="citation_keywords" content=" solar energy; soft costs; nrel; national renewable energy department; doe; sunshot initiative; residential; commercial; photovoltaics; pv; non-hardware costs; solar energy - photovoltaics; energy analysis; integrated applications" />
+                
+                
+                
+                
+                
+                
+                    <meta name="citation_funding_source" content="citation_funder=US Department of Energy; citation_grant_number=AC36-08GO28308; "/>
+                
+                
+                
+                
+                <script type="application/ld+json">{"datePublished":"Thu Aug 01 00:00:00 EDT 2013","identifier":"https://doi.org/10.2172/1096122","keywords":["14 SOLAR ENERGY","SOFT COSTS","NREL","NATIONAL RENEWABLE ENERGY DEPARTMENT","DOE","SUNSHOT INITIATIVE","RESIDENTIAL","COMMERCIAL","PHOTOVOLTAICS","PV","NON-HARDWARE COSTS","Solar Energy - Photovoltaics","Energy Analysis","Integrated Applications"],"@type":"Report","author":[{"name":"Ardani, K.","@type":"Person"},{"name":"Seif, D.","@type":"Person"},{"name":"Margolis, R.","@type":"Person"},{"name":"Morris, J.","@type":"Person"},{"name":"Davidson, C.","@type":"Person"},{"name":"Truitt, S.","@type":"Person"},{"name":"Torbert, R.","@type":"Person"}],"name":"Non-Hardware (\"Soft\") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020","sourceOrganization":[{"name":"National Renewable Energy Lab. (NREL), Golden, CO (United States)","@type":"Organization"},{"name":"USDOE Office of Energy Efficiency and Renewable Energy Solar Energy Technologies Program","@type":"Organization"}],"description":"The objective of this analysis is to roadmap the cost reductions and innovations necessary to achieve the U.S. Department of Energy (DOE) SunShot Initiative's total soft-cost targets by 2020. The roadmap focuses on advances in four soft-cost areas: (1) customer acquisition; (2) permitting, inspection, and interconnection (PII); (3) installation labor; and (4) financing. Financing cost reductions are in terms of the weighted average cost of capital (WACC) for financing PV system installations, with real-percent targets of 3.0% (residential) and 3.4% (commercial).","@context":"http://schema.org/","headline":"Non-Hardware (\"Soft\") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020","url":"https://www.osti.gov/biblio/1096122"}</script>
+    
+</head>
+<body data-baseurl="https://www.osti.gov" data-context="" data-domain="www.osti.gov" class="">
+<div id="skiptocontent"><a href="#main-body">skip to main content</a></div>
+
+
+<section id="content">
+<header>
+    <div class="header-nav ">
+        <div class="header-nav-container">
+            <div class="container d-none d-md-inline-block" style="/* float:right; */ position:absolute; right:0;">
+                <nav style="position:relative;z-index:2500;">
+    <div class="pure-menu pure-menu-horizontal small text-right">
+        <ul class="pure-menu-list">
+        
+            
+                
+                <li class="pure-menu-item"><span class="nav-user"><a href="/login" class="pure-menu-link"><span class="fa fa-user"></span> Sign In</a></span></li>
+                <li class="pure-menu-item"><span class="nav-user"><a href="/createaccount" class="pure-menu-link">Create Account</a></span></li>
+            
+            
+        
+        </ul>
+    </div>		
+</nav>
+
+            </div>
+            <div class="header-nav-content container">
+                <div class="row header-primary">
+                    <div class="col-md-5 header-primary-title">
+                        <div class="header-nav-mobile d-block d-md-none" style="position: absolute; right: 10px;">
+                            <a href="#" rel="nofollow" class="pure-button" onclick="$('.header-primary-search').toggleClass('d-none');if(!$('.header-primary-search').hasClass('d-none')){$('#search_search').focus();};return false;"><span class="fa fa-search" aria-label="Show search"></span></a>
+                            <a href="#" rel="nofollow" class="pure-button" onclick="$('.header-nav-menu').toggleClass('d-none');return false;"><span class="fa fa-bars" aria-label="Show menu"></span></a>
+                        </div>
+                        <div class="header-nav-title">
+                            <a href="/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="sprite sprite-header-title" alt="OSTI.GOV title logo" style="margin-top:0.6rem; margin-right:0.2rem;" width="220" height="44" /></a>
+                            <span class="subtitle d-none d-xl-inline-block">U.S. Department of Energy<br/>Office of Scientific and Technical Information</span>
+                        </div>
+                    </div>
+                    <div class="col-md-7 d-none d-md-block header-primary-search">
+                        <form action="/search" id="search_form" class="pure-form" method="POST" autocomplete="off">
+    <input type="hidden" id="index_search_act" name="act" value="act"/>
+    <input type="hidden" id="index_search_rows" name="rows" value=""/>
+    <input type="hidden" id="index_search_page" name="page" value=""/>
+    <input type="hidden" id="index_search_sort" name="sort" value=""/>
+    
+    <input type="hidden" id="search_journal_type" name="journal_type" value=""/>
+    <input type="hidden" id="search_data_type" name="data_type" value=""/>
+    <input type="hidden" id="search_availability" name="availability" value=""/>
+
+    <div style="padding: 0.7em 0 0.5em;"><div class="row">
+        <div class="col-11">
+            <div style="position:relative;">
+                <label class="sr-only" for="search_search">Search terms:</label>
+                <input class="pure-input-1" id="search_search" type="text" name="search" value="" placeholder="Search 3+ million Department of Energy research results">
+                <button type='button' class='close-advformoptions' aria-label="Advanced search options" title="Advanced search options" style='position: absolute; top: 7px; right: 5px; z-index: 2;cursor: pointer; background: transparent; border: 0; color:#7cb342; font-size: 1.3rem; margin-top: -0.15rem;'><span class="fa fa-caret-down" aria-hidden="true"></span></button>
+                <div id="adv-search" style="background-color:#f9f9f9; border:1px solid #444; padding:20px; position:absolute; left:0; right: 0; top: 38px; display:none; z-index:2000;">
+
+                <fieldset class="small" style="padding-bottom:0;">
+                    <legend style="padding:0px; margin-bottom:1em;">
+                        <div class="pull-right">
+                            
+                        </div>
+                        Advanced Search Options<small style="display:block;color:#999;">Advanced Search queries use a traditional Term Search.  For more info, see our <a href="/faqs#faq-270584">FAQ</a>.</small>
+                    </legend>
+
+                        <div class="adv_search-row">
+                            <label for="search_term">All Fields: </label>
+                            <input class="pure-input-1" type="text" name="term" id="search_term" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_title">Title: </label>
+                            <input class="pure-input-1" type="text" name="title" id="search_title" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_creators">Author / Contributor: </label>
+                            <input class="pure-input-1" type="text" name="creators" id="search_creators" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_doi">Digital Object Identifier (DOI): </label>
+                            <input class="pure-input-1" type="text" name="doi" id="search_doi" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_idnos">Identifier Numbers: </label>
+                            <input class="pure-input-1" type="text" name="idnos" id="search_idnos" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_pubd_from">Publication Date: </label>
+                            <div style="/* white-space: nowrap; */">
+                                <input type="text" pattern="(0[1-9]|1[012])[/](0[1-9]|[12][0-9]|3[01])[/]\d\d\d\d" id="search_pubd_from" name="pubd_from" data-toggle="tooltip" data-placement="bottom" title="" class="dateinput pure-u-1-3" value="" placeholder="MM/DD/YYYY" data-original-title="Enter date in MM/DD/YYYY format">
+                                <label for="search_pubd_until" style="margin-right:0.5rem; margin-left:0.5rem;">to</label>
+                                <input type="text" pattern="(0[1-9]|1[012])[/](0[1-9]|[12][0-9]|3[01])[/]\d\d\d\d" id="search_pubd_until" name="pubd_until" data-toggle="tooltip" data-placement="bottom" title="" class="dateinput pure-u-1-3" value="" placeholder="MM/DD/YYYY" data-original-title="Enter date in MM/DD/YYYY format">
+                            </div>
+                        </div>
+                </fieldset>
+
+                <fieldset class="small" style="padding-bottom:0; margin-top:20px;">
+                    <legend style="padding:0px; margin-bottom:1em;"><a href="#" id="search_search-moreoptions"><span id="more-options-indicator" class="fa fa-plus-squared-alt"></span> More Options ...</a></legend>
+                    <div id="more-options-container" class="hidden">
+                        <div class="adv_search-row">
+                            <label for="search_fulltext">Full Text: </label>
+                            <input class="pure-input-1" type="text" name="fulltext" id="search_fulltext" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_product_type">Resource Type: </label>
+                            <div style="position:relative;" data-jq-dropdown="#product_type_dropdown">
+                                <input class="pure-input-1" type="text" name="product_type" id="search_product_type" value="" style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;">
+                                <span style="position: absolute; top: 8px; right: 10px; z-index: 2;cursor: pointer; background: transparent; border: 0; color:#7cb342;"><span class="fa fa-caret-down"></span></span>
+                            </div>
+                            <div style="position:relative;">
+                                <div id="product_type_dropdown" class="jq-dropdown jq-dropdown-tip jq-dropdown-relative" style="width:100%;">
+                                    <div class="jq-dropdown-panel">
+                                        <div class="row" style="display:flex;">
+                                            <div class="col-lg-6 col-md-12 jqd-col">
+                                                <label class="facet-item control control-checkbox" style="white-space: nowrap;">Journal Article
+                                                    <input type="checkbox" name="product_type_option" title="Journal Article" value="Journal Article" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox" style="white-space: nowrap;">Technical Report
+                                                    <input type="checkbox" name="product_type_option" title="Technical Report" value="Technical Report" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox">Data
+                                                    <input type="checkbox" name="product_type_option" title="Data" value="Data" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox">Software
+                                                    <input type="checkbox" name="product_type_option" title="Software" value="Software" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox">Patent
+                                                    <input type="checkbox" name="product_type_option" title="Patent" value="Patent" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox" style="white-space: nowrap;">Conference / Event
+                                                    <input type="checkbox" name="product_type_option" title="Conference / Event" value="Conference" /><div class="control-indicator"></div>
+                                                </label>
+                                            </div>
+                                            <div class="col-lg-6 col-md-12 jqd-col">
+                                                <label class="facet-item control control-checkbox" style="white-space: nowrap;">Book / Monograph
+                                                    <input type="checkbox" name="product_type_option" title="Book / Monograph" value="Book" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox" style="white-space: nowrap;">Program Document
+                                                    <input type="checkbox" name="product_type_option" title="Program Document" value="Program Document" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox" style="white-space: nowrap;">Thesis / Dissertation
+                                                    <input type="checkbox" name="product_type_option" title="Thesis / Dissertation" value="Thesis/Dissertation" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox">Video / Audio
+                                                    <input type="checkbox" name="product_type_option" title="Video / Audio" value="Multimedia" /><div class="control-indicator"></div>
+                                                </label>
+                                                <label class="facet-item control control-checkbox">Miscellaneous
+                                                    <input type="checkbox" name="product_type_option" title="Miscellaneous" value="Miscellaneous" /><div class="control-indicator"></div>
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>                                
+                            </div>
+                        </div>
+                        
+                        <div class="adv_search-row">
+                            <label for="search_subject">Subject: </label>
+                            <input class="pure-input-1" type="text" name="subject" id="search_subject" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_site_code">Site: </label>
+                            <select class="pure-input-1" name="site_code" id="search_site_code">
+                                <option value="">All</option>
+                            </select>
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_research_org">Research Org: </label>
+                            <input class="pure-input-1" type="text" name="research_org" id="search_research_org" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_sponsor_org">Sponsoring Org: </label>
+                            <input class="pure-input-1" type="text" name="sponsor_org" id="search_sponsor_org" value="">
+                        </div>
+                        <div class="adv_search-row">
+                            <label for="search_updd_from">Update Date: </label>
+                            <div style="/* white-space: nowrap; */">
+                                <input type="text" pattern="(0[1-9]|1[012])[/](0[1-9]|[12][0-9]|3[01])[/]\d\d\d\d" id="search_updd_from" name="updd_from" data-toggle="tooltip" data-placement="bottom" title="" class="dateinput pure-u-1-3" value="" placeholder="MM/DD/YYYY" data-original-title="Enter date in MM/DD/YYYY format">
+                                <label for="search_updd_until" style="margin-right:0.5rem; margin-left:0.5rem;">to</label>
+                                <input type="text" pattern="(0[1-9]|1[012])[/](0[1-9]|[12][0-9]|3[01])[/]\d\d\d\d" id="search_updd_until" name="updd_until" data-toggle="tooltip" data-placement="bottom" title="" class="dateinput pure-u-1-3" value="" placeholder="MM/DD/YYYY" data-original-title="Enter date in MM/DD/YYYY format">
+                            </div>
+                        </div>
+                        <div class="adv_search-row">
+                            <label class="control control-checkbox">Limit to INIS / NSA records only 
+                                <input type="checkbox" id="search_inis_nsa" name="inis_nsa" title="Limit to INIS / NSA records only" value="true"/><div class="control-indicator"></div>
+                            </label>
+                        </div>
+                        <div class="adv_search-row">
+                            <label class="control control-checkbox">Limit to Nobel Prize winning researchers only 
+                                <input type="checkbox" id="search_nobel" name="nobel" title="Limit to Nobel Prize winning researchers only" value="true"/><div class="control-indicator"></div>
+                            </label>
+                        </div>
+                        
+                        <hr/>
+                    </div>
+                </fieldset>
+
+                <div class="text-right">
+                    <button type="submit" class="pure-button button-success" style="margin: 1px; margin-left: 5px; padding:0.5em 0.9em;"><span class="fa fa-search" aria-hidden="true"></span> Search</button>
+                </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-1">
+            <button type="submit" class="pure-input-1 pure-button button-search" id="search_submit" aria-label="Submit" title="Submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+        </div>
+
+    </div></div>
+</form>
+
+<form action="/search" id="state_form" method="POST" autocomplete="off">
+    <input type="hidden" id="state_act" name="act" value="act"/>
+    <input type="hidden" id="state_rows" name="rows" value="10"/>
+    <input type="hidden" id="state_page" name="page" value=""/>
+    <input type="hidden" id="state_sort" name="sort" value=""/>
+    <input type="hidden" id="state_return_type" name="return_type" value=""/>
+    <input type="hidden" id="state_search" name="search" value=""/>
+    <input type="hidden" id="state_term" name="term" value=""/>
+    <input type="hidden" id="state_title" name="title" value=""/>
+    <input type="hidden" id="state_creators" name="creators" value=""/>
+    <input type="hidden" id="state_doi" name="doi" value=""/>
+    <input type="hidden" id="state_idnos" name="idnos" value=""/>
+    <input type="hidden" id="state_pubd_from" name="pubd_from" value=""/>
+    <input type="hidden" id="state_pubd_until" name="pubd_until" value=""/>
+    <input type="hidden" id="state_fulltext" name="fulltext" value=""/>
+    <input type="hidden" id="state_doe_contract_number" name="doe_contract_number" value=""/>
+    <input type="hidden" id="state_product_type" name="product_type" value=""/>
+    <input type="hidden" id="state_journal_type" name="journal_type" value=""/>
+    <input type="hidden" id="state_data_type" name="data_type" value=""/>
+    <input type="hidden" id="state_software_type" name="software_type" value=""/>
+    <input type="hidden" id="state_software_license" name="software_license" value=""/>
+    <input type="hidden" id="state_subject" name="subject" value=""/>
+    <input type="hidden" id="state_site_code" name="site_code" value=""/>
+    <input type="hidden" id="state_research_org" name="research_org" value=""/>
+    <input type="hidden" id="state_sponsor_org" name="sponsor_org" value=""/>
+    <input type="hidden" id="state_updd_from" name="updd_from" value=""/>
+    <input type="hidden" id="state_updd_until" name="updd_until" value=""/>
+    <input type="hidden" id="state_availability" name="availability" value=""/>
+    <input type="hidden" id="state_inis_nsa" name="inis_nsa" value=""/>
+    <input type="hidden" id="state_nobel" name="nobel" value=""/>
+    <input type="hidden" id="state_openaccess" name="openaccess" value=""/>
+    <button type="submit" style="display:none;" aria-hidden="true" title="Submit"/>
+</form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-nav-menu d-none d-md-block">
+            <div class="container" style="padding-left:5px; padding-right:5px;">
+                <nav class="text-center">
+                    <div class="pure-menu pure-menu-horizontal">
+                        <ul class="pure-menu-list nav-primary clearfix d-block" style="display:inline-block !important;">
+                            <li class="pure-menu-item"><a href="/submit-sti" class="pure-menu-link"><span class="fa fa-sign-in"></span> Submit<span class="d-sm-inline d-md-none"> Research Results</span></a></li>
+                            <li class="pure-menu-item"><a href="/search-tools" class="pure-menu-link"><span class="fa fa-search"></span> Search<span class="d-sm-inline d-md-none d-lg-inline"> Tools</span></a></li>
+                            <li class="pure-menu-item"><a href="/public-access" class="pure-menu-link"><span class="fa fa-unlock"></span> <span class="d-sm-inline d-md-none d-lg-inline">Public </span>Access<span class="d-sm-inline d-md-none"> Policy</span></a></li>
+                            <li class="pure-menu-item"><a href="/persistent-identifier-services-developer-tools" class="pure-menu-link"><span class="fa fa-database"></span> PID<span class="d-sm-none d-md-inline d-lg-none">s</span><span class="d-sm-inline d-md-none d-lg-inline"> Services</span><span class="d-sm-inline d-md-none d-xl-inline"> &amp; Dev Tools</span></a></li>
+                            <li class="pure-menu-item"><a href="/about" class="pure-menu-link"><span class="fa fa-info"></span> About</a></li>
+                            <li class="pure-menu-item"><a href="/faqs" class="pure-menu-link"><span class="fa fa-question"></span> FAQs</a></li>
+                            <li class="pure-menu-item" style="border-right:0;"><a href="/news" class="pure-menu-link"><span class="fa fa-newspaper-o"></span> News</a></li>
+                            
+                                
+                                    
+                                    <li class="pure-menu-item d-block d-md-none"><a href="/login" class="pure-menu-link"><span class="fa fa-user"></span> Sign In</a></li>
+                                    <li class="pure-menu-item d-block d-md-none"><a href="/createaccount" class="pure-menu-link">Create Account</a></li>
+                                
+                                
+                            
+                        </ul>
+                    </div>		
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="body-breadcrumb container clearfix">
+    
+    <nav class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <a itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item" href="/"><span itemprop="item"><span itemprop="name">OSTI.GOV</span></span><meta itemprop="position" content="1" /></a>
+                
+                
+                <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item text-muted active"><span itemprop="item"><span itemprop="name">Technical Report: <em>Non-Hardware ("Soft") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020</em></span></span><meta itemprop="position" content="2" /></span>
+    </nav>
+    
+</div>
+
+<div id="main-body" class="body-content container">
+                
+        <div itemprop="mainEntity" itemscope itemtype="http://schema.org/Report" class="biblio-page" data-ostiid="1096122" data-doi="10.2172/1096122" data-type="" data-avail="avail">
+
+        <section id="section-details" class="tab-content-sec osti-curated biblio-section section-scroll" style="scroll-margin-top:10px;">
+            
+            <h1 style="font-size: 1.9rem; margin-bottom:0.5rem; margin-top:1.8rem; font-weight:500;"><span style="font-weight:normal;display:none;">Title: </span><span itemprop="name headline">Non-Hardware ("Soft") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020</span></h1>
+
+            <div class="row mb-2">
+                <div class="col-12 small" style="line-height:1.5rem;">
+                    <span class="biblio-refs-type-badge text-muted">Technical Report</span>
+                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                    <time itemprop="datePublished" datetime="Thu Aug 01 00:00:00 EDT 2013">Thu Aug 01 00:00:00 EDT 2013</time>
+                    
+                    <div style="margin-top: 0.4rem;">
+                        <span class="text-muted" style="padding-right:0.5em;"> DOI:</span><a href="https://doi.org/10.2172/1096122" target="_blank" rel="noopener" title="Document DOI URL" class="doi-link" data-ostiid="1096122" data-product-type="Technical Report" data-product-subtype="" style="word-wrap: break-word; padding-top:1em; padding-bottom:1em;">https://doi.org/10.2172/1096122</a><span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                        <span class="text-muted" style="padding-right:0.5em;">OSTI ID:</span>1096122
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-2" style="margin-bottom:1.5rem;">
+                <div class="col-12 small" style="line-height:1.4rem;">
+                    
+                        
+                            
+                            
+                            
+                                
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+
+
+
+    <span class="author-link"><a href="/search/author:&quot;Ardani, K.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Ardani, K.</span></a>; </span>
+    
+
+    <span class="author-link"><a href="/search/author:&quot;Seif, D.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Seif, D.</span></a>; </span>
+    
+
+    <span class="author-link"><a href="/search/author:&quot;Margolis, R.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Margolis, R.</span></a>; </span>
+    
+
+    <span class="author-link"><a href="/search/author:&quot;Morris, J.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Morris, J.</span></a>; </span>
+    
+
+    <span class="author-link"><a href="/search/author:&quot;Davidson, C.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Davidson, C.</span></a>; </span>
+    
+
+    <span class="author-link"><a href="/search/author:&quot;Truitt, S.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Truitt, S.</span></a>; </span>
+    
+
+    <span class="author-link"><a href="/search/author:&quot;Torbert, R.&quot;" class="biblio-detail-author-link"><span class="author" itemprop="author">Torbert, R.</span></a></span>
+    
+
+
+
+
+
+                                
+                                
+                            
+                        
+                        
+                    
+                </div>
+            </div>
+            <div class="row"><div id="metadata-description" class="col-sm-12 mb-2 p-trunc-3">
+                <p class="description mb-0 mt-0" id="citation-abstract" itemprop="description">
+                    The objective of this analysis is to roadmap the cost reductions and innovations necessary to achieve the U.S. Department of Energy (DOE) SunShot Initiative's total soft-cost targets by 2020. The roadmap focuses on advances in four soft-cost areas: (1) customer acquisition; (2) permitting, inspection, and interconnection (PII); (3) installation labor; and (4) financing. Financing cost reductions are in terms of the weighted average cost of capital (WACC) for financing PV system installations, with real-percent targets of 3.0% (residential) and 3.4% (commercial).
+                </p>
+            </div></div>
+        </section>
+
+        
+        <div id="biblio-nav" class="row mb-2 d-md-block position-sticky d-print-none">
+    <div class="container">
+        <div class="row small align-flex-end" id="navbar-top">
+            <div class="col-xs-12 col-lg-6" style="padding:0;padding-top:0.5rem;">
+                <div style="display:inline-block;">
+                        <a style="margin:0.5em;" class="pure-button button-success fulltext-link" data-ostiid="1096122" data-product-type="Technical Report" data-product-subtype="" href="/servlets/purl/1096122" target="_blank" rel="noopener"><span class="fa fa-download" style="margin-right:0.25em;"></span>  View Technical Report</a></div>
+                </div>
+            <div class="col-xs-12 col-lg-6 text-right" style="padding:0;padding-top:0.5rem;">
+                <div class="text-left d-inline-block p-relative">
+                    <a href="#" data-jq-dropdown="#biblio-cite-options" style="padding:1em; white-space:nowrap;" data-vertical-offset="15">Cite <span class="fa fa-angle-down" style="color:#aaa;" aria-hidden="true"></span></a>
+                    <div id="biblio-cite-options" class="jq-dropdown jq-dropdown-tip jq-dropdown-relative" style="display: none; left: 0px; top: 16px;">
+                        <div class="jq-dropdown-menu xs-shift-left-9" style="padding:1em;min-width:400px;">
+                            <div class="biblio-cite" style="padding: 1rem;">
+    
+    <h2 class="title-citeformat mt-0 mb-0-5">Citation Formats</h2>
+    
+    <div class="row mb-2"><div class="col-12">
+        <ul class="nav nav-tabs nav-tabs-cite small clearfix">
+          <li class="active"><a href="#biblio-cite-mla" class="tab-nav tab-nav-cite" data-tab="cite">MLA</a></li>
+          <li><a href="#biblio-cite-apa" class="tab-nav tab-nav-cite" data-tab="cite">APA</a></li>
+          <li><a href="#biblio-cite-chi" class="tab-nav tab-nav-cite" data-tab="cite">Chicago</a></li>
+          <li><a href="#biblio-cite-bib" class="tab-nav tab-nav-cite" data-tab="cite">BibTeX</a></li>
+        </ul>
+    </div></div>
+    <div class="row"><div class="col-12">
+            
+        <section id="biblio-cite-mla" class="tab-content tab-content-cite active" data-tab="cite">
+            <div class="small">
+                <code id="biblio-cite-mla-code" style="display:block; max-height:150px; overflow:scroll; overflow-x:hidden;">
+                    Ardani, K., Seif, D., Margolis, R., Morris, J., Davidson, C., Truitt, S., and Torbert, R. <i>Non-Hardware ("Soft") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020</i>.  United States: N. p., 2013. 
+        Web.  doi:10.2172/1096122. </code>
+            </div>
+            <div class="text-right small" style="margin-top:1em;"><a href="#" class="clip-cite-bib" data-clipboard-target="biblio-cite-mla-code"><span class="fa fa-files-o"></span> Copy to clipboard</a></div>
+        </section>
+            
+        <section id="biblio-cite-apa" class="tab-content tab-content-cite" data-tab="cite">
+            <div class="small">
+                <code id="biblio-cite-apa-code" style="display:block; max-height:150px; overflow:scroll; overflow-x:hidden;">
+                    Ardani, K., Seif, D., Margolis, R., Morris, J., Davidson, C., Truitt, S., &amp; Torbert, R. <i>Non-Hardware ("Soft") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020</i>.  United States.  https://doi.org/10.2172/1096122 </code>
+            </div>
+            <div class="text-right small" style="margin-top:1em;"><a href="#" class="clip-cite-bib" data-clipboard-target="biblio-cite-apa-code"><span class="fa fa-files-o"></span> Copy to clipboard</a></div>
+        </section>
+                
+        <section id="biblio-cite-chi" class="tab-content tab-content-cite" data-tab="cite">
+            <div class="small">
+                <code id="biblio-cite-chi-code" style="display:block; max-height:150px; overflow:scroll; overflow-x:hidden;">
+                    Ardani, K., Seif, D., Margolis, R., Morris, J., Davidson, C., Truitt, S., and Torbert, R. 2013.  
+        "Non-Hardware ("Soft") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020".  United States.  https://doi.org/10.2172/1096122.  https://www.osti.gov/servlets/purl/1096122. </code>
+            </div>
+            <div class="text-right small" style="margin-top:1em;"><a href="#" class="clip-cite-bib" data-clipboard-target="biblio-cite-chi-code"><span class="fa fa-files-o"></span> Copy to clipboard</a></div>
+        </section>
+
+        <section id="biblio-cite-bib" class="tab-content tab-content-cite" data-tab="cite">
+            <div class="small">
+                <code id="biblio-cite-bib-code" style="display:block; max-height:150px; overflow:scroll; overflow-x:hidden;">
+                    
+@article{osti_1096122,<br/>
+  title        = {Non-Hardware ("Soft") Cost-Reduction Roadmap for Residential and Small Commercial Solar Photovoltaics, 2013-2020},<br/>
+  author       = {Ardani, K. and Seif, D. and Margolis, R. and Morris, J. and Davidson, C. and Truitt, S. and Torbert, R.},<br/>
+  abstractNote = {The objective of this analysis is to roadmap the cost reductions and innovations necessary to achieve the U.S. Department of Energy (DOE) SunShot Initiative's total soft-cost targets by 2020. The roadmap focuses on advances in four soft-cost areas: (1) customer acquisition; (2) permitting, inspection, and interconnection (PII); (3) installation labor; and (4) financing. Financing cost reductions are in terms of the weighted average cost of capital (WACC) for financing PV system installations, with real-percent targets of 3.0% (residential) and 3.4% (commercial).},<br/>
+  doi          = {10.2172/1096122},<br/>
+  url          = {https://www.osti.gov/biblio/1096122},
+  journal      = {},<br/>number       = ,<br/>
+  volume       = ,<br/>
+  place        = {United States},<br/>
+  year         = {Thu Aug 01 00:00:00 EDT 2013},<br/>
+  month        = {Thu Aug 01 00:00:00 EDT 2013}<br/>
+}
+    </code>
+            </div>
+            <div class="text-right small" style="margin-top:1em;"><a href="#" class="clip-cite-bib" data-clipboard-target="biblio-cite-bib-code"><span class="fa fa-files-o"></span> Copy to clipboard</a></div>
+        </section>
+            
+    </div></div>
+
+    
+    
+</div>
+</div>
+                    </div>
+                </div>
+                <div class="text-left d-inline-block p-relative">
+                    <a href="#" data-jq-dropdown="#biblio-save-export" style="padding:1em; white-space:nowrap;" data-vertical-offset="15" class="">Export <span class="fa fa-angle-down" style="color:#aaa;" aria-hidden="true"></span></a>
+                    <div id="biblio-save-export" class="jq-dropdown jq-dropdown-tip jq-dropdown-relative" style="display: none; left: 0px; top: 16px;">
+                        <ul class="jq-dropdown-menu" style="padding:0.5em; line-height: 1em;">
+                            <li><a href="#" class="export-link" data-export="biblio" data-ostiid="1096122" data-format="enw" rel="nofollow">Endnote</a></li>
+                            <li><a href="#" class="export-link" data-export="biblio" data-ostiid="1096122" data-format="ris" rel="nofollow">RIS</a></li>
+                            <li><a href="#" class="export-link" data-export="biblio" data-ostiid="1096122" data-format="csv" rel="nofollow">CSV/Excel</a></li>
+                            <li><a href="#" class="export-link" data-export="biblio" data-ostiid="1096122" data-format="xml" rel="nofollow">XML</a></li>
+                            <li><a href="#" class="export-link" data-export="biblio" data-ostiid="1096122" data-format="json" rel="nofollow">JSON</a></li>
+                        </ul>
+                    </div>            
+                </div>
+                <div class="text-left d-inline-block p-relative">
+                    <a href="#" data-jq-dropdown="#biblio-save-share" style="padding:1em; white-space:nowrap;" data-vertical-offset="15" class="">Share <span class="fa fa-angle-down" style="color:#aaa;" aria-hidden="true"></span></a>
+                    <div id="biblio-save-share" class="jq-dropdown jq-dropdown-tip jq-dropdown-relative" style="display: none; left: 0px; top: 16px;">
+                        <ul class="jq-dropdown-menu" style="padding:0.5em; line-height: 1em;">
+                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.osti.gov/biblio/1096122" target="_blank" rel="noopener" class="pure-menu-link social"><span class="fa fa-fw fa-facebook" style=""></span> Facebook</a></li>
+                            <li><a href="https://twitter.com/home?status=DOE%20Research%20from%20OSTI.GOV%3A%20https%3A//www.osti.gov/biblio/1096122" target="_blank" rel="noopener" class="pure-menu-link social"><span class="fa fa-fw fa-twitter" style=""></span> Twitter</a></li>
+                            <li><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.osti.gov/biblio/1096122&title=DOE%20Research%20from%20OSTI.GOV&summary=&source=" target="_blank" rel="noopener" class="pure-menu-link social"><span class="fa fa-fw fa-linkedin" style=""></span> LinkedIn</a></li>
+                            <li><a href="mailto:?subject=DOE%20Research%20from%20OSTI.GOV&body=https%3A//www.osti.gov/biblio/1096122" class="pure-menu-link social"><span class="fa fa-fw fa-envelope" style=""></span> Email</a></li>
+                        </ul>
+                    </div>            
+                </div>
+                <div class="text-left d-inline-block p-relative">
+                    <a href="#" data-jq-dropdown="#biblio-save-lib" style="padding:1em; white-space:nowrap;" data-vertical-offset="15" class="">Save <span class="fa fa-angle-down" style="color:#aaa;" aria-hidden="true"></span></a>
+                            <div id="biblio-save-lib" class="jq-dropdown jq-dropdown-tip jq-dropdown-relative" style="display: none; left: 0px; top: 16px;">
+                                <div class="jq-dropdown-panel xs-shift-left-9" style="padding:1rem;">
+                                    You must <a class="" href="/login?callback=biblio">Sign In</a> or <a href="/createaccount">Create an Account</a> in order to save documents to your library.
+                                </div>
+                            </div>
+                        </div>
+                <div class="text-left d-none d-sm-inline-block p-relative">
+                    <a href="javascript:window.print();" style="padding:1em; white-space:nowrap;" class="">Print <span class="fa fa-fw fa-print" style="color:#aaa;" aria-hidden="true"></span></a></span></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12" style="padding:0;">
+                <div id="navbar" class="row" style="border: 1px solid #ddd;">
+                    <div class="navbar-item col-auto col-sm"><a href="#section-details" data-scroll="section-details" class="navbar-item-a small"><span class="d-inline-block d-sm-none" style="width:1em;" aria-hidden="true"></span><span class="d-none d-sm-inline">Details</span><span class="d-inline d-sm-none fa fa-angle-up"></span></a></div>
+                    <div class="navbar-item col"><a href="#section-similar" data-scroll="section-similar" class="navbar-item-a small">Similar<span class="d-none d-md-inline"> Records / Subjects</span><span class="d-inline-block d-sm-none" style="width:1em;" aria-hidden="true"></span></a></div></div>
+            </div>
+        </div>
+    </div>
+    <div class="progress-container">
+        <div class="progress-bar" id="nav-progress-bar"></div>
+    </div>        
+</div>
+
+
+        
+        <section id="section-metadata" class="tab-content-sec osti-curated" style="scroll-margin-top:110px;">
+            <div class="row">
+                <div class="col-md-8 biblio-summary biblio-summary-right pl-2" style="border-right:0;border-left:0;">
+                    
+                        
+                        <div class="alert alert-success">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            <p style="margin:0;">
+                                You are accessing a document from the Department of Energy's (DOE) <a href="//www.osti.gov">OSTI.GOV</a>.
+                                This site is a product of <a href="//www.energy.gov" target="_blank">DOE's</a> Office of Scientific and Technical Information (OSTI) and is provided as a public service.
+                                <br/><br/>
+                                Visit <a href="//www.osti.gov/search-tools" target="_blank">OSTI</a> to utilize additional information resources in energy science and technology.
+                            </p>
+                        </div>			
+                    
+                    <div class="biblio-detail">
+
+    <dl class="dl-horizontal small clearfix">
+            <dt>Research Organization: <span class="infotip-show-hidden d-none"></span></dt>
+            <dd itemprop="sourceOrganization">National Renewable Energy Lab. (NREL), Golden, CO (United States)</dd>
+        </dl>
+    <dl class="dl-horizontal small clearfix">
+            <dt>Sponsoring Organization: <span class="infotip-show-hidden d-none"></span></dt>
+            <dd itemprop="sourceOrganization">USDOE Office of Energy Efficiency and Renewable Energy Solar Energy Technologies Program</dd>
+        </dl>
+    <dl class="dl-horizontal small clearfix">
+            <dt>DOE Contract Number:<span class="infotip-show-hidden d-none"></span></dt>
+            <dd>AC36-08GO28308</dd>
+        </dl>
+    <dl class="dl-horizontal small clearfix">
+        <dt>OSTI ID: <span class="infotip-show-hidden d-none"></span></dt>
+        <dd>1096122</dd>
+    </dl>
+    <dl class="dl-horizontal small clearfix">
+                <dt>Report Number(s): <span class="infotip-show-hidden d-none"></span></dt>
+                <dd>NREL/TP-7A40-59155</dd>
+            </dl>
+        <dl class="dl-horizontal small clearfix">
+            <dt>Country of Publication: <span class="infotip-show-hidden d-none"></span></dt>
+            <dd>United States</dd>
+        </dl>
+    <dl class="dl-horizontal small clearfix">
+            <dt>Language: <span class="infotip-show-hidden d-none"></span></dt>
+            <dd>English</dd>
+        </dl>
+    </div>
+
+                </div>
+                
+            </div> 
+        </section>
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        <hr class="mt-2 mb-2"/>
+        <section id="section-similar" class="tab-content-sec osti-curated biblio-section section-scroll" style="scroll-margin-top:110px;">
+            <div class="row">
+                <div class="col-8" style="padding-right:40px;">
+                    <h2 class="abstract">Similar Records</h2>
+                    <div class="" style="line-height:1.6rem;">
+                        
+                        
+                            
+                                
+                                <a href="/biblio/1172717" target="_blank">Benchmarking Non-Hardware Balance-of-System (Soft) Costs for U.S. Photovoltaic Systems Using a Bottom-Up Approach and Installer Survey</a>
+                                <div class="small" style="line-height:1.4rem;">
+                                    Technical Report
+                                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                                    Thu Nov 01 00:00:00 EDT 2012
+                                    
+                                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                                    <span class="text-muted" style="padding-right:0.5em;">OSTI ID:</span>1096122
+                                </div>
+                                
+                                        <div class="small" style="line-height:1.4rem;">
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Ardani, Kristen&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Ardani, Kristen; </span></a></span>
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Margolis, Robert&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Margolis, Robert; </span></a></span>
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Feldman, David&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Feldman, David; </span></a></span>
+                                            
+                                            <span class="text-muted">+3 more</span>
+                                        </div>
+                                
+                                                
+                                
+                            
+                        
+                            
+                                <hr/>
+                                <a href="/biblio/1107461" target="_blank">Benchmarking Non-Hardware Balance-of-System (Soft) Costs for U.S. Photovoltaic Systems, Using a Bottom-Up Approach and Installer Survey - Second Edition</a>
+                                <div class="small" style="line-height:1.4rem;">
+                                    Technical Report
+                                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                                    Tue Oct 01 00:00:00 EDT 2013
+                                    
+                                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                                    <span class="text-muted" style="padding-right:0.5em;">OSTI ID:</span>1096122
+                                </div>
+                                
+                                        <div class="small" style="line-height:1.4rem;">
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Friedman, B.&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Friedman, B.; </span></a></span>
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Ardani, K.&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Ardani, K.; </span></a></span>
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Feldman, D.&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Feldman, D.; </span></a></span>
+                                            
+                                            <span class="text-muted">+3 more</span>
+                                        </div>
+                                
+                                                
+                                
+                            
+                        
+                            
+                                <hr/>
+                                <a href="/biblio/1419627" target="_blank">Cost-Reduction Roadmap for Residential Solar Photovoltaics (PV), 2017-2030</a>
+                                <div class="small" style="line-height:1.4rem;">
+                                    Technical Report
+                                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                                    Wed Jan 03 00:00:00 EST 2018
+                                    
+                                    <span style="padding-left: 0.75rem;padding-right: 0.75rem;">&middot;</span>
+                                    <span class="text-muted" style="padding-right:0.5em;">OSTI ID:</span>1096122
+                                </div>
+                                
+                                        <div class="small" style="line-height:1.4rem;">
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Cook, Jeffrey J.&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Cook, Jeffrey J.; </span></a></span>
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Ardani, Kristen B.&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Ardani, Kristen B.; </span></a></span>
+                                            
+                                                
+                                                <span class="author-link"><a href="/search/author:&quot;Margolis, Robert M.&quot;" class="btn btn-link btn-sm"><span class="author" itemprop="author">Margolis, Robert M.; </span></a></span>
+                                            
+                                            <span class="text-muted">+1 more</span>
+                                        </div>
+                                
+                                                
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                                    
+                    </div>
+                </div>
+                <div class="col-4" style="padding-left:40px; border-left:1px solid #ddd;">
+                    <h2 class="abstract">Related Subjects</h2>
+                    <div class="small" style="line-height:1.6rem;">
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:14 SOLAR ENERGY">14 SOLAR ENERGY</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:SOFT COSTS">SOFT COSTS</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:NREL">NREL</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:NATIONAL RENEWABLE ENERGY DEPARTMENT">NATIONAL RENEWABLE ENERGY DEPARTMENT</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:DOE">DOE</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:SUNSHOT INITIATIVE">SUNSHOT INITIATIVE</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:RESIDENTIAL">RESIDENTIAL</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:COMMERCIAL">COMMERCIAL</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:PHOTOVOLTAICS">PHOTOVOLTAICS</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:PV">PV</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:NON HARDWARE COSTS">NON-HARDWARE COSTS</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:Solar Energy Photovoltaics">Solar Energy - Photovoltaics</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:Energy Analysis">Energy Analysis</a><br/>
+                                    
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <a href="/search/subject:Integrated Applications">Integrated Applications</a><br/>
+                                    
+                                
+                            
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    
+
+
+
+
+
+
+
+</div>
+</section>
+
+<footer class="" style="background-color:#f9f9f9; /* padding-top: 0.5rem; */">
+
+	<div class="footer-minor">
+		<div class="container">
+                        <hr class="footer-separator" />
+			<div class="text-center" style="margin-top:1.25rem;">
+                            <div class="pure-menu pure-menu-horizontal">
+                                <ul class="pure-menu-list" id="footer-org-menu">
+                                    <li class="pure-menu-item d-block d-sm-inline-block">
+                                        <a href="https://energy.gov" target="_blank" rel="noopener noreferrer">
+                                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="sprite sprite-footer-us-doe-min" alt="U.S. Department of Energy" />
+                                        </a>
+                                    </li>
+                                    <li class="pure-menu-item d-block d-sm-inline-block">
+                                        <a href="https://www.energy.gov/science/office-science" target="_blank" rel="noopener noreferrer">
+                                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="sprite sprite-footer-office-of-science-min" alt="Office of Science" />
+                                        </a>
+                                    </li>
+                                    <li class="pure-menu-item d-block d-sm-inline-block">
+                                        <a href="/">
+                                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="sprite sprite-footer-osti-min" alt="Office of Scientific and Technical Information" />
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+			</div>
+			<div class="text-center small" style="margin-top:0.5em;margin-bottom:2.0rem;">
+			
+                            <div class="pure-menu pure-menu-horizontal">
+                                <ul class="pure-menu-list">
+                                <li class="pure-menu-item"><a href="/disclaim" class="pure-menu-link"><span class="fa fa-institution"></span> Website Policies <span class="d-none d-sm-inline" style="color:#737373;">/ Important Links</span></a></li>
+                                <li class="pure-menu-item"><a href="/contact" class="pure-menu-link"><span class="fa fa-comments-o"></span> Contact Us</a></li>
+                                <li class="d-block d-md-none mb-1"></li>
+                                <li class="pure-menu-item"><a href="https://doe.responsibledisclosure.com/hc/en-us" target="_blank" class="pure-menu-link">Vulnerability Disclosure Program</a></li>
+                                <li class="d-block d-lg-none mb-1"></li>
+                                <li class="pure-menu-item"><a href="https://www.facebook.com/ostigov" target="_blank" rel="noopener noreferrer" class="pure-menu-link social"><span class="fa fa-facebook"></span><span class="sr-only">Facebook</span></a></li>
+                                <li class="pure-menu-item"><a href="https://twitter.com/OSTIgov" target="_blank" rel="noopener noreferrer" class="pure-menu-link social"><span class="fa fa-twitter"></span><span class="sr-only">Twitter</span></a></li>
+                                <li class="pure-menu-item"><a href="https://www.youtube.com/user/ostigov" target="_blank" rel="noopener noreferrer" class="pure-menu-link social"><span class="fa fa-youtube-play"></span><span class="sr-only">YouTube</span></a></li>
+                                </ul>
+                            </div>
+				
+			</div>
+		</div>	
+	</div>
+
+</footer>
+
+
+    <link href="/css/ostigov.fonts.240918.2212.css" rel="stylesheet">
+    
+
+<script src="/js/ostigov.240918.2212.js"></script><noscript></noscript>
+
+
+<script defer src="/js/ostigov.biblio.240918.2212.js"></script><noscript></noscript>
+<script async type="text/javascript" src="/js/Universal-Federated-Analytics-Min.js?agency=DOE" id="_fed_an_ua_tag"></script><noscript></noscript>
+</body>
+<!-- OSTI.GOV v.240918.2212 -->
+</html>
+
+    
+
+

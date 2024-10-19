@@ -1,0 +1,3334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<!DOCTYPE html>
+
+
+
+<html lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>FCAA related news, events and books (FCAA-volume 16-3-2013)</title>
+        <!-- Preload Montserrat Fonts -->
+        <link rel="preload" href="/assets/fonts/montserrat-v15-latin-ext_cyrillic-ext-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/assets/fonts/montserrat-v25-latin-ext_cyrillic-ext-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/assets/fonts/montserrat-v15-latin-ext_cyrillic-ext-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+        <!-- Preload Merriweather Fonts -->
+        <link rel="preload" href="/assets/fonts/merriweather-v30-latin-ext_cyrillic-ext-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/assets/fonts/merriweather-v22-latin-ext_cyrillic-ext-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/assets/fonts/merriweather-v22-latin-ext_cyrillic-ext-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+        <!-- Preload Font Awesome -->
+        <link rel="preload" href="/assets/stylesheets/fontawesome.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+        
+            <link rel="stylesheet" media="all" href='/assets/stylesheets/cb40c1874618c593ae7b1ad6dd2f5013-bootstrap.purged.min.css' />
+        
+
+        <link rel="stylesheet" media="all" href='/assets/stylesheets/cccbbf24a84d7a9459fa190ca560123a-main.min.css' />
+        <link rel="stylesheet" media="all" href='/assets/stylesheets/13761c60ba5201f465803f3005ccd7ef-fontawesome-codes.css' />
+        <link rel="shortcut icon" type="image/x-icon" href='/assets/images/ec7d7606b4e2f3f921b5e1700948efb6-favicon.ico' />
+
+        
+
+        
+            <link rel="alternate" hreflang="en" href="https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html?lang=en" />
+        
+            <link rel="alternate" hreflang="de" href="https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html?lang=de" />
+        
+            <link rel="alternate" hreflang="x-default" href="https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html" />
+        
+
+        <!--[if le IE 11]>
+        <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/2568c6be22833eac0f750ff472b3caf0-polyfill.min.js'></script>
+        <![endif]-->
+
+        <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+        <meta name="dcterms.rightsHolder" content="Walter de Gruyter GmbH">
+        <meta name="dcterms.rights" content="De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.">
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        <meta name="google" content="notranslate" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <meta name="description" content="Article FCAA related news, events and books (FCAA-volume 16-3-2013) was published on September 1, 2013 in the journal Fractional Calculus and Applied Analysis (volume 16, issue 3)."/>
+
+        <meta property="og:url" content="https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html"/><meta property="og:site_name" content="De Gruyter"/><meta property="og:title" content="FCAA related news, events and books (FCAA-volume 16-3-2013)"/><meta property="og:type" content="article"/><meta property="og:locale" content="en"/><meta property="og:image" content="https://www.degruyter.com/document/cover/journal_key/FCA/product"/><meta property="og:image:type" content="image/jpeg"/><meta property="og:description" content="Article FCAA related news, events and books (FCAA-volume 16-3-2013) was published on September 1, 2013 in the journal Fractional Calculus and Applied Analysis (volume 16, issue 3)."/><meta property="og:locale:alternate" content="de"/><meta property="article:author" content="Virginia Kiryakova"/><meta property="article:published_time" content="2013-09-01"/><meta property="article:section" content="Fractional Calculus and Applied Analysis"/>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <meta name="citation_firstpage" content="507" />
+    
+    
+        <meta name="citation_lastpage" content="510" />
+    
+    
+        <meta name="citation_issue" content="3" />
+    
+    
+        <meta name="citation_issn" content="1314-2224" />
+    
+    
+        <meta name="citation_language" content='en' />
+    
+    
+        <meta name="citation_volume" content="16" />
+    
+    
+        <meta name="citation_publisher" content='De Gruyter' />
+    
+    
+        <meta name="citation_pdf_url" content="https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/pdf" />
+    
+    
+    
+        <meta name="citation_author" content="Virginia Kiryakova" />
+    
+    <meta name="citation_title" content='FCAA related news, events and books (FCAA-volume 16-3-2013)' />
+    <meta name="citation_xml_url" content="https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/xml" />
+    <meta name="citation_journal_title" content="Fractional Calculus and Applied Analysis" />
+    
+        <meta name="citation_publication_date" content='2013/09/01' />
+    
+    <meta name="citation_doi" content="10.2478/s13540-013-0032-9" />
+    
+        <meta name="citation_fulltext_world_readable" content="" />
+    
+
+
+
+        
+            <script type="application/ld+json">{"author":[{"@type":"Person","name":"Virginia Kiryakova"}],"editor":[],"audience":null,"datePublished":"2013-09-01","headline":"","keywords":"","isAccessibleForFree":true,"publisher":{"@type":"Organization","name":"De Gruyter"},"@context":"https://schema.org","@type":"Article","name":"FCAA related news, events and books (FCAA-volume 16-3-2013)","image":"https://www.degruyter.com/document/cover/journal_key/FCA/thumbnail","url":"https://doi.org/10.2478/s13540-013-0032-9"}</script>
+        
+        <script nonce="pzUXjbl6CI/EDMhEv7Fblg==">
+            // Define dataLayer and the gtag function.
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            function getCookieValue(name){
+                const regex = new RegExp(`(^| )${name}=([^;]+)`)
+                const match = document.cookie.match(regex)
+                if (match) {
+                    return match[2]
+                }
+            }
+            // Set default consent to 'denied' as a placeholder
+            // Determine actual values based on your own requirements
+            const acceptCookies = getCookieValue('acceptcookies') === "true";
+            const defaultSettings = (acceptCookies) => ({
+                'ad_storage': acceptCookies ? 'granted': 'denied',
+                'analytics_storage': acceptCookies ? 'granted' : 'denied',
+                'ad_user_data': acceptCookies ? 'granted': 'denied',
+                'ad_personalization': acceptCookies ? 'granted' : 'denied',
+            })
+            gtag('consent', 'default', defaultSettings(acceptCookies))
+        </script>
+    </head>
+
+    
+        <body data-pagecategory="article" data-foxydomain="checkout.degruyter.com">
+    
+
+    <a href="#document-main-content" class="visually-hidden-focusable" id="skip-to-content">Skip to content</a>
+
+    
+    
+        
+            
+                <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMNKTQ5&gtm_auth=JraP3pn8iVUkqNIGYl03AA&gtm_preview=env-2&subjects=MT%7CMT-04%7CMT-05%7CMT-11&publisherCode=DEG&license=open-access&publisher=De+Gruyter&contentName=FCAA+related+news%2C+events+and+books+%28FCAA-volume+16-3-2013%29&doi=10.2478%2Fs13540-013-0032-9&parentIdentifier=FCA&parentName=Fractional+Calculus+and+Applied+Analysis&languages=en" title="Google tag manager iframe" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            
+        
+    
+    
+
+    
+    
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header id="mainHeader">
+    
+    
+    <div class="position-relative d-none d-md-block z-2">
+        
+        <ajax-frame src="/login/banner" class="authBannerDesktop">
+            
+<div class="authBanner d-flex flex-wrap invisible auth-banner-warning">
+
+    
+        <span class="fa fas fa-attention text-warning d-none d-md-inline"></span>
+        <span>Should you have <strong>institutional access?</strong></span>
+        <a href="/how-access-works">Here&#x27;s how to get it ...</a>
+    
+
+</div>
+
+        </ajax-frame>
+        
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark dg-navbar px-md-4 pt-3  align-items-center" aria-label="site">
+            
+<a id="homepageLogoLink" class="ga_homepage_logo navbar-brand mx-0 mx-lg-3 pe-4 py-0" href="/" aria-label='De Gruyter logo with link to home page'>
+    
+    
+        <img src='/assets/images/84ad0073fb7b59ebc46b966dbf03a4bb-dg-logo-nav-search.svg' width="32px" height="64px" class="d-none d-sm-inline-block" alt="De Gruyter" />
+    
+</a>
+            <div class="d-flex flex-wrap flex-md-nowrap align-items-center w-100">
+                
+
+        
+    
+    <div class="mainNavbarSearchContainer w-100 me-md-2 me-lg-5 mt-2 mt-md-0">
+        <form class="form-inline" action='/search?query='>
+            <div class="input-group flex-grow-1">
+                <input class="mainNavbarSearchInput form-control input-header rounded-start py-1" type="search" aria-label='Search' name="query" placeholder='Search De Gruyter' value='' />
+                <div class="input-group-append">
+                    <button class="btn btn-primary rounded-end analyticsButton" aria-label='Search' type="submit"><span class="fa fas fa-search ga_main_search_button"></span></button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    
+
+                
+                <div class='d-flex flex-wrap flex-md-nowrap justify-content-between mt-2 mt-md-0 '>
+                    
+                    <div class="dropdown d-flex align-items-center font-size-14">
+                        <button class="dropdown-toggle text-white text-decoration-none mainNavbarOptionsBg p-2" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <current-currency></current-currency>
+                        </button>
+                        <div class="mt-2 py-0 dropdown-menu font-size-14" aria-labelledby="currencyPickerLink">
+                            <select-currency currency="EUR"><div class="dropdown-item">€ EUR - Euro</div></select-currency>
+                            <select-currency currency="GBP"><div class="dropdown-item">£ GBP - Pound</div></select-currency>
+                            <select-currency currency="USD"><div class="dropdown-item">$ USD - Dollar</div></select-currency>
+                        </div>
+                    </div>
+                    
+                    <div class="dropdown show d-flex align-items-center font-size-14">
+                        <a class="dropdown-toggle text-white text-decoration-none mainNavbarOptionsBg p-2" href="#" role="button" id="desktopLanguagePickerLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        EN
+                        </a>
+                        <div class="mt-2 py-2 dropdown-menu font-size-14" id="languageSelector" aria-labelledby="desktopLanguagePickerLink">
+                        
+                            <a class="languageSelector_en ga_language_selector dropdown-item"
+                            href="/_language/en?uri=%2Fdocument%2Fdoi%2F10.2478%2Fs13540-013-0032-9%2Fhtml">
+                            English
+                            </a>
+                        
+                            <a class="languageSelector_de ga_language_selector dropdown-item"
+                            href="/_language/de?uri=%2Fdocument%2Fdoi%2F10.2478%2Fs13540-013-0032-9%2Fhtml">
+                            Deutsch
+                            </a>
+                        
+                        </div>
+                    </div>
+                    
+                    <div class="cartSummary d-flex align-items-center">
+
+
+    
+
+
+<a href="" class="mainNavbarOptionsBg pe-2 d-flex align-items-center text-decoration-none">
+    <span class="fa fas fa-shopping-cart"></span>
+    <span data-fc-id="minicart-quantity" class="shopping-cart-badge badge font-family-standard font-size-12">0</span>
+</a></div>
+                    
+                    <div id="currentLoginContent" class="d-flex align-items-center font-size-14"></div>
+                </div>
+            </div>
+        </nav>
+        
+        
+            
+
+
+
+
+
+
+<nav id="navbar" aria-label="site">
+    
+    
+    <a href='/publishing/subjects' id='mega-one-subject' aria-haspopup="true" aria-expanded="false" >
+        Subjects
+    </a>
+
+    <div class="d-none" aria-labelledby="mega-one-subject">
+        <div><a href="#mega-one-for-authors" class="linkAnimation visually-hidden-focusable">Skip section</a></div>
+        <a href='/publishing/subjects' class="fw-bold linkAnimation">
+            Browse Publications By Subject
+        </a>
+        <div class="col dropdown-divider"></div>
+        <div class="row my-row" id="subjectsSubjects">
+            
+                <div class="col-4">
+                    <ul class="list-unstyled">
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=AD' class="linkAnimation">
+                                    Architecture and Design
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=AR' class="linkAnimation">
+                                    Arts
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=AS' class="linkAnimation">
+                                    Asian and Pacific Studies
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=EC' class="linkAnimation">
+                                    Business and Economics
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=CH' class="linkAnimation">
+                                    Chemistry
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=CL' class="linkAnimation">
+                                    Classical and Ancient Near Eastern Studies
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=CO' class="linkAnimation">
+                                    Computer Sciences
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=CS' class="linkAnimation">
+                                    Cultural Studies
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=EN' class="linkAnimation">
+                                    Engineering
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=GL' class="linkAnimation">
+                                    General Interest
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            
+                <div class="col-4">
+                    <ul class="list-unstyled">
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=GS' class="linkAnimation">
+                                    Geosciences
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=HI' class="linkAnimation">
+                                    History
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=IC' class="linkAnimation">
+                                    Industrial Chemistry
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=IS' class="linkAnimation">
+                                    Islamic and Middle Eastern Studies
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=JS' class="linkAnimation">
+                                    Jewish Studies
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=LA' class="linkAnimation">
+                                    Law
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=LB' class="linkAnimation">
+                                    Library and Information Science, Book Studies
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=LF' class="linkAnimation">
+                                    Life Sciences
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=LS' class="linkAnimation">
+                                    Linguistics and Semiotics
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=LT' class="linkAnimation">
+                                    Literary Studies
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            
+                <div class="col-4">
+                    <ul class="list-unstyled">
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=MS' class="linkAnimation">
+                                    Materials Sciences
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=MT' class="linkAnimation">
+                                    Mathematics
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=MD' class="linkAnimation">
+                                    Medicine
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=MU' class="linkAnimation">
+                                    Music
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=PM' class="linkAnimation">
+                                    Pharmacy
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=PL' class="linkAnimation">
+                                    Philosophy
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=PY' class="linkAnimation">
+                                    Physics
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=SN' class="linkAnimation">
+                                    Social Sciences
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=SR' class="linkAnimation">
+                                    Sports and Recreation
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href='/search?query=*&amp;subjectFacet=TL' class="linkAnimation">
+                                    Theology and Religion
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            
+        </div>
+    </div>
+    
+    
+    <a href='/publishing/for-authors' id='mega-one-for-authors' aria-haspopup="true" aria-expanded="false" >
+        For Authors
+    </a>
+
+    <div class="row d-none" aria-labelledby="mega-one-for-authors">
+        <div class="col-12"><a href="#mega-one-services" class="linkAnimation visually-hidden-focusable">Skip section</a></div>
+        <div class="col-sm-6 col-lg-4 mb-3 mb-lg-0">
+            <a href='/publishing/for-authors/for-journal-authors' class="fw-bold linkAnimation">
+                For Journal Authors
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/for-authors/for-journal-authors/publish-your-article' class='linkAnimation'>
+        Publish your article
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-journal-authors/role-of-authors' class='linkAnimation'>
+        The role of authors
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-journal-authors/promoting-your-article' class='linkAnimation'>
+        Promoting your article
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-journal-authors/abstracting-and-indexing' class='linkAnimation'>
+        Abstracting &amp; indexing
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-journal-authors/publishing-ethics' class='linkAnimation'>
+        Publishing Ethics
+    </a></li>
+
+            </ul>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3 mb-lg-0">
+            <a href='/publishing/for-authors/for-book-authors' class="fw-bold linkAnimation">
+                For Book Authors
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/for-authors/for-book-authors/why-publish-with-de-gruyter' class='linkAnimation'>
+        Why publish with De Gruyter
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-book-authors/how-to-publish-with-de-gruyter' class='linkAnimation'>
+        How to publish with De Gruyter
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-book-authors/our-book-series' class='linkAnimation'>
+        Our book series
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-book-authors/our-subject-areas' class='linkAnimation'>
+        Our subject areas
+    </a></li>
+
+            </ul>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+            <a href='/publishing/for-authors/for-database-authors' class="fw-bold linkAnimation">
+                For Database Authors
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/for-authors/for-database-authors/digital-product' class='linkAnimation'>
+        Your digital product at De Gruyter
+    </a></li>
+
+                
+    <li><a href='/publishing/for-authors/for-database-authors/contribute-reference-works' class='linkAnimation'>
+        Contribute to our reference works
+    </a></li>
+
+            </ul>
+        </div>
+    </div>
+    
+    
+    <a href='/publishing/services' id='mega-one-services' aria-haspopup="true" aria-expanded="false" >
+        Services
+    </a>
+
+    <div class="row d-none" aria-labelledby="mega-one-services">
+        <div class="col-12"><a href="#mega-one-publications" class="linkAnimation visually-hidden-focusable">Skip section</a></div>
+        <div class="col-sm-6 col-lg-4 mb-3 mb-lg-0">
+            <a href='/publishing/services/for-librarians' class="fw-bold linkAnimation">
+                For Librarians
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/services/for-librarians/product-information' class='linkAnimation'>
+        Product information
+    </a></li>
+
+                
+    <li><a href='/publishing/services/for-librarians/tools-resources' class='linkAnimation'>
+        Tools &amp; resources
+    </a></li>
+
+                
+    <li><a href='/publishing/services/for-librarians/faqs' class='linkAnimation'>
+        FAQs
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/contact/sales' class='linkAnimation'>
+        Contacts
+    </a></li>
+
+            </ul>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3 mb-lg-0">
+            <a href='/publishing/services/book-sellers-library-suppliers' class="fw-bold linkAnimation">
+                For Book Sellers &amp; Library Suppliers
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/services/book-sellers-library-suppliers/product-information-marketing-tools' class='linkAnimation'>
+        Product Information
+    </a></li>
+
+                
+    <li><a href='/publishing/services/book-sellers-library-suppliers/promotional-materials' class='linkAnimation'>
+        Promotional Materials
+    </a></li>
+
+                
+    <li><a href='/publishing/services/book-sellers-library-suppliers/orders-and-inquiries' class='linkAnimation'>
+        Orders and Inquiries
+    </a></li>
+
+                
+    <li><a href='/publishing/services/book-sellers-library-suppliers/faq-library-suppliers-and-book-sellers' class='linkAnimation'>
+        FAQ for Library Suppliers and Book Sellers
+    </a></li>
+
+            </ul>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+            <a href='/publishing/services/rights-and-permissions' class="fw-bold linkAnimation">
+                Rights &amp; Permissions
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/services/rights-and-permissions/repositorypolicy' class='linkAnimation'>
+        Repository Policy
+    </a></li>
+
+                
+    <li><a href='/publishing/services/rights-and-permissions/freeaccesspolicy' class='linkAnimation'>
+        Free access policy
+    </a></li>
+
+            </ul>
+        </div>
+    </div>
+    
+    
+    <a href='/publishing/publications' id='mega-one-publications' aria-haspopup="true" aria-expanded="false" >
+        Publications
+    </a>
+
+    <div class="row d-none" aria-labelledby="mega-one-publications">
+        <div class="col-12"><a href="#mega-one-about" class="linkAnimation visually-hidden-focusable">Skip section</a></div>
+        
+        <div class="col-sm-6 col-lg-2 my-col mb-3 mb-lg-0">
+            <a href='/publishing/publications/openaccess' class="fw-bold linkAnimation">
+                Open Access
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/publications/openaccess/open-access-books' class='linkAnimation'>
+        Books
+    </a></li>
+
+                
+    <li><a href='/publishing/publications/openaccess/open-access-articles' class='linkAnimation'>
+        Articles
+    </a></li>
+
+                
+    <li><a href='/publishing/publications/openaccess/open-access-agreements' class='linkAnimation'>
+        Open Access agreements
+    </a></li>
+
+            </ul>
+        </div>
+        
+        <div class="col-sm-6 col-lg-2 my-col mb-3 mb-lg-0">
+            <a href='/publishing/publications/publicationtypes' class="fw-bold linkAnimation">
+                Publication types
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                <li><a href='/search?query=*&amp;sortBy=mostrecent&amp;documentTypeFacet=book&amp;publisherFacet=De+Gruyter%7EDe+Gruyter+Mouton%7EDe+Gruyter+Oldenbourg%7EDe+Gruyter+Saur%7EBirkh%C3%A4user%7EDeutscher+Kunstverlag%7ED%C3%BCsseldorf+University+Press%7EJovis%7EKlaus+Schwarz+Verlag' class="linkAnimation">
+                    Books
+                </a></li>
+                <li><a href='/search?query=*&amp;sortBy=mostrecent&amp;documentTypeFacet=journal&amp;publisherFacet=De+Gruyter%7EDe+Gruyter+Mouton%7EDe+Gruyter+Oldenbourg%7EDe+Gruyter+Saur%7EBirkh%C3%A4user%7EDeutscher+Kunstverlag%7ED%C3%BCsseldorf+University+Press%7EJovis%7EKlaus+Schwarz+Verlag' class="linkAnimation">
+                    Journals
+                </a></li>
+                <li><a href='/search?query=*&amp;sortBy=relevance&amp;documentTypeFacet=database' class="linkAnimation">
+                    Databases
+                </a></li>
+                
+    <li><a href='/publishing/publications/publicationtypes/database-portals' class='linkAnimation'>
+        Database portals
+    </a></li>
+
+            </ul>
+        </div>
+        
+        <div class="col-sm-12 col-lg-8 my-col">
+            <div class="row my-row">
+                <div class="col-lg-12 my-col">
+                    <a href='/publishing/subjects' class="fw-bold linkAnimation">
+                        Subjects we publish
+                    </a>
+                    <div class="dropdown-divider"></div>
+                </div>
+            </div>
+            <div class="row my-row" id="publicationsSubjects">
+                
+                    <div class="col-4">
+                        <ul class="list-unstyled">
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=AD' class="linkAnimation">Architecture and Design</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=AR' class="linkAnimation">Arts</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=AS' class="linkAnimation">Asian and Pacific Studies</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=EC' class="linkAnimation">Business and Economics</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=CH' class="linkAnimation">Chemistry</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=CL' class="linkAnimation">Classical and Ancient Near Eastern Studies</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=CO' class="linkAnimation">Computer Sciences</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=CS' class="linkAnimation">Cultural Studies</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=EN' class="linkAnimation">Engineering</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=GL' class="linkAnimation">General Interest</a></li>
+                            
+                        </ul>
+                    </div>
+                
+                    <div class="col-4">
+                        <ul class="list-unstyled">
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=GS' class="linkAnimation">Geosciences</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=HI' class="linkAnimation">History</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=IC' class="linkAnimation">Industrial Chemistry</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=IS' class="linkAnimation">Islamic and Middle Eastern Studies</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=JS' class="linkAnimation">Jewish Studies</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=LA' class="linkAnimation">Law</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=LB' class="linkAnimation">Library and Information Science, Book Studies</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=LF' class="linkAnimation">Life Sciences</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=LS' class="linkAnimation">Linguistics and Semiotics</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=LT' class="linkAnimation">Literary Studies</a></li>
+                            
+                        </ul>
+                    </div>
+                
+                    <div class="col-4">
+                        <ul class="list-unstyled">
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=MS' class="linkAnimation">Materials Sciences</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=MT' class="linkAnimation">Mathematics</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=MD' class="linkAnimation">Medicine</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=MU' class="linkAnimation">Music</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=PM' class="linkAnimation">Pharmacy</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=PL' class="linkAnimation">Philosophy</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=PY' class="linkAnimation">Physics</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=SN' class="linkAnimation">Social Sciences</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=SR' class="linkAnimation">Sports and Recreation</a></li>
+                            
+                                <li><a href='/search?query=*&amp;subjectFacet=TL' class="linkAnimation">Theology and Religion</a></li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+    
+    
+    <a href='/publishing/about-us' id='mega-one-about' aria-haspopup="true" aria-expanded="false" >
+        About
+    </a>
+
+    <div class="row d-none" aria-labelledby="mega-one-about">
+        <div class="col-12"><a href="#main" class="linkAnimation visually-hidden-focusable">Skip section</a></div>
+        
+        <div class="col-lg-6 my-col mb-3 mb-lg-0">
+            <div class="row my-row">
+                <div class="col-lg-12 my-col justify-content-start">
+                    <a href='/publishing/about-us/contact' class="fw-bold linkAnimation">
+                        Contact
+                    </a>
+                    <div class="dropdown-divider"></div>
+                </div>
+            </div>
+            <div class="row my-row">
+                <div class="col-6 my-col">
+                    <ul class="list-unstyled">
+                        
+    <li><a href='/publishing/about-us/contact/contact-for-authors' class='linkAnimation'>
+        For Authors
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/contact-customer-services' class='linkAnimation'>
+        Customer service
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/contact-hr' class='linkAnimation'>
+        People + Culture
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/press' class='linkAnimation'>
+        Press
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/sales' class='linkAnimation'>
+        Sales
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/journal-management' class='linkAnimation'>
+        Journal Management
+    </a></li>
+
+                    </ul>
+                </div>
+                <div class="col-6 my-col">
+                    <ul class="list-unstyled">
+                        
+    <li><a href='/publishing/about-us/contact/partner-publishers' class='linkAnimation'>
+        Partner Publishers
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/contact-openaccess' class='linkAnimation'>
+        Open Access
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/advertising' class='linkAnimation'>
+        Advertising
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/review-copies' class='linkAnimation'>
+        Review Copies
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/inspection-copies' class='linkAnimation'>
+        Inspection Copies
+    </a></li>
+
+                        
+    <li><a href='/publishing/about-us/contact/legal' class='linkAnimation'>
+        Legal
+    </a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-4 col-lg-2 my-col">
+            <a href='/publishing/about-us/careers' class="fw-bold linkAnimation">Career</a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/about-us/careers/how-to-join' class='linkAnimation'>
+        How to join us
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/careers/vacancies' class='linkAnimation'>
+        Vacancies
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/careers/working-at-dg' class='linkAnimation'>
+        Working at De Gruyter
+    </a></li>
+
+            </ul>
+        </div>
+        
+        <div class="col-sm-4 col-lg-2 my-col">
+            <a href='/publishing/about-us/about-dg' class="fw-bold linkAnimation">
+                About De Gruyter
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/about-us/about-dg/vision-mission' class='linkAnimation'>
+        Mission &amp; Vision
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/about-dg/our-imprints' class='linkAnimation'>
+        Imprints
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/about-dg/history' class='linkAnimation'>
+        History
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/about-dg/dg-foundation' class='linkAnimation'>
+        De Gruyter Foundation
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/about-dg/degruyter-ebound' class='linkAnimation'>
+        De Gruyter Ebound
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/about-dg/locations' class='linkAnimation'>
+        Locations
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/our-responsibility' class='linkAnimation'>
+        Our Responsibility
+    </a></li>
+
+            </ul>
+        </div>
+        
+        <div class="col-sm-4 col-lg-2 my-col">
+            <a href='/publishing/about-us/publisher-partners' class="fw-bold linkAnimation">
+                Partnerships
+            </a>
+            <div class="dropdown-divider"></div>
+            <ul class="list-unstyled">
+                
+    <li><a href='/publishing/about-us/publisher-partners' class='linkAnimation'>
+        Partner publishers
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/press' class='fw-bold linkAnimation'>
+        Press
+    </a></li>
+
+                
+    <li><a href='/publishing/about-us/faqs' class='fw-bold linkAnimation'>
+        FAQs
+    </a></li>
+
+                
+    <li><a href='/publishing/subscribe-newsletter' class='fw-bold linkAnimation'>
+        Newsletter
+    </a></li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+        
+    </div>
+    
+    <div class="position-relative d-md-none d-block z-2">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark dg-navbar p-3 align-items-center" aria-label="site">
+            <span class="pe-2">
+                <dg-toggle target="megaMenu" state="open">
+                    <button type="button" class="navbar-toggler border-0 px-1 ml--1" aria-controls="megaMenu" aria-label='Display site navigation, currency and language options'>
+                        <span class="fa fas fa-hamburger-icon text-white hamburgerIcon"></span>
+                    </button>
+                </dg-toggle>
+            </span>
+            <span class="flex-grow-2">
+                <a id="homepageLogoLinkMobile" class="ga_homepage_logo navbar-brand mx-0 py-0" href="/" aria-label='De Gruyter logo with link to home page'>
+                    
+                    <img src='/assets/images/b8fcea517b20e08ecf20a1c14e8b5dfb-dg-logo-nav-small.svg' alt="De Gruyter" />
+                </a>
+            </span>
+            <span>
+                
+                <div class="cartSummary d-inline-block">
+
+
+    
+
+
+<a href="" class="mainNavbarOptionsBg pe-2 d-flex align-items-center text-decoration-none">
+    <span class="fa fas fa-shopping-cart"></span>
+    <span data-fc-id="minicart-quantity" class="shopping-cart-badge badge font-family-standard font-size-12">0</span>
+</a></div>
+                <button id="navbarProfileBtn" class="navbar-toggler border-0 px-1 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarProfile" aria-controls="navbarProfile" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="fa fas fa-solid fa-user text-white"></span>
+                    <span class="fa fas fa-solid fa-close-icon text-white"></span>
+                </button>
+            </span>
+            
+
+        
+    
+    <div class="mainNavbarSearchContainer w-100 me-md-2 me-lg-5 mt-2 mt-md-0">
+        <form class="form-inline" action='/search?query='>
+            <div class="input-group flex-grow-1">
+                <input class="mainNavbarSearchInput form-control input-header rounded-start py-1" type="search" aria-label='Search' name="query" placeholder='Search De Gruyter' value='' />
+                <div class="input-group-append">
+                    <button class="btn btn-primary rounded-end analyticsButton" aria-label='Search' type="submit"><span class="fa fas fa-search ga_main_search_button"></span></button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    
+
+            <div id="wrap">
+                <div class="accordion-collapse collapse accordion navbar-collapse" data-bs-parent="#wrap" id="navbarProfile">
+                    <div id="mobileLoginContent" class="mt-3"></div>
+                    
+                    <ajax-frame src="/login/banner" class="authBannerMobile mb-3"></ajax-frame>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Modal -->
+    <mega-menu id="megaMenu" tabindex="-1" class="d-md-none">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <img class="logo" src="/assets/images/dg-logo-nav-small.svg" alt="De Gruyter">
+                    <dg-toggle target="megaMenu" state="close">
+                        <button class="btn-close" aria-label='Close Navigation Menu'></button>
+                    </dg-toggle>
+                </div>
+                <div class="modal-body scrollWatch">
+                    
+                    <div class="accordion accordion-flush mega-menu-accordion" data-bs-parent="#wrap" id="mobileCorpMenu">
+                        
+                        <div class="accordion-item">
+                            <div class="accordion-header" id="mobileCorpMenu-headingOne">
+                                <button class="accordion-button collapsed lvl1" type="button" data-bs-toggle="collapse" data-bs-target="#mobileCorpMenu-collapseOne" aria-expanded="false" aria-controls="mobileCorpMenu-collapseOne">
+                                    <div class="button-text">
+                                        SUBJECTS
+                                    </div>
+                                </button>
+                            </div>
+                            <div id="mobileCorpMenu-collapseOne" class="accordion-collapse collapse" aria-labelledby="mobileCorpMenu-headingOne" data-bs-parent="#mobileCorpMenu">
+                                <div class="accordion-body">
+                                    <a class="lvl2"href='/publishing/subjects' >
+                                        Browse Publications By Subject
+                                    </a>
+                                    <ul class="list-unstyled subsection">
+                                        
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=AD' class="linkAnimation">
+                                                        Architecture and Design
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=AR' class="linkAnimation">
+                                                        Arts
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=AS' class="linkAnimation">
+                                                        Asian and Pacific Studies
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=EC' class="linkAnimation">
+                                                        Business and Economics
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=CH' class="linkAnimation">
+                                                        Chemistry
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=CL' class="linkAnimation">
+                                                        Classical and Ancient Near Eastern Studies
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=CO' class="linkAnimation">
+                                                        Computer Sciences
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=CS' class="linkAnimation">
+                                                        Cultural Studies
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=EN' class="linkAnimation">
+                                                        Engineering
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=GL' class="linkAnimation">
+                                                        General Interest
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=GS' class="linkAnimation">
+                                                        Geosciences
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=HI' class="linkAnimation">
+                                                        History
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=IC' class="linkAnimation">
+                                                        Industrial Chemistry
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=IS' class="linkAnimation">
+                                                        Islamic and Middle Eastern Studies
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=JS' class="linkAnimation">
+                                                        Jewish Studies
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=LA' class="linkAnimation">
+                                                        Law
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=LB' class="linkAnimation">
+                                                        Library and Information Science, Book Studies
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=LF' class="linkAnimation">
+                                                        Life Sciences
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=LS' class="linkAnimation">
+                                                        Linguistics and Semiotics
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=LT' class="linkAnimation">
+                                                        Literary Studies
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=MS' class="linkAnimation">
+                                                        Materials Sciences
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=MT' class="linkAnimation">
+                                                        Mathematics
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=MD' class="linkAnimation">
+                                                        Medicine
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=MU' class="linkAnimation">
+                                                        Music
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=PM' class="linkAnimation">
+                                                        Pharmacy
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=PL' class="linkAnimation">
+                                                        Philosophy
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=PY' class="linkAnimation">
+                                                        Physics
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=SN' class="linkAnimation">
+                                                        Social Sciences
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=SR' class="linkAnimation">
+                                                        Sports and Recreation
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href='/search?query=*&amp;subjectFacet=TL' class="linkAnimation">
+                                                        Theology and Religion
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <div class="accordion-header" id="mobileCorpMenu-headingTwo">
+                                <button class="accordion-button collapsed lvl1" type="button" data-bs-toggle="collapse" data-bs-target="#mobileCorpMenu-collapseTwo" aria-expanded="false" aria-controls="mobileCorpMenu-collapseTwo">
+                                    FOR AUTHORS
+                                </button>
+                            </div>
+                            <div id="mobileCorpMenu-collapseTwo" class="accordion-collapse collapse" aria-labelledby="mobileCorpMenu-headingTwo" data-bs-parent="#mobileCorpMenu">
+                                <div class="accordion-body mvertical">
+                                    <div class="accordion accordion-flush" id="services-accordion">
+                                        <a class="lvl2 linkAnimation" href='/publishing/for-authors/for-journal-authors'>
+                                            For Journal Authors
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/for-authors/for-journal-authors/publish-your-article' class='linkAnimation'>
+        Publish your article
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-journal-authors/role-of-authors' class='linkAnimation'>
+        The role of authors
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-journal-authors/promoting-your-article' class='linkAnimation'>
+        Promoting your article
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-journal-authors/abstracting-and-indexing' class='linkAnimation'>
+        Abstracting &amp; indexing
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-journal-authors/publishing-ethics' class='linkAnimation'>
+        Publishing Ethics
+    </a></li>
+
+                                        </ul>
+
+                                        <a class="lvl2 linkAnimation" href='/publishing/for-authors/for-book-authors'>
+                                            For Book Authors
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/for-authors/for-book-authors/why-publish-with-de-gruyter' class='linkAnimation'>
+        Why publish with De Gruyter
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-book-authors/how-to-publish-with-de-gruyter' class='linkAnimation'>
+        How to publish with De Gruyter
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-book-authors/our-book-series' class='linkAnimation'>
+        Our book series
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-book-authors/our-subject-areas' class='linkAnimation'>
+        Our subject areas
+    </a></li>
+
+                                        </ul>
+
+                                        <a class="lvl2 linkAnimation" href='/publishing/for-authors/for-database-authors'>
+                                            For Database Authors
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/for-authors/for-database-authors/digital-product' class='linkAnimation'>
+        Your digital product at De Gruyter
+    </a></li>
+
+                                            
+    <li><a href='/publishing/for-authors/for-database-authors/contribute-reference-works' class='linkAnimation'>
+        Contribute to our reference works
+    </a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <div class="accordion-header" id="mobileCorpMenu-headingThree">
+                                <button class="accordion-button collapsed lvl1" type="button" data-bs-toggle="collapse" data-bs-target="#mobileCorpMenu-collapseThree" aria-expanded="false" aria-controls="mobileCorpMenu-collapseThree">
+                                SERVICES
+                                </button>
+                            </div>
+                            <div id="mobileCorpMenu-collapseThree" class="accordion-collapse collapse" aria-labelledby="mobileCorpMenu-headingThree" data-bs-parent="#mobileCorpMenu">
+                                <div class="accordion-body mvertical">
+                                    <div class="accordion accordion-flush" id="services-accordion">
+                                        <a class="lvl2 linkAnimation" href='/publishing/services/for-librarians'>
+                                            For Librarians
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/services/for-librarians/product-information' class='linkAnimation'>
+        Product information
+    </a></li>
+
+                                            
+    <li><a href='/publishing/services/for-librarians/tools-resources' class='linkAnimation'>
+        Tools &amp; resources
+    </a></li>
+
+                                            
+    <li><a href='/publishing/services/for-librarians/faqs' class='linkAnimation'>
+        FAQs
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/contact/sales' class='linkAnimation'>
+        Contacts
+    </a></li>
+
+                                        </ul>
+
+                                        <a class="lvl2 linkAnimation" href='/publishing/services/book-sellers-library-suppliers'>
+                                            For Book Sellers &amp; Library Suppliers
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/services/book-sellers-library-suppliers/product-information-marketing-tools' class='linkAnimation'>
+        Product Information
+    </a></li>
+
+                                            
+    <li><a href='/publishing/services/book-sellers-library-suppliers/promotional-materials' class='linkAnimation'>
+        Promotional Materials
+    </a></li>
+
+                                            
+    <li><a href='/publishing/services/book-sellers-library-suppliers/orders-and-inquiries' class='linkAnimation'>
+        Orders and Inquiries
+    </a></li>
+
+                                            
+    <li><a href='/publishing/services/book-sellers-library-suppliers/faq-library-suppliers-and-book-sellers' class='linkAnimation'>
+        FAQ for Library Suppliers and Book Sellers
+    </a></li>
+
+                                        </ul>
+
+                                        <a class="lvl2 linkAnimation" href='/publishing/services/rights-and-permissions'>
+                                            Rights &amp; Permissions
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/services/rights-and-permissions/repositorypolicy' class='linkAnimation'>
+        Repository Policy
+    </a></li>
+
+                                            
+    <li><a href='/publishing/services/rights-and-permissions/freeaccesspolicy' class='linkAnimation'>
+        Free access policy
+    </a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <div class="accordion-header" id="mobileCorpMenu-headingFour">
+                                <button class="accordion-button collapsed lvl1" type="button" data-bs-toggle="collapse" data-bs-target="#mobileCorpMenu-collapseFour" aria-expanded="false" aria-controls="mobileCorpMenu-collapseFour">
+                                    PUBLICATIONS
+                                </button>
+                            </div>
+                            <div id="mobileCorpMenu-collapseFour" class="accordion-collapse collapse" aria-labelledby="mobileCorpMenu-headingFour" data-bs-parent="#mobileCorpMenu">
+                                <div class="accordion-body">
+                                    <div class="accordion accordion-flush" id="publications-accordion">
+                                        <a href='/publishing/publications/openaccess' class="lvl2 linkAnimation">
+                                            Open Access
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/publications/openaccess/open-access-books' class='linkAnimation'>
+        Books
+    </a></li>
+
+                                            
+    <li><a href='/publishing/publications/openaccess/open-access-articles' class='linkAnimation'>
+        Articles
+    </a></li>
+
+                                            
+    <li><a href='/publishing/publications/openaccess/open-access-agreements' class='linkAnimation'>
+        Open Access agreements
+    </a></li>
+
+                                        </ul>
+
+                                        <a href='/publishing/publications/publicationtypes' class="lvl2 linkAnimation">
+                                        Publication types
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            <li><a href='/search?query=*&amp;sortBy=mostrecent&amp;documentTypeFacet=book&amp;publisherFacet=De+Gruyter%7EDe+Gruyter+Mouton%7EDe+Gruyter+Oldenbourg%7EDe+Gruyter+Saur%7EBirkh%C3%A4user%7EDeutscher+Kunstverlag%7ED%C3%BCsseldorf+University+Press%7EJovis%7EKlaus+Schwarz+Verlag' class="linkAnimation">
+                                                Books
+                                            </a></li>
+                                            <li><a href='/search?query=*&amp;sortBy=mostrecent&amp;documentTypeFacet=journal&amp;publisherFacet=De+Gruyter%7EDe+Gruyter+Mouton%7EDe+Gruyter+Oldenbourg%7EDe+Gruyter+Saur%7EBirkh%C3%A4user%7EDeutscher+Kunstverlag%7ED%C3%BCsseldorf+University+Press%7EJovis%7EKlaus+Schwarz+Verlag' class="linkAnimation">
+                                                Journals
+                                            </a></li>
+                                            <li><a href='/search?query=*&amp;sortBy=relevance&amp;documentTypeFacet=database' class="linkAnimation">
+                                                Databases
+                                            </a></li>
+                                            
+    <li><a href='/publishing/publications/publicationtypes/database-portals' class='linkAnimation'>
+        Database portals
+    </a></li>
+
+                                        </ul>
+
+                                        <a href='/publishing/subjects' class="lvl2 linkAnimation">
+                                            Subjects we publish
+                                        </a>
+                                        
+                                            <ul class="list-unstyled subsection">
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=AD' class="linkAnimation">Architecture and Design</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=AR' class="linkAnimation">Arts</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=AS' class="linkAnimation">Asian and Pacific Studies</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=EC' class="linkAnimation">Business and Economics</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=CH' class="linkAnimation">Chemistry</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=CL' class="linkAnimation">Classical and Ancient Near Eastern Studies</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=CO' class="linkAnimation">Computer Sciences</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=CS' class="linkAnimation">Cultural Studies</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=EN' class="linkAnimation">Engineering</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=GL' class="linkAnimation">General Interest</a></li>
+                                                
+                                            </ul>
+                                        
+                                            <ul class="list-unstyled subsection">
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=GS' class="linkAnimation">Geosciences</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=HI' class="linkAnimation">History</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=IC' class="linkAnimation">Industrial Chemistry</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=IS' class="linkAnimation">Islamic and Middle Eastern Studies</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=JS' class="linkAnimation">Jewish Studies</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=LA' class="linkAnimation">Law</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=LB' class="linkAnimation">Library and Information Science, Book Studies</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=LF' class="linkAnimation">Life Sciences</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=LS' class="linkAnimation">Linguistics and Semiotics</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=LT' class="linkAnimation">Literary Studies</a></li>
+                                                
+                                            </ul>
+                                        
+                                            <ul class="list-unstyled subsection">
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=MS' class="linkAnimation">Materials Sciences</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=MT' class="linkAnimation">Mathematics</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=MD' class="linkAnimation">Medicine</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=MU' class="linkAnimation">Music</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=PM' class="linkAnimation">Pharmacy</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=PL' class="linkAnimation">Philosophy</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=PY' class="linkAnimation">Physics</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=SN' class="linkAnimation">Social Sciences</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=SR' class="linkAnimation">Sports and Recreation</a></li>
+                                                
+                                                    <li><a href='/search?query=*&amp;subjectFacet=TL' class="linkAnimation">Theology and Religion</a></li>
+                                                
+                                            </ul>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <div class="accordion-header" id="mobileCorpMenu-headingFive">
+                                <button class="accordion-button collapsed lvl1" type="button" data-bs-toggle="collapse" data-bs-target="#mobileCorpMenu-collapseFive" aria-expanded="false" aria-controls="mobileCorpMenu-collapseFive">
+                                    ABOUT
+                                </button>
+                            </div>
+                            <div id="mobileCorpMenu-collapseFive" class="accordion-collapse collapse" aria-labelledby="mobileCorpMenu-headingFive" data-bs-parent="#mobileCorpMenu">
+                                <div class="accordion-body">
+                                    <div class="accordion accordion-flush" id="aboutAccordion">
+                                        <a href='/publishing/about-us/contact' class="lvl2 linkAnimation">
+                                            Contact
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                                
+    <li><a href='/publishing/about-us/contact/contact-for-authors' class='linkAnimation'>
+        For Authors
+    </a></li>
+
+                                                
+    <li><a href='/publishing/about-us/contact/contact-customer-services' class='linkAnimation'>
+        Customer service
+    </a></li>
+
+                                                
+    <li><a href='/publishing/about-us/contact/contact-hr' class='linkAnimation'>
+        People + Culture
+    </a></li>
+
+                                                
+    <li><a href='/publishing/about-us/press' class='linkAnimation'>
+        Press
+    </a></li>
+
+                                                
+    <li><a href='/publishing/about-us/contact/sales' class='linkAnimation'>
+        Sales
+    </a></li>
+
+                                                
+    <li><a href='/publishing/about-us/contact/journal-management' class='linkAnimation'>
+        Journal Management
+    </a></li>
+
+                                            </ul>
+
+                                        <a href='/publishing/about-us/careers' class="lvl2 linkAnimation">
+                                            Career
+                                        </a>
+                                        <ul class="list-unstyled subsection">
+                                            
+    <li><a href='/publishing/about-us/careers/how-to-join' class='linkAnimation'>
+        How to join us
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/careers/vacancies' class='linkAnimation'>
+        Vacancies
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/careers/working-at-dg' class='linkAnimation'>
+        Working at De Gruyter
+    </a></li>
+
+                                        </ul>
+
+                                        <a href='/publishing/about-us/about-dg' class="lvl2 linkAnimation">
+                                            About De Gruyter
+                                        </a>
+                                        <ul class="subsection list-unstyled">
+                                            
+    <li><a href='/publishing/about-us/about-dg/vision-mission' class='linkAnimation'>
+        Mission &amp; Vision
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/about-dg/our-imprints' class='linkAnimation'>
+        Imprints
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/about-dg/history' class='linkAnimation'>
+        History
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/about-dg/dg-foundation' class='linkAnimation'>
+        De Gruyter Foundation
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/about-dg/degruyter-ebound' class='linkAnimation'>
+        De Gruyter Ebound
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/about-dg/locations' class='linkAnimation'>
+        Locations
+    </a></li>
+
+                                            
+    <li><a href='/publishing/about-us/our-responsibility' class='linkAnimation'>
+        Our Responsibility
+    </a></li>
+
+                                        </ul>
+
+                                        <a href='/publishing/about-us/publisher-partners' class="lvl2 linkAnimation">
+                                            Partnerships
+                                        </a>
+                                        <ul class="list-unstyled">
+                                            <ul class="list-unstyled subsection">
+                                                
+    <li><a href='/publishing/about-us/publisher-partners' class='linkAnimation'>
+        Partner publishers
+    </a></li>
+
+                                            </ul>
+                                            <ul class="list-unstyled subsection">
+                                                
+    <li><a href='/publishing/about-us/press' class='fw-bold linkAnimation'>
+        Press
+    </a></li>
+
+                                            </ul>
+                                            <ul class="list-unstyled subsection">
+                                                
+    <li><a href='/publishing/about-us/faqs' class='fw-bold linkAnimation'>
+        FAQs
+    </a></li>
+
+                                            </ul>
+                                            <ul class="list-unstyled subsection">
+                                                
+    <li><a href='/publishing/subscribe-newsletter' class='fw-bold linkAnimation'>
+        Newsletter
+    </a></li>
+
+                                            </ul>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mt-3">
+                        
+                        <span class="selectorHeader">
+                            Change language
+                        </span>
+                        <div class="grid-2 mobile-selector mt-2 mb-3">
+                            
+                                <a class="languageSelector_en ga_language_selector mobile-option mobile-active"
+                                href="/_language/en?uri=%2Fdocument%2Fdoi%2F10.2478%2Fs13540-013-0032-9%2Fhtml">
+                                    <span>English</span>
+                                </a>
+                            
+                                <a class="languageSelector_de ga_language_selector mobile-option "
+                                href="/_language/de?uri=%2Fdocument%2Fdoi%2F10.2478%2Fs13540-013-0032-9%2Fhtml">
+                                    <span>Deutsch</span>
+                                </a>
+                            
+                        </div>
+
+                        
+                        <span class="selectorHeader">
+                            Change currency
+                        </span>
+                        <div class="grid-3 mobile-selector mt-2 mb-5">
+                            <select-currency class="mobile-option" selected-class="mobile-active" currency="EUR"><span>€ EUR</span></select-currency>
+                            <select-currency class="mobile-option" selected-class="mobile-active" currency="GBP"><span>£ GBP</span></select-currency>
+                            <select-currency class="mobile-option" selected-class="mobile-active" currency="USD"><span>$ USD</span></select-currency>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </mega-menu>
+
+    <div class="accordion-collapse collapse accordion navbar-collapse" data-bs-parent="#wrap" id="navbarSupportedContentnope">
+
+    </div>
+</header>
+
+            
+        
+    <!-- <div class="printHeader">
+    <img src='/assets/images/0e9183a30515530e678e341045e51e54-homepage-book.webp' width="50%" loading="lazy"/>
+</div> -->
+
+    
+    
+
+
+<div class="modal" id="orderCompleteModal" tabindex="-1" role="dialog" aria-label='Purchase Complete' aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content bg-white">
+            <div class="modal-body">
+                
+                    <button type="button" class="btn-close float-end btn-modal-close" data-bs-dismiss="modal" aria-label='Close'></button>
+                
+                
+        <p>Your purchase has been completed.  Your documents are now available to view.</p>
+        <div id="orderCompleteItemList">
+            
+        </div>
+    
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <main id="main" class='language_en min-vh-100 '>
+        
+        <div class="row no-theme-gutter-x g-0 " id="docContent">
+
+            <div class='offset-lg-1 col-lg-8 pb-2'>
+
+                
+                <div class='row g-0 '>
+                    <div class="col p-3 pt-5">
+                        <div class="d-flex flex-wrap flex-column flex-md-row justify-content-between">
+                            <div>
+                                
+
+
+
+
+
+
+
+<div class="mb-2">
+    
+        
+        
+                
+
+
+        
+        
+                <span>
+                    <a class="creative-commons-license ga_creative_commons_license text-decoration-none" href="https://creativecommons.org/licenses/by-nc-nd/3.0/" title='Creative Commons - Some Rights Reserved'>
+                        <img src="/assets/images/cc-licenses/by-nc-nd.eu.svg" height="100%" width="100%" alt='BY-NC-ND 3.0 license'/>
+                    </a>
+                </span>
+            
+        <span class="fa fas fa-icon-open-access"></span>
+        <span class="accessOpenAccess me-2">Open Access</span>
+    
+
+            
+    
+
+    
+    
+        
+            <span class="publisherAndPublicationDate metadataInfoMainContent">
+                
+                    
+                    
+                            <span class="publisher">
+                                Published by <a class="ga_published_by ga_published_by_header" href='/search?query=*&amp;publisherFacet=De+Gruyter'>De Gruyter</a>
+                            </span>
+                        
+                
+                
+                    <span class="publicationDate">June 26, 2013</span>
+                
+                
+            </span>
+        
+    
+</div>
+
+
+<div id="mobilePurchaseDiv" class="d-none">
+    <a class="mobilePurchaseButton" href="#">
+         Purchase article 
+        <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M12.75 10.3238L11.4513 9L9.5 11.1469L9.5 1L7.5 1L7.5 11.1473L5.54829 9L4.24962 10.3238L8.49981 15L12.75 10.3238Z" fill="#007596"/>
+        </svg>
+    </a>
+</div>
+
+
+ <h1>FCAA related news, events and books (FCAA-volume 16-3-2013)</h1> 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="contributors list-unstyled mb-2">
+
+    
+            
+                
+                    
+    <li class="contributors-AUTHOR mb-2">
+        
+        <span class="metadataAndContributorsFont"><span class="contributor">
+        <span class="displayName linkAnimation">Virginia Kiryakova</span>
+        <contributor-popdown
+        name="Virginia Kiryakova"
+        position="1"
+            
+                email=""
+            
+        affiliations=""
+            
+                
+        >
+        
+        </contributor-popdown>
+        
+        
+            <a href="mailto:">
+                <img alt="EMAIL logo" src='/assets/images/db2546a9d03b905bae083962a41791e1-mail.svg' width="16" height="12" />
+            </a>
+        
+    </span></span>
+    </li>
+
+                
+            
+            
+        
+
+
+</ul>
+
+
+
+
+
+
+        <div class="subTitleInfoProductPage">From the journal <a class="ga_parent ga_parent_journal" href="/journal/key/fca/html">Fractional Calculus and Applied Analysis</a></div>
+        <div class="doi"><a href="https://doi.org/10.2478/s13540-013-0032-9" class="linkWithoutStyle subTitleInfoProductPage ga_doi" target="_blank">https://doi.org/10.2478/s13540-013-0032-9</a></div>
+        
+
+    
+
+                            </div>
+                            
+                                
+                                <div class="d-sm-none pt-3 pb-3 border-bottom">
+                                    
+
+
+
+
+<div class="alternateForms d-none">
+    
+        
+        
+            <a href="/document/doi/10.2478/s13540-013-0032-9/pdf?licenseType=open-access" data-doi="10.2478/s13540-013-0032-9"
+            class="ga_download_button_pdf_article downloadCompletePdfArticle downloadPdf btn btn-primary fw-bold py-2 w-100 vgwort-click">
+                <span>Download article (PDF)</span>
+                <span class="fa fas fa-download-button"></span>
+            </a>
+        
+    
+</div>
+
+                                </div>
+                            
+                        </div>
+                    </div>
+
+                    
+                    <div class="d-flex align-items-center flex-wrap px-4 px-lg-2 ">
+                        
+                        
+                        
+                                
+
+
+<button id='citationsModalButton' type="button" class="btn btn-main-content ga_cite_this me-2" href='#citationsModal'
+        data-bs-toggle="modal" data-bs-target="#citationsModal"
+        data-doi="10.2478/s13540-013-0032-9" aria-controls='citationsModal'>
+    Cite this
+</button>
+
+                            
+                        <button id="socialModalButton" type="button" class="btn btn-main-content ga_share_this me-2" href="#socialModal"
+data-bs-toggle="modal" data-bs-target="#socialModal"  aria-controls="socialModal">
+    Share this
+</button>
+
+                        
+                        
+                        <div class="dimensions __dimensions_badge_embed__ ga_dimensions_citation me-2" data-doi="10.2478/s13540-013-0032-9" data-hide-zero-citations="true" data-legend="never" data-style="large_rectangle"></div>
+                        
+
+
+
+                    </div>
+
+                    
+                    <div id="div-document-progress-bar" class="sticky-top d-none">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="progress progress-bar-toolbar">
+                                    <div id="document-progress-bar" class="progress-bar bg-primary" role="progressbar" aria-label="Document progress bar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <div id="document-main-content" class='row'>
+                        <div class="container-fluid px-3 px-lg-0 py-2">
+                            <div class="col">
+
+                                
+                                
+<div class="d-none analyticsHolder"  data-subjects='MT|MT-04|MT-05|MT-11'  data-publisherCode='DEG'  data-license='open-access'  data-publisher='De Gruyter'  data-contentName='FCAA related news, events and books (FCAA-volume 16-3-2013)'  data-doi='10.2478/s13540-013-0032-9'  data-parentIdentifier='FCA'  data-parentName='Fractional Calculus and Applied Analysis'  data-languages='en' ></div>
+
+
+
+                                
+                                <div id="documentContent" class="content py-2"
+                                data-doi='10.2478/s13540-013-0032-9'
+                                data-accessrestricted="false"
+                                data-countertype="document">
+
+                                
+
+
+
+
+<div class="px-2">
+    
+        
+
+        
+            
+    <div style="width: 100%; position: relative;">
+        <div class="pdf-container" data-url="/document/doi/10.2478/s13540-013-0032-9/pdf?stream=true"  lang="en"></div>
+    </div>
+
+            
+                
+    <div id="text-container">
+        <div xmlns:dgdoi="http://degruyter.com/resources/doi-from-crossref" xmlns:dgpm="http://degruyter.com/resources/fetched-pubmed-id" class="contentWrapper"><div class="article" lang="en"><div class="contrib-group"></div><div class="back"><span class="ref-list"></span></div><div class="publicationDates mb-3"><div class="publishedOnlineDate"><span class="label-publishedOnline"><span><strong>Published Online: </strong></span></span>2013-6-26</div><div class="publishedInPrintDate"><span class="label-publishedInPrint"><span><strong>Published in Print: </strong></span></span>2013-9-1</div></div><div class="copyrightStatement"><p>© 2013 Diogenes Co., Sofia</p></div><div class="licenseStatement"><p>This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 License.</p></div></div></div>
+    </div>
+
+            
+        
+
+    
+</div>
+
+                                </div>
+
+                                
+                                
+
+
+<div class="modal" id="citationsModal" tabindex="-1" role="dialog" aria-label='Cite this' aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content bg-white">
+            <div class="modal-body">
+                
+                    <button type="button" class="btn-close float-end btn-modal-close" data-bs-dismiss="modal" aria-label='Close'></button>
+                
+                
+                                    
+<div id="citations">
+    <div class="row pb-2">
+        <div class="col">
+            <div class="text-dark fw-bold">Cite this article</div>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-lg-auto ps-4 mb-3 mb-lg-0">
+            <ul class="nav d-flex flex-lg-column" id="citationSelector" role="tablist">
+                
+                    <li class="nav-item py-1" role="presentation">
+                        <a class="nav-link citations py-0 font-size-14 active" id="MLA-tab"
+                        data-bs-toggle="tab" href="#MLA" role="tab"
+                        aria-controls="MLA" aria-selected="true">
+                            <span class="text-primary fa fas fa-ok me-2"></span>
+                            <span class="font-family-standard text-dark">MLA</span>
+                        </a>
+                    </li>
+                
+                    <li class="nav-item py-1" role="presentation">
+                        <a class="nav-link citations py-0 font-size-14 " id="APA-tab"
+                        data-bs-toggle="tab" href="#APA" role="tab"
+                        aria-controls="APA" aria-selected="true">
+                            <span class="text-primary fa fas fa-ok me-2"></span>
+                            <span class="font-family-standard text-dark">APA</span>
+                        </a>
+                    </li>
+                
+                    <li class="nav-item py-1" role="presentation">
+                        <a class="nav-link citations py-0 font-size-14 " id="Harvard-tab"
+                        data-bs-toggle="tab" href="#Harvard" role="tab"
+                        aria-controls="Harvard" aria-selected="true">
+                            <span class="text-primary fa fas fa-ok me-2"></span>
+                            <span class="font-family-standard text-dark">Harvard</span>
+                        </a>
+                    </li>
+                
+                    <li class="nav-item py-1" role="presentation">
+                        <a class="nav-link citations py-0 font-size-14 " id="Chicago-tab"
+                        data-bs-toggle="tab" href="#Chicago" role="tab"
+                        aria-controls="Chicago" aria-selected="true">
+                            <span class="text-primary fa fas fa-ok me-2"></span>
+                            <span class="font-family-standard text-dark">Chicago</span>
+                        </a>
+                    </li>
+                
+                    <li class="nav-item py-1" role="presentation">
+                        <a class="nav-link citations py-0 font-size-14 " id="Vancouver-tab"
+                        data-bs-toggle="tab" href="#Vancouver" role="tab"
+                        aria-controls="Vancouver" aria-selected="true">
+                            <span class="text-primary fa fas fa-ok me-2"></span>
+                            <span class="font-family-standard text-dark">Vancouver</span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+        <div class="col">
+            <div class="tab-content border pt-4 px-4" id="citationContent">
+                
+                    <div class="tab-pane fade show active" id="MLA" role="tabpanel"
+                    aria-labelledby="MLA-tab">Kiryakova, Virginia. "FCAA related news, events and books (FCAA-volume 16-3-2013)" <i>Fractional Calculus and Applied Analysis</i>, vol. 16, no. 3, 2013, pp. 507-510. <a href='https://doi.org/10.2478/s13540-013-0032-9'>https://doi.org/10.2478/s13540-013-0032-9</a></div>
+                
+                    <div class="tab-pane fade " id="APA" role="tabpanel"
+                    aria-labelledby="APA-tab">Kiryakova, V. (2013). FCAA related news, events and books (FCAA-volume 16-3-2013). <i>Fractional Calculus and Applied Analysis</i>, <i>16</i>(3), 507-510. <a href='https://doi.org/10.2478/s13540-013-0032-9'>https://doi.org/10.2478/s13540-013-0032-9</a></div>
+                
+                    <div class="tab-pane fade " id="Harvard" role="tabpanel"
+                    aria-labelledby="Harvard-tab">Kiryakova, V. (2013) FCAA related news, events and books (FCAA-volume 16-3-2013). Fractional Calculus and Applied Analysis, Vol. 16 (Issue 3), pp. 507-510. <a href='https://doi.org/10.2478/s13540-013-0032-9'>https://doi.org/10.2478/s13540-013-0032-9</a></div>
+                
+                    <div class="tab-pane fade " id="Chicago" role="tabpanel"
+                    aria-labelledby="Chicago-tab">Kiryakova, Virginia. "FCAA related news, events and books (FCAA-volume 16-3-2013)" <i>Fractional Calculus and Applied Analysis</i> 16, no. 3 (2013): 507-510. <a href='https://doi.org/10.2478/s13540-013-0032-9'>https://doi.org/10.2478/s13540-013-0032-9</a></div>
+                
+                    <div class="tab-pane fade " id="Vancouver" role="tabpanel"
+                    aria-labelledby="Vancouver-tab">Kiryakova V. FCAA related news, events and books (FCAA-volume 16-3-2013). <i>Fractional Calculus and Applied Analysis</i>. 2013;16(3): 507-510. <a href='https://doi.org/10.2478/s13540-013-0032-9'>https://doi.org/10.2478/s13540-013-0032-9</a></div>
+                
+                <div class="d-flex justify-content-center"><span id="citationCopied" aria-hidden="true">Copied to clipboard</span></div>
+            </div>
+            <div class="d-flex justify-content-between mt-2">
+                <div><a href="#" id="citationCopy" class="font-size-14">Copy to clipboard</a></div>
+                <div>
+                    <span class="font-size-14">Download:</span>
+                    
+                        <a title='Download in BibTeX format' aria-label='Download in BibTeX format'
+                        class="ms-1 font-size-14" href="/document/doi/10.2478/s13540-013-0032-9/machineReadableCitation/BibTeX">BibTeX</a>
+                    
+                        <a title='Download in EndNote format' aria-label='Download in EndNote format'
+                        class="ms-1 font-size-14" href="/document/doi/10.2478/s13540-013-0032-9/machineReadableCitation/EndNote">EndNote</a>
+                    
+                        <a title='Download in RIS format' aria-label='Download in RIS format'
+                        class="ms-1 font-size-14" href="/document/doi/10.2478/s13540-013-0032-9/machineReadableCitation/RIS">RIS</a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+                                
+            </div>
+        </div>
+    </div>
+</div>
+
+                                
+
+
+<div class="modal" id="socialModal" tabindex="-1" role="dialog" aria-label='Share this' aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+        <div class="modal-content bg-white">
+            <div class="modal-body">
+                
+                    <button type="button" class="btn-close float-end btn-modal-close" data-bs-dismiss="modal" aria-label='Close'></button>
+                
+                
+                                    
+
+
+<div id="share-this">
+    <div class="row bg-white">
+        <div class="text-dark fw-bold pb-2">
+            
+                    Share this article
+                
+        </div>
+        <ul class="list-unstyled m-0">
+            <li>
+                <a href="http://www.facebook.com/sharer.php?u=https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html" class="btn btn-default linkToShare facebookColor ga_share_this_facebook" target="_blank">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5655 22V12.877H16.6612L17.1247 9.32165H13.5655V7.05176C13.5655 6.0224 13.8544 5.32092 15.3467 5.32092L17.25 5.32009V2.14013C16.9208 2.0968 15.791 2 14.4765 2C11.7324 2 9.85365 3.65689 9.85365 6.69965V9.32165H6.75V12.877H9.85365V22H13.5655Z" fill="#555558" />
+                    </svg>
+                    <span class="ms-2">Facebook</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://twitter.com/intent/tweet?text=FCAA+related+news%2C+events+and+books+%28FCAA-volume+16-3-2013%29+-+Read+on+https%3A%2F%2Fwww.degruyter.com%2Fdocument%2Fdoi%2F10.2478%2Fs13540-013-0032-9%2Fhtml+%40degruyter_brill"
+                class="btn btn-default linkToShare twitterColor ga_share_this_twitter" target="_blank">
+                    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex">
+                        <path d="M13.941 10.441 21.524 1.815H19.727L13.141 9.302 7.882 1.815H1.815L9.768 13.14 1.815 22.185H3.612L10.565 14.274 16.12 22.185H22.185L13.941 10.441ZM11.479 13.24 10.673 12.113 4.26 3.142H7.02L12.195 10.386 12.998 11.513 19.724 20.925H16.965L11.479 13.24Z" fill="#555558"/>
+                    </svg>
+                    <span class="ms-2">X / Twitter</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.linkedin.com/shareArticle?url=https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html"
+                class="btn btn-default linkToShare linkedinColor ga_share_this_Linkedin" target="_blank">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.47796 2C2.66169 2 2 2.64164 2 3.43268V20.5673C2 21.3586 2.66169 22 3.47796 22H20.522C21.3383 22 22 21.3586 22 20.5673V3.43268C22 2.64164 21.3383 2 20.522 2H3.47796ZM8.48683 6.90621C8.48683 7.76646 7.85538 8.45482 6.84087 8.45482L6.75734 8.45381C5.81786 8.42414 5.21429 7.74734 5.21429 6.90621C5.21429 6.0266 5.86495 5.35734 6.86012 5.35734C7.85538 5.35734 8.46792 6.0266 8.48683 6.90621ZM8.29551 9.67875V18.6431H5.38626V9.67875H8.29551ZM9.90536 18.6431H12.8145V13.637C12.8145 13.3691 12.8334 13.1014 12.9102 12.9099C13.1205 12.3746 13.5992 11.8202 14.4029 11.8202C15.4556 11.8202 15.8767 12.6423 15.8767 13.8474V18.6431H18.7857V13.503C18.7857 10.7496 17.3505 9.46839 15.4364 9.46839C13.8931 9.46839 13.2012 10.3371 12.8146 10.9479V9.67874H9.90536C9.94354 10.5199 9.90536 18.6431 9.90536 18.6431Z" fill="#555558"/>
+                    </svg>
+                    <span class="ms-2">LinkedIn</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+                                
+            </div>
+        </div>
+    </div>
+</div>
+
+                                
+
+
+<div class="modal" id="supplementaryModal" tabindex="-1" role="dialog" aria-label='Supplementary Materials' aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-l" role="document">
+        <div class="modal-content bg-white">
+            <div class="modal-body">
+                
+                    <button type="button" class="btn-close float-end btn-modal-close" data-bs-dismiss="modal" aria-label='Close'></button>
+                
+                
+                                    <h3>Supplementary Materials</h3>
+                                    <ul class="list-unstyled">
+                                    
+                                    </ul>
+                                
+            </div>
+        </div>
+    </div>
+</div>
+
+                                
+
+
+
+<div class="modal" id="loginToPurchase" tabindex="-1" role="dialog" aria-label='Please login or register with De Gruyter to order this product.' aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-md" role="document">
+        <div class="modal-content bg-white">
+            <div class="modal-body">
+                
+                    <button type="button" class="btn-close float-end btn-modal-close" data-bs-dismiss="modal" aria-label='Close'></button>
+                
+                
+    <div class="text-center">
+        <p>Please login or register with De Gruyter to order this product.</p>
+        
+<a id="registerButtonSubmit" href="/register" class="btn btn-outline-primary">Register</a>
+<a id="loginButtonSubmit" href="/login" class="btn btn-primary">Log in</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            
+                <div class="col-lg-3 bg-light">
+                    
+                    <div class="sidebar py-5 px-4">
+                        
+                        
+                            <div class="d-none d-sm-block mb-4">
+                                
+
+
+
+
+<div class="alternateForms d-none">
+    
+        
+        
+            <a href="/document/doi/10.2478/s13540-013-0032-9/pdf?licenseType=open-access" data-doi="10.2478/s13540-013-0032-9"
+            class="ga_download_button_pdf_article downloadCompletePdfArticle downloadPdf btn btn-primary fw-bold py-2 w-100 vgwort-click">
+                <span>Download article (PDF)</span>
+                <span class="fa fas fa-download-button"></span>
+            </a>
+        
+    
+</div>
+
+                            </div>
+                        
+
+                        
+                        
+
+                        
+                        
+
+                        
+
+                                
+                                <div class="mb-3 subTitleGraySidebar">From the journal</div>
+                                <div class="d-flex pb-4">
+                                    <div class="d-inline-flex">
+                                        
+
+
+
+
+
+
+
+     <a href="/journal/key/fca/html" title="Fractional Calculus and Applied Analysis"><img class="coverImage ga_cover_image_product" alt="Fractional Calculus and Applied Analysis" src="/document/cover/journal_key/FCA/thumbnail" srcset="/document/cover/journal_key/FCA/product 2x" width="100" height="auto" loading="lazy"/></a> 
+
+
+                                    </div>
+                                    
+                                    <div class="flex-wrap px-2">
+                                        <div class="parentJournal">
+                                            <a class="fw-bold standardLinkProduct ga_product ga_parent ga_parent_journal" href="/journal/key/fca/html">Fractional Calculus and Applied Analysis</a>
+                                        </div>
+                                        
+                                        <div class="parentJournalIssue">
+                                            <a href="/journal/key/fca/16/3/html" class="standardLinkProduct ga_parent">
+                                                Volume 16 Issue 3
+                                            </a>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+
+                                
+                                
+                                    
+                                
+
+                                
+                                <h2 class="subTitleProductPage">
+                                    
+                                        Journal and Issue
+                                    
+                                </h2>
+
+                                
+                                
+<div class="searchJournal">
+
+    <form class="pt-2 font-family-standard" action='/search/series/fca?query='>
+
+        
+        <div class="input-group">
+            <input class="form-control rounded-start placeholderSmallText font-size-14 py-1" type="text" name="query" aria-label='Search journal' placeholder='Search journal'>
+            <div class="input-group-append">
+                <button class="btn btn-primary rounded-end analyticsButton" aria-label='Search journal' type="submit">
+                    <span class="fa fas fa-search ga_parent_search_button"></span>
+                </button>
+            </div>
+        </div>
+
+        
+                
+                <div class="form-check ps-0 pt-3 d-flex font-size-14">
+                    <div class="custom-control custom-radio me-3">
+                        <input class="custom-control-input" autocomplete="off" type="radio"
+                               aria-label='This issue'
+                               name="volumeIssue" id="searchThisJournalIssue" value="16|3" checked="checked">
+                        <label class="custom-control-label" for="searchThisJournalIssue">
+                            This issue
+                        </label>
+                    </div>
+                    <div class="custom-control custom-radio me-3">
+                        <input class="custom-control-input" autocomplete="off" type="radio"
+                               aria-label='All issues'
+                               name="volumeIssue" id="searchAllJournalIssues" value="">
+                        <label class="custom-control-label" for="searchAllJournalIssues">
+                            All issues
+                        </label>
+                    </div>
+
+                </div>
+            
+        <label><input hidden="hidden" name="documentVisibility" value="all"></label>
+
+    </form>
+</div>
+
+
+                                
+                                
+                                    
+<div class="listTocItems">
+    <h2 class="subTitleProductPage">Articles in the same Issue</h2>
+
+    <div class="mt-3 tocItems">
+        
+            
+                <div class='item '>
+                    <div class="tocItemContent w-100">
+                    
+                        
+                            
+                            <span class="fw-bold two-line-ellipsis linkRegularSidebar my-2">FCAA related news, events and books (FCAA-volume 16-3-2013)</span>
+                        
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0033-8/html">Chaos in a fractional order logistic map</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0034-7/html">Effects of the temperature variation on the behavior of the first order crone system realized in the electrical domain</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0035-6/html">On a fractional differential inclusion with integral boundary conditions in Banach space</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0036-5/html">A note on fractional Bessel equation and its asymptotics</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0037-4/html">Waveform relaxation methods for fractional functional differential equations</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0038-3/html">Existence of solutions to initial value problems for nonlinear fractional differential equations on the semi-axis</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0039-2/html">On the asymptotic stability of linear system of fractional-order difference equations</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0040-9/html">Liouville and Riemann-Liouville fractional derivatives via contour integrals</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0041-8/html">A parallel algorithm for the Riesz fractional reaction-diffusion equation with explicit finite difference method</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0042-7/html">Fractional integration toolbox</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0043-6/html">Solution set for fractional differential equations with Riemann-Liouville derivative</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0044-5/html">Existence of positive solutions to a higher order singular boundary value problem with fractional q-derivatives</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0045-4/html">Numerical solutions and analysis of diffusion for new generalized fractional Burgers equation</a>
+                    
+                    </div>
+                </div>
+
+            
+                <div class='item border-top'>
+                    <div class="tocItemContent w-100">
+                    
+                        <a class="ga_same_issue_article two-line-ellipsis linkRegularSidebar my-2 linkAnimation"
+                        href="/document/doi/10.2478/s13540-013-0046-3/html">Fractional adsorption diffusion</a>
+                    
+                    </div>
+                </div>
+
+            
+        
+    </div>
+
+</div>
+                                
+                            
+                    </div>
+
+                </div>
+            
+        </div>
+
+        
+
+
+
+
+
+        
+    
+            <img class="vgwort" src="https://degruyter.met.vgwort.de/na/vgzm.139533-10.2478-s13540-013-0032-9" height="1" width="1" border="0" alt=""/>
+        
+
+    
+
+
+
+        
+        <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/lib/pdfjs-dist/build/b48eed8da5b6208c90435ec6e9e1a295-pdf.min.js'></script>
+    
+    </main>
+
+    
+
+
+
+
+
+
+
+
+<footer class="bg-dark" role="contentinfo">
+    <nav class="content-wrapper" aria-label="Static pages">
+        <div class="footerContainer">
+            
+            <div class="row">
+                
+                <div class="col-12 col-lg-6 pb-3">
+                    
+    
+        <div class="border-bottom pb-3 mb-3"><a class="ga_footer text-white footerLevel1Font linkAnimation" href="/publishing/subjects">Subjects</a></div>
+    
+
+                    <div class="row">
+                        
+                            <div class="col-12 col-sm-4">
+                                <ul class="list-unstyled">
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=AD">Architecture and Design</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=AR">Arts</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=AS">Asian and Pacific Studies</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=EC">Business and Economics</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=CH">Chemistry</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=CL">Classical and Ancient Near Eastern Studies</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=CO">Computer Sciences</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=CS">Cultural Studies</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=EN">Engineering</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=GL">General Interest</a></li>
+        
+    
+
+                                    
+                                </ul>
+                            </div>
+                        
+                            <div class="col-12 col-sm-4">
+                                <ul class="list-unstyled">
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=GS">Geosciences</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=HI">History</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=IC">Industrial Chemistry</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=IS">Islamic and Middle Eastern Studies</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=JS">Jewish Studies</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=LA">Law</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=LB">Library and Information Science, Book Studies</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=LF">Life Sciences</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=LS">Linguistics and Semiotics</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=LT">Literary Studies</a></li>
+        
+    
+
+                                    
+                                </ul>
+                            </div>
+                        
+                            <div class="col-12 col-sm-4">
+                                <ul class="list-unstyled">
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=MS">Materials Sciences</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=MT">Mathematics</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=MD">Medicine</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=MU">Music</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=PM">Pharmacy</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=PL">Philosophy</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=PY">Physics</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=SN">Social Sciences</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=SR">Sports and Recreation</a></li>
+        
+    
+
+                                    
+                                        
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/search?query=*&amp;subjectFacet=TL">Theology and Religion</a></li>
+        
+    
+
+                                    
+                                </ul>
+                            </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="col-12 col-lg-6 pb-3">
+                    <div class="row">
+                        
+                        <div class="col-12 col-sm-4 pb-3">
+                            
+    
+        <div class="border-bottom pb-3 mb-3"><a class="ga_footer text-white footerLevel1Font linkAnimation" href="/publishing/services">Services</a></div>
+    
+
+                            <ul class="list-unstyled">
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/for-authors/for-journal-authors">For Journal Authors</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/for-authors/for-book-authors">For Book Authors</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/services/for-librarians">For Librarians</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/services/rights-and-permissions">Rights &amp; Permissions</a></li>
+        
+    
+
+                            </ul>
+                        </div>
+                        
+                        <div class="col-12 col-sm-4 pb-3">
+                            
+    
+        <div class="border-bottom pb-3 mb-3"><a class="ga_footer text-white footerLevel1Font linkAnimation" href="/publishing/publications">Publications</a></div>
+    
+
+                            <ul class="list-unstyled">
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/publications/publicationtypes">Publication types</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/publications/openaccess">Open Access</a></li>
+        
+    
+
+                            </ul>
+                        </div>
+                        
+                        <div class="col-12 col-sm-4 pb-3">
+                            
+    
+        <div class="border-bottom pb-3 mb-3"><a class="ga_footer text-white footerLevel1Font linkAnimation" href="/publishing/about-us">About</a></div>
+    
+
+                            <ul class="list-unstyled">
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/contact">Contact</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/careers">Career</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/about-dg">About De Gruyter</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/publisher-partners">Partnerships</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/press">Press</a></li>
+        
+    
+
+                                
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/faqs">FAQs</a></li>
+        
+    
+
+                            </ul>
+                        </div>
+                    </div>
+
+                    
+                    <div class="row d-none d-sm-flex">
+                        <div class="col-6">
+                            <div class="border-bottom pb-3 mb-3 text-white footerLevel1Font">Social</div>
+                            <ul class="list-unstyled" style="columns: 2;">
+                                
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.facebook.com/degruyter.publishers" target="_blank" aria-label='Link to Facebook'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to Facebook'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5655 22V12.877H16.6612L17.1247 9.32165H13.5655V7.05176C13.5655 6.0224 13.8544 5.32092 15.3467 5.32092L17.25 5.32009V2.14013C16.9208 2.0968 15.791 2 14.4765 2C11.7324 2 9.85365 3.65689 9.85365 6.69965V9.32165H6.75V12.877H9.85365V22H13.5655Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">Facebook</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.instagram.com/degruyter_official/" target="_blank" aria-label='Link to Instagram'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to Instagram'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.87709 2.05993C8.94354 2.01127 9.28421 1.99976 12 1.99976C14.7159 1.99976 15.0566 2.01127 16.1231 2.06013C17.1875 2.10852 17.9144 2.27755 18.5505 2.52458C19.2179 2.77573 19.8224 3.16945 20.3219 3.67826C20.8306 4.17776 21.2242 4.78223 21.4753 5.44949C21.7225 6.08558 21.8915 6.81249 21.9401 7.87694C21.9888 8.94341 22.0003 9.28412 22.0003 12C22.0003 14.7159 21.9888 15.0564 21.9401 16.1231C21.8915 17.1875 21.7225 17.9144 21.4753 18.5505C20.9558 19.8938 19.8939 20.9557 18.5506 21.4752C17.9146 21.7224 17.1877 21.8914 16.1232 21.94C15.0568 21.9887 14.7161 22.0002 12.0002 22.0002C9.28434 22.0002 8.94379 21.9887 7.87717 21.94C6.81277 21.8914 6.08587 21.7224 5.44974 21.4752C4.78248 21.2241 4.17803 20.8304 3.67853 20.3217C3.16982 19.8222 2.77619 19.2178 2.52509 18.5505C2.27787 17.9144 2.10884 17.1875 2.06025 16.1231C2.01139 15.0566 1.99988 14.7159 1.99988 12C1.99988 9.28408 2.01139 8.94341 2.06025 7.87694C2.10864 6.81249 2.27767 6.08558 2.52469 5.44945C2.77589 4.78216 3.16962 4.17769 3.67845 3.67822C4.17795 3.16951 4.78241 2.77588 5.44967 2.52477C6.08575 2.27755 6.81265 2.10852 7.87709 2.05993ZM6.99685 11.9968C6.99685 9.23536 9.23548 6.99673 11.997 6.99673C14.7584 6.99673 16.9971 9.23536 16.9971 11.9968C16.9971 14.7583 14.7584 16.9969 11.997 16.9969C9.23548 16.9969 6.99685 14.7583 6.99685 11.9968ZM12 15.2499C10.2051 15.2499 8.75 13.7948 8.75001 11.9999C8.75002 10.2049 10.2051 8.74988 12 8.74989C13.7949 8.7499 15.25 10.205 15.25 11.9999C15.25 13.7948 13.7949 15.2499 12 15.2499ZM17 6.99989C17.5523 6.99989 18 6.55217 18 5.99989C18 5.4476 17.5523 4.99989 17 4.99989C16.4477 4.99989 16 5.4476 16 5.99989C16 6.55217 16.4477 6.99989 17 6.99989Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">Instagram</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.linkedin.com/company/de-gruyter" target="_blank" aria-label='Link to Linkedin'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to LinkedIn'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M3.47796 2C2.66169 2 2 2.64164 2 3.43268V20.5673C2 21.3586 2.66169 22 3.47796 22H20.522C21.3383 22 22 21.3586 22 20.5673V3.43268C22 2.64164 21.3383 2 20.522 2H3.47796ZM8.48683 6.90621C8.48683 7.76646 7.85538 8.45482 6.84087 8.45482L6.75734 8.45381C5.81786 8.42414 5.21429 7.74734 5.21429 6.90621C5.21429 6.0266 5.86495 5.35734 6.86012 5.35734C7.85538 5.35734 8.46792 6.0266 8.48683 6.90621ZM8.29551 9.67875V18.6431H5.38626V9.67875H8.29551ZM9.90536 18.6431H12.8145V13.637C12.8145 13.3691 12.8334 13.1014 12.9102 12.9099C13.1205 12.3746 13.5992 11.8202 14.4029 11.8202C15.4556 11.8202 15.8767 12.6423 15.8767 13.8474V18.6431H18.7857V13.503C18.7857 10.7496 17.3505 9.46839 15.4364 9.46839C13.8931 9.46839 13.2012 10.3371 12.8146 10.9479V9.67874H9.90536C9.94354 10.5199 9.90536 18.6431 9.90536 18.6431Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">LinkedIn</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://twitter.com/degruyter_brill" target="_blank" aria-label='Link to Twitter'>
+                    
+                            <svg width="24px" height="24px" viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="d-inline-flex" alt='Link to X / Twitter'>
+                                <path d="M13.941 10.441 21.524 1.815H19.727L13.141 9.302 7.882 1.815H1.815L9.768 13.14 1.815 22.185H3.612L10.565 14.274 16.12 22.185H22.185L13.941 10.441ZM11.479 13.24 10.673 12.113 4.26 3.142H7.02L12.195 10.386 12.998 11.513 19.724 20.925H16.965L11.479 13.24Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">X / Twitter</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.youtube.com/c/DegruyterPublishers" target="_blank" aria-label='Link to Youtube'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to YouTube'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7885 5.42336C20.6513 5.65671 21.3252 6.33037 21.5586 7.19274C22.2192 9.85067 22.0666 14.0485 21.5715 16.809C21.338 17.6713 20.6641 18.345 19.8014 18.5784C18.2493 19.0015 12.0027 19.0015 12.0027 19.0015C12.0027 19.0015 5.75609 19.0015 4.20405 18.5784C3.34133 18.345 2.66741 17.6713 2.43396 16.809C1.76954 14.1626 1.95168 9.96222 2.42113 7.20557C2.65458 6.34319 3.3285 5.66954 4.19123 5.43618C5.74326 5.01307 11.9899 5.00024 11.9899 5.00024C11.9899 5.00024 18.2365 5.00024 19.7885 5.42336ZM15.5714 12.0009L9.85714 15.1512V8.85068L15.5714 12.0009Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">YouTube</span>
+                </a>
+            </li>
+        
+    
+
+
+                            </ul>
+                        </div>
+                        <div class="col-6">
+                            <div><img src='/assets/images/0f0f306f30d5f2d2f68caab6976dc637-dg-logo-footer.svg' height="100%" width="auto" alt="De Gruyter" /></div>
+                            <div class="my-4">
+                                <a class="d-flex" target="_blank" href="https://blog.degruyter.com/de-gruyter-wins-the-best-publisher-ux-award/" style="text-decoration: none;">
+                                    <img class="oa_award" src='/assets/images/80cca219a7e93410593d2bf03850db70-Open-Athens-Logo_Icon-White.svg' height="100%" width="100%" alt="Open-Athens" />
+                                    <span class="footerCopyright text-start ms-3">
+                                        <span class="linkAnimation lh-base"><b>Winner</b> of the OpenAthens<br>Best Publisher UX Award 2022</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row d-sm-none">
+                        <div class="col-12">
+                            <div class="border-bottom mb-5"></div>
+                            <ul class="list-unstyled d-flex justify-content-center mb-4">
+                                
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.facebook.com/degruyter.publishers" target="_blank" aria-label='Link to Facebook'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to Facebook'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5655 22V12.877H16.6612L17.1247 9.32165H13.5655V7.05176C13.5655 6.0224 13.8544 5.32092 15.3467 5.32092L17.25 5.32009V2.14013C16.9208 2.0968 15.791 2 14.4765 2C11.7324 2 9.85365 3.65689 9.85365 6.69965V9.32165H6.75V12.877H9.85365V22H13.5655Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">Facebook</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.instagram.com/degruyter_official/" target="_blank" aria-label='Link to Instagram'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to Instagram'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.87709 2.05993C8.94354 2.01127 9.28421 1.99976 12 1.99976C14.7159 1.99976 15.0566 2.01127 16.1231 2.06013C17.1875 2.10852 17.9144 2.27755 18.5505 2.52458C19.2179 2.77573 19.8224 3.16945 20.3219 3.67826C20.8306 4.17776 21.2242 4.78223 21.4753 5.44949C21.7225 6.08558 21.8915 6.81249 21.9401 7.87694C21.9888 8.94341 22.0003 9.28412 22.0003 12C22.0003 14.7159 21.9888 15.0564 21.9401 16.1231C21.8915 17.1875 21.7225 17.9144 21.4753 18.5505C20.9558 19.8938 19.8939 20.9557 18.5506 21.4752C17.9146 21.7224 17.1877 21.8914 16.1232 21.94C15.0568 21.9887 14.7161 22.0002 12.0002 22.0002C9.28434 22.0002 8.94379 21.9887 7.87717 21.94C6.81277 21.8914 6.08587 21.7224 5.44974 21.4752C4.78248 21.2241 4.17803 20.8304 3.67853 20.3217C3.16982 19.8222 2.77619 19.2178 2.52509 18.5505C2.27787 17.9144 2.10884 17.1875 2.06025 16.1231C2.01139 15.0566 1.99988 14.7159 1.99988 12C1.99988 9.28408 2.01139 8.94341 2.06025 7.87694C2.10864 6.81249 2.27767 6.08558 2.52469 5.44945C2.77589 4.78216 3.16962 4.17769 3.67845 3.67822C4.17795 3.16951 4.78241 2.77588 5.44967 2.52477C6.08575 2.27755 6.81265 2.10852 7.87709 2.05993ZM6.99685 11.9968C6.99685 9.23536 9.23548 6.99673 11.997 6.99673C14.7584 6.99673 16.9971 9.23536 16.9971 11.9968C16.9971 14.7583 14.7584 16.9969 11.997 16.9969C9.23548 16.9969 6.99685 14.7583 6.99685 11.9968ZM12 15.2499C10.2051 15.2499 8.75 13.7948 8.75001 11.9999C8.75002 10.2049 10.2051 8.74988 12 8.74989C13.7949 8.7499 15.25 10.205 15.25 11.9999C15.25 13.7948 13.7949 15.2499 12 15.2499ZM17 6.99989C17.5523 6.99989 18 6.55217 18 5.99989C18 5.4476 17.5523 4.99989 17 4.99989C16.4477 4.99989 16 5.4476 16 5.99989C16 6.55217 16.4477 6.99989 17 6.99989Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">Instagram</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.linkedin.com/company/de-gruyter" target="_blank" aria-label='Link to Linkedin'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to LinkedIn'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M3.47796 2C2.66169 2 2 2.64164 2 3.43268V20.5673C2 21.3586 2.66169 22 3.47796 22H20.522C21.3383 22 22 21.3586 22 20.5673V3.43268C22 2.64164 21.3383 2 20.522 2H3.47796ZM8.48683 6.90621C8.48683 7.76646 7.85538 8.45482 6.84087 8.45482L6.75734 8.45381C5.81786 8.42414 5.21429 7.74734 5.21429 6.90621C5.21429 6.0266 5.86495 5.35734 6.86012 5.35734C7.85538 5.35734 8.46792 6.0266 8.48683 6.90621ZM8.29551 9.67875V18.6431H5.38626V9.67875H8.29551ZM9.90536 18.6431H12.8145V13.637C12.8145 13.3691 12.8334 13.1014 12.9102 12.9099C13.1205 12.3746 13.5992 11.8202 14.4029 11.8202C15.4556 11.8202 15.8767 12.6423 15.8767 13.8474V18.6431H18.7857V13.503C18.7857 10.7496 17.3505 9.46839 15.4364 9.46839C13.8931 9.46839 13.2012 10.3371 12.8146 10.9479V9.67874H9.90536C9.94354 10.5199 9.90536 18.6431 9.90536 18.6431Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">LinkedIn</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://twitter.com/degruyter_brill" target="_blank" aria-label='Link to Twitter'>
+                    
+                            <svg width="24px" height="24px" viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="d-inline-flex" alt='Link to X / Twitter'>
+                                <path d="M13.941 10.441 21.524 1.815H19.727L13.141 9.302 7.882 1.815H1.815L9.768 13.14 1.815 22.185H3.612L10.565 14.274 16.12 22.185H22.185L13.941 10.441ZM11.479 13.24 10.673 12.113 4.26 3.142H7.02L12.195 10.386 12.998 11.513 19.724 20.925H16.965L11.479 13.24Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">X / Twitter</span>
+                </a>
+            </li>
+        
+    
+
+    
+    
+        
+            <li>
+                <a class="ga_footer iconLinkAnimation text-nowrap" href="https://www.youtube.com/c/DegruyterPublishers" target="_blank" aria-label='Link to Youtube'>
+                    
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="d-inline-flex" aria-hidden="true" alt='Link to YouTube'>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7885 5.42336C20.6513 5.65671 21.3252 6.33037 21.5586 7.19274C22.2192 9.85067 22.0666 14.0485 21.5715 16.809C21.338 17.6713 20.6641 18.345 19.8014 18.5784C18.2493 19.0015 12.0027 19.0015 12.0027 19.0015C12.0027 19.0015 5.75609 19.0015 4.20405 18.5784C3.34133 18.345 2.66741 17.6713 2.43396 16.809C1.76954 14.1626 1.95168 9.96222 2.42113 7.20557C2.65458 6.34319 3.3285 5.66954 4.19123 5.43618C5.74326 5.01307 11.9899 5.00024 11.9899 5.00024C11.9899 5.00024 18.2365 5.00024 19.7885 5.42336ZM15.5714 12.0009L9.85714 15.1512V8.85068L15.5714 12.0009Z" fill="#555558"/>
+                            </svg>
+                        
+                    <span class="text-white footerLevel2Font ms-2 linkAnimation d-none d-sm-inline-flex">YouTube</span>
+                </a>
+            </li>
+        
+    
+
+
+                            </ul>
+                            <div class="mx-5 mb-2">
+                                <a class="d-flex justify-content-center" target="_blank" href="https://www.openathens.net/news/winner-best-publisher-ux-award-2022/" style="text-decoration: none;">
+                                    <img class="oa_award" src='/assets/images/80cca219a7e93410593d2bf03850db70-Open-Athens-Logo_Icon-White.svg' height="100%" width="100%" alt="Open-Athens" />
+                                    <span class="footerCopyright text-start ms-3">
+                                        <span class="linkAnimation lh-base"><b>Winner</b> of the OpenAthens<br>Best Publisher UX Award 2022</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="border-bottom mb-4"></div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-12 col-lg-8">
+                    <ul class="list-unstyled d-flex flex-wrap justify-content-around justify-content-lg-start paddLiRight">
+                        
+    
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/about-us/new-website-faqs">Help/FAQ</a></li>
+        
+    
+
+    
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/our-privacy-policy">Privacy policy</a></li>
+        
+    
+
+    
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/our-cookie-policy">Cookie Policy</a></li>
+        
+    
+
+    
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/accessibility">Accessibility</a></li>
+        
+    
+
+    
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/terms-conditions">Terms &amp; Conditions</a></li>
+        
+    
+
+    
+    
+        
+            <li><a class="ga_footer text-white footerLevel2Font linkAnimation" href="/publishing/imprints">Legal Notice</a></li>
+        
+    
+
+
+                    </ul>
+                </div>
+                <div class="col-12 col-lg-4 d-flex justify-content-center justify-content-lg-end">
+                    <div class="footerCopyright pt-1">© Walter de Gruyter GmbH 2024</div>
+                </div>
+                
+                <div class="col-12 text-center d-sm-none">
+                    <div class="mt-5"><img src='/assets/images/dcb5aecb586bd5336d1428d326e8dccf-dg-logo-footer-mobile.svg' height="100%" width="auto" alt="De Gruyter" /></div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</footer>
+
+    
+
+
+
+
+<div class="printFooter">
+    <span>Downloaded on 22.9.2024 from https://www.degruyter.com/document/doi/10.2478/s13540-013-0032-9/html</span>
+</div>
+
+
+    <!-- Scroll up button for mobiles -->
+    <a class="scroll-up-button d-sm-none" id="scrollUpButton" href="#mainHeader">
+        <img alt='Scroll to top button' src='/assets/images/2a1093d067525528af2f87c7296d39e1-scroll-arrow.svg'>
+    </a>
+
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/02f217ac44f30e20572ec9be327266f9-clipboard-polyfill.js' defer="defer" crossorigin="use-credentials"></script>
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/f4a7cebacca43a770afd837b68a7eed8-autoComplete.min.js' defer="defer" crossorigin="use-credentials"></script>
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/f62fc03e44df2f5efad9611016f07366-custom-elements.min.js' defer="defer" crossorigin="use-credentials"></script>
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/7ccd9d390d31af98110f74f842ea9b32-bootstrap.js' type="module" crossorigin="use-credentials"></script>
+
+    <div id="lang-code" data-code="en"></div>
+    
+
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/99bb3afb087e75c3dca1083e14a397a0-cookie-control.js' type="module" defer="defer" crossorigin="use-credentials"></script>
+    
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/6acc668691121f867b851f59f7c39e66-main-immediate.js' crossorigin="use-credentials"></script>
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='/assets/javascripts/721b419580b78fe620de47605a82adc9-main.js' type="module" crossorigin="use-credentials"></script>
+
+    
+    
+        
+            <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='https://www.googletagmanager.com/gtm.js?id=GTM-PMNKTQ5&gtm_auth=JraP3pn8iVUkqNIGYl03AA&gtm_preview=env-2' defer="defer" async="async"></script>
+        
+    
+    
+        <!--suppress JSUnresolvedLibraryURL -->
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src='https://connect.liblynx.com/log/js/counter5.js' async="async" defer="defer"></script>
+
+        <!--suppress JSUnresolvedLibraryURL -->
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src="https://badge.dimensions.ai/badge.js" async="async" defer="defer" charset="utf-8"></script>
+
+    
+        <!--suppress JSUnresolvedLibraryURL -->
+    <script nonce="pzUXjbl6CI/EDMhEv7Fblg==" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" async="async" defer="defer" charset="utf-8"></script>
+
+    
+
+</body>
+</html>
+
+

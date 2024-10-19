@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML>
+<head>
+<title>PDF</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="/develop/static/js/jquery/jquery.min.js"></script>
+</head>
+<body>
+<iframe id="pdf_iframe" src="https://hep-journal.oss-cn-beijing.aliyuncs.com/hep-wk/fileup/2095-4689/PDF/qb-0003-13004-cl.pdf?Expires=1727113616&OSSAccessKeyId=LTAIuKHpoKLDbF9n&Signature=mFJ%2FRdxhvz%2Bi%2FPudSCxvZZyLZ4o%3D" style="width:100%;margin:0px 0px;border:0px;"  frameborder="0" border="0" marginwidth="0" marginheight="0"  scrolling="auto"></iframe>
+<script>
+	$("#pdf_iframe").height($(window).height()-20);
+	//$("#pdf_iframe").width($(window).width());
+	$(window).resize(function(){
+		$("#pdf_iframe").height($(window).height()-20);
+		//$("#pdf_iframe").width($(window).width()-20);
+	});
+</script>
+</body>
+</html>
+		
+		
+  

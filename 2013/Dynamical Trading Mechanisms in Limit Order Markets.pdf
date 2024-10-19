@@ -1,0 +1,538 @@
+
+<!doctype html>
+<!--[if lte IE 8]> <html class="no-js oldie" xmlns:mml="http://www.w3.org/1998/Math/MathML" lang="en"> <![endif]--> <!--[if gt IE 8]><!--> <html class="no-js" xmlns:mml="http://www.w3.org/1998/Math/MathML" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Dynamical trading mechanisms in limit order markets - IOS Press</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- These tags have been added for Google Scholar. -->
+<!-- see: http://scholar.google.com/intl/en/scholar/inclusion.html -->
+<!-- Three fields are required at a minimum: title, at least one author, publication date -->
+            <meta name="description" content="This work's main purpose is to understand the price dynamics in a generic limit order market, and illustrate a dynamical trading mechanism that can be applied to explore its market microstructure. First and foremost, we capture the iterative nature o" />
+            <meta name="citation_author" content="Wang, Shilei">
+    <meta name="citation_pdf_url" content="https://content.iospress.com:443/download/algorithmic-finance/af027?id=algorithmic-finance%2Faf027">
+
+        <meta name="DC.type" content="Text"/>
+
+        <meta name="citation_firstpage" content="213"/>
+
+        <meta name="citation_lastpage" content="231"/>
+
+        <meta name="citation_doi" content="10.3233/AF-13027"/>
+
+
+
+
+    <meta name="citation_title" content="Dynamical trading mechanisms in limit order markets">
+
+        <meta name="citation_journal_title" content="Algorithmic Finance">
+
+
+         <meta name="citation_issn" content="2158-5571"/>
+    <meta name="citation_volume" content="2"/>
+    <meta name="citation_issue" content="3-4"/>
+        <meta name="citation_publication_date" content="2013/01/01">
+    <meta name="citation_publisher" content="IOS Press">
+
+    <meta name="format-detection" content="telephone=no" />
+<link rel="search" href="/opensearch.xml?title=Scolaris&amp;autocompletePath=%2Fautocomplete%3Fq%3D%7BsearchTerms%7D" type="application/opensearchdescription+xml" title="Scolaris" />    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,700%7CPT+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://content.iospress.com:443/static/less/journals.less.css@2.6.8-2-gb19ff93" />
+    <script src="https://content.iospress.com:443/static/js/libs/modernizr-2.5.3.min.js@2.6.8-2-gb19ff93"></script>
+    <link rel="shortcut icon" href="https://content.iospress.com:443/static/img/favicon.ico@2.6.8-2-gb19ff93" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJ8NZ9C');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+    <body class="page-article loading" data-baseurl="https://content.iospress.com:443/" data-git="@2.6.8-2-gb19ff93" data-p13n="no" data-saved-alerts="true" data-ecommerce="true" data-shibboleth="true" data-default-counter="true" >
+    <div class="no-js-message">
+        <i class="icon-warning-sign" role="presentation"></i>
+        You are viewing a javascript disabled version of the site. Please enable Javascript for this site to function properly.
+    </div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJ8NZ9C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'GTM-PJ8NZ9C', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Tag Manager (noscript) -->
+
+<a href="#header-skiplink" class="skiplinks">Go to header</a><a href="#nav-skiplink" class="skiplinks">Go to navigation</a><a href="#search-bar" class="skiplinks">Go to search</a><a href="#content" class="skiplinks">Go to contents</a><a href="#footer-skiplink" class="skiplinks">Go to footer</a>    <div class="header-block">
+<header id="header" class="header block">
+    <a href="#nav-skiplink" class="skiplinks" id="header-skiplink">In header section. Select this link to jump to navigation</a>
+    <div class="container">
+        <div class="logo" style="width: 35%">
+            <a href="https://content.iospress.com:443/" title="Home" class="header-home-link">
+                <img src="https://content.iospress.com:443/static/img/latest_header_img.png@2.6.8-2-gb19ff93" alt="IOS Press" style="max-width: 80%"/>
+            </a>
+        </div>
+        <div class="header-menu clearfix">
+            <ul class="">
+              <li class=""><a href="https://content.iospress.com:443/page/help">Help</a></li>
+              <li class=""><a href="https://content.iospress.com:443/page/about">About us</a></li>
+              <li class=""><a href="https://content.iospress.com:443/page/contact">Contact us</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+<nav id="nav" class="nav">
+    <a href="#content" class="skiplinks" id="nav-skiplink">In navigation section. Select this link to jump to content</a>
+    <div class="menu-mobile js-toggle-handle">
+        <a class="menu-mobile-text" href="#" title="Main menu"> Menu</a>
+    </div>
+    <div class="container nav-menu-dropdown toggle-section clearfix">
+        <ul class="nav-item nav-main">
+          <!--Add selected class if you want to display the nav for the current page as selected
+          -->
+          <li class="nav-item"><a href="https://content.iospress.com:443/">Home</a></li>
+          <li class="nav-item"><a href="https://content.iospress.com:443/journals/">Journals</a></li>
+        </ul>
+        <ul class="nav-item nav-sp-side nav-sub clearfix">
+                <li>
+                    <form class="getCartForm" id="getCart" method="get" action="https://content.iospress.com:443/cart">
+                        <button class="getCartButton">
+                          <i class="icon-shopping-cart"></i> Cart
+                          <span class="shopping-cart">
+                          </span>
+                        </button>
+                        <input type="hidden" name="dest" value="https://content.iospress.com/articles/algorithmic-finance/af027" />
+                            <span class="currency-section">
+                                        <span class="selected-currency">€</span>
+                                        <button class="currency-change" data-currency="US_DOLLAR"><span class="visuallyhidden">title="Change currency to USD - US Dollar"</span>$</button>
+                            </span>
+                    </form>
+                </li>
+            <li>
+                    <a id="p13n-menu" href="/login?dest=https://content.iospress.com:443/" data-recaptchasitekey="6LfnJVIUAAAAAE-bUOMg0MJGki4lqSvDmhJp19fN">
+                        Log in / Register
+                    </a>
+                <div id="p13n-dd" class="p13n-dd"></div>
+                <div class="p13n-modal-overlay"></div>
+                    <div id="p13n-history" data-uri="https://content.iospress.com:443/checkout/purchase-history"></div>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div id="search" class="search-complex" role="search">
+    <div class="container">
+        <form id="search-form" action="https://content.iospress.com:443/search" class="search-form block clearfix">
+            <div class="wrap-input clearfix">
+                <i role="presentation" class="icon-search"></i>
+                <label for="search-bar" class="visuallyhidden">Search</label>
+                <input id="search-bar" type="search" name="q" placeholder="Search" class="search-query search-input focused" value="" required="required">
+                <button type="submit" class="search-btn btn">Search</button>
+                <input name="published_between" type="hidden" />
+                <input name="from_year" type="hidden" />
+                <input name="to_year" type="hidden"/>
+                
+            </div>
+        </form>
+        <div class="search-row second-search-row clearfix">
+        <form id="peer-review-form">
+            <label class="search-label published-label" for="published-between">
+                <input id="published-between" name="published_between" type="checkbox"  />
+                Published between:
+            </label>
+            <label class="visuallyhidden" for="from-year">Published from year:</label>
+            <input class="tinput search-year search-year-from" id="from-year" name="from_year" type="text" placeholder="YYYY" pattern="\d{4,4}"  />
+            <span>and</span>
+            <label class="visuallyhidden" for="to-year">Published to year:</label>
+            <input class="tinput search-year" id="to-year" name="to_year" type="text" placeholder="YYYY" pattern="\d{4,4}"  />
+            <a class="search-syntax" href="#">Search syntax help</a>
+        </form>
+        </div>
+<div id="search-syntax" class="search-helptext">
+    <div class='container'>
+        <div class="search-row search-syntax-row clearfix">
+            <div class="search-syntax-content">
+                <p class='intro'>Searching for just a few words should be enough to get started. If you need to make more complex queries, use the tips below to guide you.</p>
+                <dl>
+                    <dt>Boolean operators</dt>
+                    <dd>This <strong>OR</strong> that<br />This <strong>AND</strong> that<br />This <strong>NOT</strong> that</dd>
+
+                    <dt>Must include "This" and "That"</dt>
+                    <dd>This That</dd>
+                    <dt class="grouped">Must not include "That"</dt>
+                    <dd class="grouped">This -That</dd>
+                    <dt class="grouped">"This" is optional</dt>
+                    <dd class="grouped">This +That</dd>
+                    <dt>Exact phrase "This That"</dt>
+                    <dd>"This That"</dd>
+
+                    <dt>Grouping</dt>
+                    <dd>(this <strong>AND</strong> that) <strong>OR</strong> (that <strong>AND</strong> other)</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>    </div>
+</div>
+
+
+    </div>
+
+
+
+
+
+
+    <div class="container main-container">
+        <a href="#nav-skiplink" class="skiplinks" id="content">In content section. Select this link to jump to navigation</a>
+    <script>
+        ga('set', 'dimension6','Dynamical trading mechanisms in limit order markets');
+        ga('set', 'dimension3',"Algorithmic Finance");
+        ga('set', 'metric2', 1 );
+        ga('set', 'dimension4',"Volume 2");
+        ga('set', 'metric3', 1 );
+        ga('set', 'metric4', 1 );
+        ga('set', 'metric5', 1 );
+        ga('set', 'dimension5',"Issue 3-4");
+        ga('send', 'pageview', "/Algorithmic Finance/");
+    </script>
+    <div class="main col">
+
+       
+        <div class="col-spacing shadow">
+            <header class="article-header">
+                <h1 class="" data-p13n="journal-article"
+                        
+                        data-p13n-uri="https://content.iospress.com/articles/algorithmic-finance/af027"
+                        data-p13n-articleid="algorithmic-finance/af027"
+                        data-p13n-title="Dynamical trading mechanisms in limit order markets"
+                        data-abstract="This work's main purpose is to understand the price dynamics in a generic limit order market, and illustrate a dynamical trading mechanism that can be applied to explore its market microstructure. First and foremost, we capture the iterative nature of the limit order market, and quantitatively identify its capacities as a means to develop switching schemes for the appearances of different sorts of traders. After formally introducing a dynamical trading system to replace the complex limit order market, we then study trading processes in that trading system from both deterministic and stochastic perspectives, in the purpose of recognizing conditions of general instability and stochastic stability in the trading system. In the final part of this work, the dynamics of the spread and mid-price in a controlled trading system will be investigated, which fairly serves to verify the robustness of stochastic stability appearing in an uncontrolled trading system. ">
+                        Dynamical trading mechanisms in limit order markets
+                </h1>
+                        <div class="front-meta-data" id="article1-front-metadata"><p class="metadata-entry"><span class="generated">Article type: </span>Research Article</p><p class="metadata-entry"><span class="generated">Authors: </span><a href="https://content.iospress.com:443/search?q=author%3A%28%22Wang, Shilei%22%29">Wang, Shilei</a><sup><a href="#"></a></sup></p><p class="metadata-entry"><span class="generated">Affiliations: </span><a id="aff1"><!-- named anchor --></a>Department of Economics, Ca’ Foscari University of Venice, 30121 Venice, Italy. E-mail: <a href="/cdn-cgi/l/email-protection#106378797c75793e67717e7750657e7966753e7964"><span class="__cf_email__" data-cfemail="23504b4a4f464a0d54424d4463564d4a55460d4a57">[email&#160;protected]</span></a></p><p class="metadata-entry"><span class="generated">Abstract: </span><span>This work's main purpose is to understand the price dynamics in a generic limit order market, and illustrate a dynamical trading mechanism that can be applied to explore its market microstructure. First and foremost, we capture the iterative nature of the limit order market, and quantitatively iden</span><span class="below-fold" data-below-fold="AF027">tify its capacities as a means to develop switching schemes for the appearances of different sorts of traders. After formally introducing a dynamical trading system to replace the complex limit order market, we then study trading processes in that trading system from both deterministic and stochastic perspectives, in the purpose of recognizing conditions of general instability and stochastic stability in the trading system. In the final part of this work, the dynamics of the spread and mid-price in a controlled trading system will be investigated, which fairly serves to verify the robustness of stochastic stability appearing in an uncontrolled trading system. </span></p><p class="metadata-entry"><span class="generated">Keywords: </span>Limit order market, dynamical trading system, controlled trading system, kernel region, buffering region, trading block, instability, stochastic stability</p><p class="metadata-entry"><span class="generated">DOI: </span>10.3233/AF-13027</p><p class="metadata-entry"><span class="generated">Journal: </span><a href="https://content.iospress.com:443/journals/algorithmic-finance">Algorithmic Finance</a>, vol. 2, no. 3-4, pp. 213-231, 2013</p><div class="metadata-entry history-date-wrapper"><div class="history-date"><span class="generated">Published:</span> 28 December 2013</div></div></div>
+                <div class="pricing">
+
+                <strong>Price: EUR 27.50</strong>
+                    <form class="add-to-cart-form" id="add-ArticleId_af027" action="https://content.iospress.com:443/cart/add" method="post">
+                      <input type="hidden" name="dest" value="https://content.iospress.com/articles/algorithmic-finance/af027" />
+                      <input type="hidden" name="id" value="ArticleId_af027" />
+                      <button class="btn btn-arrow btn-cart add-single"><i class="icon-shopping-cart" role="presentation"></i> Add to cart</button>
+                    </form>
+                </div>
+            </header>
+            <div class="complete-article-html-placeholder">
+                    <div class="no-access-section">
+                            
+                                    <button class="btn btn-wide open-p13n-modal">Log in or register to view or purchase instant access </button>
+                          
+                  </div>
+                    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//api.growkudos.com/widgets/article/10.3233/AF-13027"></script>
+                    <script src="//api.growkudos.com/widgets/resources/10.3233/AF-13027"></script>                                     
+            </div>
+        </div>
+    </div>
+    <div class="citation-popup-container"></div>
+
+    <div class="sidebar col">
+<ul class="social-media-share">
+    <li><h2>Share this: </h2></li>
+    <li>
+        <a class="twitter-share-button" href="https://twitter.com/intent/tweet?status=Dynamical%20trading%20mechanisms%20in%20limit%20order%20markets+https://content.iospress.com/articles/algorithmic-finance/af027" target="_blank"><span class="visuallyhidden">Twitter share</span><i class="icon-twitter icon icon-big"></i></a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://content.iospress.com/articles/algorithmic-finance/af027&amp;title=Dynamical%20trading%20mechanisms%20in%20limit%20order%20markets" target="_blank"><span class="visuallyhidden">Facebook share</span><i class="icon-facebook icon icon-big"></i></a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://content.iospress.com/articles/algorithmic-finance/af027&amp;title=Dynamical%20trading%20mechanisms%20in%20limit%20order%20markets" target="_blank"><span class="visuallyhidden">Linked in share</span><i class="icon-linkedin icon icon-big"></i></a>
+    </li>
+</ul><div class="volume-list toc folded-section shadow border" id="table-of-content">
+    <ul>
+            <li class="">
+                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                    <i class="icon icon-plus"></i>Volume Pre-press
+                </button>
+                <ul class="toggle-section">
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/Pre-press/Pre-press">Issue Pre-press</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                    <i class="icon icon-plus"></i>Volume 10
+                </button>
+                <ul class="toggle-section">
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/10/1-2">Issue 1-2</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                    <i class="icon icon-plus"></i>Volume 9
+                </button>
+                <ul class="toggle-section">
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/9/3-4">Issue 3-4</a></li>
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/9/1-2">Issue 1-2</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                    <i class="icon icon-plus"></i>Volume 8
+                </button>
+                <ul class="toggle-section">
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/8/3-4">Issue 3-4</a></li>
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/8/1-2">Issue 1-2</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                    <i class="icon icon-plus"></i>Volume 7
+                </button>
+                <ul class="toggle-section">
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/7/3-4">Issue 3-4</a></li>
+                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/7/1-2">Issue 1-2</a></li>
+                </ul>
+            </li>
+    </ul>
+
+            <div class="below-fold">
+                <ul>
+                            <li class="">
+                                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                                    <i class="icon icon-plus"></i>Volume 6
+                                </button>
+                                <ul class="toggle-section">
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/6/3-4">Issue 3-4</a></li>
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/6/1-2">Issue 1-2</a></li>
+                                </ul>
+                            </li>
+                            <li class="">
+                                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                                    <i class="icon icon-plus"></i>Volume 5
+                                </button>
+                                <ul class="toggle-section">
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/5/3-4">Issue 3-4</a></li>
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/5/1-2">Issue 1-2</a></li>
+                                </ul>
+                            </li>
+                            <li class="">
+                                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                                    <i class="icon icon-plus"></i>Volume 4
+                                </button>
+                                <ul class="toggle-section">
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/4/3-4">Issue 3-4</a></li>
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/4/1-2">Issue 1-2</a></li>
+                                </ul>
+                            </li>
+                            <li class="">
+                                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                                    <i class="icon icon-plus"></i>Volume 3
+                                </button>
+                                <ul class="toggle-section">
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/3/3-4">Issue 3-4</a></li>
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/3/1-2">Issue 1-2</a></li>
+                                </ul>
+                            </li>
+                            <li class="active">
+                                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                                    <i class="icon icon-minus"></i>Volume 2
+                                </button>
+                                <ul class="toggle-section open">
+                                            <li class="active"><span><a href="https://content.iospress.com:443/journals/algorithmic-finance/2/3-4">Issue 3-4</a></span></li>
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/2/2">Issue 2</a></li>
+                                            <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/2/1">Issue 1</a></li>
+                                </ul>
+                            </li>
+                            <li class="hidden">
+                                <button class="volume-no js-volume-toggle" title="Press to access issues within this volume">
+                                    <i class="icon icon-plus"></i>Volume 1
+                                </button>
+                                <ul class="toggle-section">
+                                        <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/1/2">Issue 2</a></li>
+                                        <li><a href="https://content.iospress.com:443/journals/algorithmic-finance/1/1">Issue 1</a></li>
+                                </ul>
+                            </li>
+                </ul>
+            </div>
+        <div class="view-control-section">
+                <a class="view-more has-hidden-items" href="#">Show more</a>
+        </div>
+</div>
+
+        <div class="ad-block">
+<div id="article-sidebar-ad" data-mercury="full" class="sidebar-advert"><div></div> 
+<a href="https://journals.sagepub.com/ios-press-info" target="_blank"> 
+ <div> 
+  <img src="/fragr/images/J24_3782 IOS Press Banners Ads_moving-soon_268x268.jpg" /> 
+ </div> 
+ <div> 
+  <br /> 
+ </div></a> 
+<div> 
+ <a href="https://www.iospress.com/newsletters"><img src="https://www.iospress.com/sites/default/files/media/images/2021-09/Content-site_square-banner_signup-journal-newsletters_2021.png" /></a> 
+ <br /> 
+</div></div>        </div>
+
+        <div class="sidebar-block" id="related-content">
+        <div id="trendmd-suggestions"></div>
+        <script type="text/javascript" src="//trendmd.s3.amazonaws.com/trendmd.min.js"></script>
+        <script type="text/javascript">TrendMD.register({element: '#trendmd-suggestions', track_id: null});</script>
+    </div>
+        </div>
+    </div>
+    </div>
+
+<div id="footer" class="footer block">
+<a href="#header-skiplink" class="skiplinks">Go to header</a><a href="#nav-skiplink" class="skiplinks">Go to navigation</a><a href="#search-bar" class="skiplinks">Go to search</a><a href="#content" class="skiplinks">Go to contents</a><a href="#footer-skiplink" class="skiplinks">Go to footer</a>    <a href="#content" class="skiplinks" id="footer-skiplink">In footer section. Select this link to jump to content</a>
+<div class="footer-primary container clearfix">
+    <div class="col-1by3 col">
+        <div class="spacing">
+            <ul>
+                <li>
+                       <a href="https://content.iospress.com:443/sgk-login">Administrator log in</a>
+                                    <p>
+                                        <a href="https://shibboleth2sp.ios.semcs.net/shib?dest=https%3A%2F%2Fcontent.iospress.com%3A443%2FSHIBBOLETH%3Fdest%3Dhttps%253A%252F%252Fcontent.iospress.com%252Farticles%252Falgorithmic-finance%252Faf027">Shibboleth log in</a>
+                                    </p>
+                       </a>
+                </li>
+                <li>
+                    <a href="https://content.iospress.com:443/journals/">Journals</a>
+                </li>
+                <li>
+                    <a href="https://content.iospress.com:443/page/help">Help</a>
+                </li>
+                <li>
+                    <a href="https://content.iospress.com:443/page/about">About us</a>
+                </li>
+                <li>
+                    <a href="https://content.iospress.com:443/page/contact">Contact us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-1by3 col">
+        <div class="spacing">
+            <ul class="legal-links">
+                <li>
+                    <a href="https://content.iospress.com:443/page/terms" id="terms-of-use">Terms &amp; conditions</a>
+                </li>
+                <li>
+                    <a href="https://content.iospress.com:443/page/privacy" id="cookies-hidden">Privacy policy</a>
+                </li>
+                <li>
+                    <span class="copy-right">
+                        Copyright ©2024 IOS Press All rights reserved.
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-1by3 col">
+        <div class="spacing last">
+<ul class="social-media-tags">
+    <li><strong>Join our network: </strong></li>
+    <li>
+        <a href="https://twitter.com/iospress_stm" target="_blank"><i class="icon-twitter icon icon-big"></i>Twitter</a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/publisheriospress" target="_blank"><i class="icon-facebook icon icon-big"></i>Facebook</a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/company/iospress" target="_blank"><i class="icon-linkedin icon icon-big"></i>LinkedIn</a>
+    </li>
+</ul>        </div>
+    </div>
+</div><div class="footer-secondary">
+    <div class="container block">
+        <div class="col col-1by3">
+            <div class="spacing">
+                <h2>North America</h2>
+                <p>
+                    IOS Press, Inc. <br/>
+                    6751 Tepper Drive <br />
+                    Clifton, VA 20124 <br />
+                    USA <br />
+                </p>
+                <p>
+                    Tel: +1 703 830 6300<br/>
+                    Fax: +1 703 830 2300 <br />
+                    <a href="/cdn-cgi/l/email-protection#bccfddd0d9cffcd5d3cfccced9cfcf92dfd3d1"><span class="__cf_email__" data-cfemail="552634393026153c3a2625273026267b363a38">[email&#160;protected]</span></a> <br />
+                </p>
+                <p class="info">
+                    For editorial issues, like the status of your submitted paper or proposals, write to <a href="/cdn-cgi/l/email-protection#3e5b5a574a514c575f527e57514d4e4c5b4d4d105052"><span class="__cf_email__" data-cfemail="3257565b465d405b535e725b5d4142405741411c5c5e">[email&#160;protected]</span></a>
+                </p>
+            </div>
+        </div>
+        <div class="col col-1by3">
+            <div class="spacing">
+                <h2>Europe</h2>
+                <p>
+                    IOS Press <br/>
+                    Nieuwe Hemweg 6B <br />
+                    1013 BG Amsterdam <br />
+                    The Netherlands <br />
+                </p>
+                <p>
+                    Tel: +31 20 688 3355 <br/>
+                    Fax: +31 20 687 0091 <br />
+                    <a href="/cdn-cgi/l/email-protection#e0898e868fa0898f939092859393ce8e8c"><span class="__cf_email__" data-cfemail="0b62656d644b6264787b796e7878256567">[email&#160;protected]</span></a> <br />
+                </p>
+                <p>
+                    For editorial issues, permissions, book requests, submissions and proceedings, contact the Amsterdam office <a href="/cdn-cgi/l/email-protection#40292e262f00292f3330322533336e2e2c"><span class="__cf_email__" data-cfemail="751c1b131a351c1a0605071006065b1b19">[email&#160;protected]</span></a> <br />
+                </p>
+            </div>
+        </div>
+        <div class="col col-1by3">
+            <div class="spacing last">
+                <h2>Asia</h2>
+                <p>
+                    Inspirees International (China Office) <br />
+                    Ciyunsi Beili 207(CapitaLand), Bld 1, 7-901 <br />
+                    100025, Beijing <br />
+                    China <br />
+
+                    <br />
+                    Free service line: 400 661 8717
+                    <br />
+                    Fax: +86 10 8446 7947<br/>
+                    <a href="/cdn-cgi/l/email-protection#dbb8b3b2b5ba9bb2b4a8aba9bea8a8f5b8b5"><span class="__cf_email__" data-cfemail="701318191e1130191f0300021503035e131e">[email&#160;protected]</span></a> <br />
+                </p>
+                <p>
+                    For editorial issues, like the status of your submitted paper or proposals, write to <a href="/cdn-cgi/l/email-protection#5b3e3f322f3429323a371b3234282b293e2828753537"><span class="__cf_email__" data-cfemail="5530313c213a273c3439153c3a2625273026267b3b39">[email&#160;protected]</span></a>
+                </p>
+                <p>
+                    如果您在出版方面需要帮助或有任何建, 件至: <a href="/cdn-cgi/l/email-protection#1b7e7f726f7469727a775b7274686b697e6868357577"><span class="__cf_email__" data-cfemail="d6b3b2bfa2b9a4bfb7ba96bfb9a5a6a4b3a5a5f8b8ba">[email&#160;protected]</span></a> <br />
+                </p>
+           </div>
+        </div>
+    </div>
+</div><div class="container padded footer-credits block">
+    <div class="col col-1by2">
+        <img class="logo" src="https://content.iospress.com:443/static/img/mock_up_footer_new.png@2.6.8-2-gb19ff93" alt="IOS press, Impacting the world of science, Books &amp; Journals, Online &amp; Print"/>
+    </div>
+    <div class="col col-1by2 semantico-credits">Built on the Scolaris platform by: <a href="http://www.semantico.com"><img width="120" src="https://content.iospress.com:443/static/img/sem_logo.png@2.6.8-2-gb19ff93" alt="Semantico" /></a></div>
+</div>
+</div>
+
+<!--[if lt IE 8]>
+    <script src="https://content.iospress.com:443/static/js/source/vendor/json3.js@2.6.8-2-gb19ff93" ></script>
+    <script src="https://content.iospress.com:443/static/js/source/vendor/storage.js@2.6.8-2-gb19ff93" ></script>
+<!<![endif]-->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://content.iospress.com:443/static/js/compiled/compiled.min.js@2.6.8-2-gb19ff93"></script>
+<script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML" async></script>
+
+</body>
+
+</html>
+
+<!-- com.semantico.sgk.client.AuthInfoImpl@6dc9b7ef[accountId=<null>,relatedAccountIds=[],accountType=<null>,authCredentials=[],roamingPassportCredentialType=<null>,roamingPassportCredentialValue=<null>,roamingPassportDateSet=<null>,roamingPassportDateExpires=<null>,roamingPassportUsed=false,baseUrl=<null>,contentUnits={},failOpen=false,organisation=<null>,preferences={},products=[],requestedUrl=<null>,siteId=<null>,secondarySiteIds=<null>,userId=<null>,subscribedProductUrls={},subscribedSiteIds=[],secondarySiteProducts={},secondarySiteContentUnitTypes={},subsIdContentUnits={},accIdSubsIds={},subsIdType={},subsIdPreferences={},subsIdConcurrencyType={}] -->
+<!-- mvn: 2.6.9-SNAPSHOT -->
+<!-- git: 2.6.8-2-gb19ff93 -->
+<!-- cspiosweb30yb.cloud.ios.semcs.net -->
+<!-- loggedInP13n: java.lang.Boolean@4e9bf280[value=false] -->
+<!-- loggedInFragr: false -->
+<!-- client ip: 72.79.120.60 -->
+<!-- ecommerce: true -->
+<!-- shibboleth: true -->
+<!-- default-counter: true -->
