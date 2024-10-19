@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	
+<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>GER - Global Economics Review</title>		
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="/css/bootstrap.css">
+		<!-- Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&amp;subset=devanagari,latin-ext" rel="stylesheet">
+		<link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="/fonts/IcoMoon/icomoon.css">
+		<link rel="stylesheet" href="/fonts/linearicon/style.css">
+		<!-- Mobile Menu -->
+		<link type="text/css" rel="stylesheet" href="/css/jquery.mmenu.all.css" />
+		
+		<!-- Main Style -->
+		<link rel="stylesheet" href="/style.css">
+		<!-- color scheme -->
+
+		
+		<!-- Favicons
+			================================================== -->
+		<link rel="shortcut icon" href="/images/favicon.png">
+	</head>
+	<body class="royal_loader">
+		
+		<div class="full-screen-warp bg-404">
+			<div class="col-md-6 col-md-offset-3">
+				<div class="warp-inner-404 text-center">
+					<a href="#">
+						<img src="/images/logo-on-sub-color.png" class="img-responsive" alt="Image" style="height:58px;width:auto;">
+					</a>
+					<p class="sub-text-404">We are really sorry, but the page you requested is missing..
+					Perhaps searching again can help. Or back to <a href="/">home page</a> </p>
+					<div class="box-text-404">
+						<span>ERROR</span>
+						<strong>404</strong>
+						<p>This page not be found</p>
+					</div>
+					<div class="subcribe-warp search-404">
+						
+						<form class="form-inline form-subcri">
+						  <div class="form-group">
+						    <input class="form-control" id="exampleInputName2" placeholder="Search Or Enter your Keyword" type="text">
+						  </div>
+						  <button type="submit" class="btn-subcrib"><i class="fa fa-search" aria-hidden="true"></i></button>
+						</form>
+					</div>
+
+					<p style="font-size: 24px;margin:0;">OR</p>
+					<div class="group-btn text-center">
+						<a href="/" class="ot-btn btn-border-white-color" > Back to Home</a>
+					</div>
+					
+					<p class="ftext">© 2016 GER - All rights reserved.</span></p>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- SCRIPT -->
+		<script src="/js/vendor/jquery.min.js"></script>
+		<script src="/js/vendor/bootstrap.js"></script>
+		
+		<!-- PreLoad
+			================================================== --> 
+		<script type="text/javascript" src="/js/plugins/royal_preloader.js"></script>
+		<script type="text/javascript">
+			  /*Preload*/
+				  (function($) { "use strict";
+				      Royal_Preloader.config({
+				          mode:           'logo',
+				          logo:           'images/logo-on-sub-color.png',
+				          timeout:       1,
+				          showInfo:       false,
+				          opacity:        1,
+				          background:     ['#0a2c4e']
+				      });
+				  })(jQuery);
+		</script>
+		
+				<script src="/js/plugins/template.js"></script>	
+	</body>
+
+</html>
+

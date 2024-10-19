@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+
+
+
+	<html lang="en">
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+
+			
+			<link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+		
+			
+			<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet">
+
+
+			
+
+			
+
+			
+			
+			<link rel="stylesheet" href="/assets/css/index.css">
+
+			<link rel="stylesheet" type="text/css" href="/assets/css/custom.css">
+
+			
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+		
+		
+			
+
+			<style>
+				:root {
+					--font-family: 'Nunito Sans', sans-serif;
+					--primary-color: #22304d;
+					--seconday-color:#353535;
+					--app-background-color1: #ffffff;
+					--app-background-color2: #faf8fe;
+					--text-color: #000000;
+					
+						--app-gradient-color1: #320270;
+					
+					
+						--app-gradient-color2: #7420FF;
+					
+					
+						--app-gradient-color3: #3B0F96;
+					
+					
+				}
+			</style>
+			<style>
+				@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+			</style>
+
+
+			
+			
+				
+					<meta name="description" content="IEOM Society Publication Database: A dedicated hub for knowledge and insights in the field of Industrial Engineering and Operations Management. Explore research, articles, and resources that exemplify our commitment to advancing IE & OM globally, fostering critical thinking, and serving humanity.">
+				
+				
+					<title>IEOM Index</title>
+				
+
+			
+			
+				<meta name="robots" content="noindex, nofollow">
+			
+
+			
+			<link href="https://vjs.zencdn.net/8.16.1/video-js.css" rel="stylesheet" />
+		</head>
+		
+		<body>
+			
+
+	
+	
+
+	
+	<nav class="navbar navbar-expand-xl left ">
+		<div class="container">
+			<a href="/index.cfm" class="navbar-brand pt-0 pb-0">
+				
+				    
+				
+				<img src="/assets/uploadimage/sitelogo.png" alt="" height="90" class="img-responsive d-none d-sm-block">
+			</a>
+			<div class="d-flex d-none d-sm-flex" style="height:65px;">
+				<div class="vr nav-line"></div>
+			</div>
+			<span class="navbar-text main">
+				<strong>
+					IEOM Index
+				</strong>
+				<br>
+				<span class="sub">
+					
+						Forefront of Scientific Publications
+					
+				</span>
+			</span>
+			<button
+				class="navbar-toggler"
+				type="button"
+				data-bs-toggle="offcanvas"
+				data-bs-target="#navbarOffcanvas"
+				aria-controls="navbarOffcanvas"
+				aria-expanded="false"
+				aria-label="Toggle navigation"
+			>
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="offcanvas offcanvas-end nav-bg " id="navbarOffcanvas" tabindex="-1">
+				<div class="offcanvas-header">
+					<button
+						type="button"
+						class="btn-close btn-close-black text-reset"
+						data-bs-dismiss="offcanvas"
+						aria-label="Close"
+					></button>
+				</div>
+				<div class="offcanvas-body">
+					<div class="navbar-nav justify-content-end flex-grow-1 pe-3 mt-3">
+						<a class="nav-item nav-link nav-text" aria-current="page" href="/index.cfm">
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								width="17"
+								height="17"
+								fill="currentColor"
+								class="bi bi-house-door-fill home"
+								viewBox="0 0 17 17"
+							>
+								<path
+									d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z"
+								/>
+							</svg>Home
+						</a>
+
+						<a class="nav-item nav-link nav-text" href="/index.cfm/conference/list">
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								width="17"
+								height="17"
+								fill="currentColor"
+								class="conference"
+								viewBox="0 0 17 17"
+							>
+								<path
+									d="m7.63.04c-.69.17-1.2.82-1.2,1.52,0,.84.72,1.56,1.57,1.56s1.57-.72,1.57-1.56S8.84-.01,7.97,0c-.1,0-.25.02-.34.04Z"
+								/><path
+									d="m11.23,3.19c-.13.07-.24.25-.24.4s.1.31.37.58l.25.25v1.67h-4.36c-4.31,0-4.36,0-4.49.06-.14.07-.25.25-.25.41,0,.25.23.47.5.47h.13v1.03s.02,1.03.02,1.03l.18.07c.61.25,1.18.86,1.39,1.48.19.59.19,1.13-.02,1.7l-.08.21.11.1c.14.12.22.19.34.34l.1.12.1-.12c.13-.15.18-.19.33-.32l.13-.11-.09-.25c-.4-1.14.02-2.36,1.05-2.99.99-.6,2.27-.45,3.08.37.69.69.91,1.68.58,2.62l-.09.24.11.1c.14.12.22.19.35.34l.1.12.1-.12c.13-.15.17-.19.33-.33l.13-.11-.08-.22c-.21-.58-.22-1.11-.03-1.7.2-.62.78-1.23,1.38-1.48l.18-.07v-1.03s.02-1.03.02-1.03h.13c.27,0,.5-.22.5-.47,0-.16-.11-.33-.25-.41-.1-.05-.19-.06-.41-.06h-.28v-.98c0-.91,0-1-.06-1.1-.08-.14-.7-.76-.84-.83s-.28-.06-.42.02Z"
+								/><path
+									d="m6.07,3.53c-.35.23-.71.66-.86,1.04-.08.19-.15.45-.15.53,0,.05.16.06,2.95.06s2.95,0,2.95-.06c0-.18-.17-.62-.35-.89-.15-.24-.56-.63-.76-.73l-.15-.08-.13.11c-.29.25-.69.43-1.13.52-.44.08-.89.04-1.35-.13-.23-.08-.64-.33-.72-.43-.06-.08-.1-.07-.3.07Z"
+								/><path
+									d="m1.99,9.95c-.69.17-1.2.82-1.2,1.52,0,.84.72,1.56,1.57,1.56s1.57-.72,1.57-1.56-.73-1.57-1.59-1.56c-.1,0-.25.02-.34.04Z"
+								/><path
+									d="m7.63,9.95c-.69.17-1.2.82-1.2,1.52,0,.84.72,1.56,1.57,1.56s1.57-.72,1.57-1.56-.73-1.57-1.59-1.56c-.1,0-.25.02-.34.04Z"
+								/><path
+									d="m13.28,9.95c-.69.17-1.2.82-1.2,1.52,0,.84.72,1.56,1.57,1.56s1.57-.72,1.57-1.56-.73-1.57-1.59-1.56c-.1,0-.25.02-.34.04Z"
+								/><path
+									d="m.46,13.5c-.22.22-.36.49-.42.77-.02.09-.03.43-.03.76,0,.69.03.79.25.9.12.06.18.06,2.1.06s1.98,0,2.1-.06c.22-.11.25-.22.25-.9,0-.33-.02-.67-.03-.76-.06-.28-.21-.55-.42-.77l-.2-.2-.12.11c-.4.34-1.02.56-1.57.56s-1.24-.25-1.61-.59l-.08-.08-.2.2Z"
+								/><path
+									d="m6.11,13.5c-.22.22-.36.49-.42.77-.02.09-.03.43-.03.76,0,.69.03.79.25.9.12.06.18.06,2.1.06s1.98,0,2.1-.06c.22-.11.25-.22.25-.9,0-.33-.02-.67-.03-.76-.06-.28-.21-.55-.42-.77l-.2-.2-.12.11c-.4.34-1.02.56-1.57.56s-1.24-.25-1.61-.59l-.08-.08-.2.2Z"
+								/><path
+									d="m11.75,13.5c-.22.22-.36.49-.42.77-.02.09-.03.43-.03.76,0,.69.03.79.25.9.12.06.18.06,2.1.06s1.98,0,2.1-.06c.22-.11.25-.22.25-.9,0-.33-.02-.67-.03-.76-.06-.28-.21-.55-.42-.77l-.2-.2-.12.11c-.4.34-1.02.56-1.57.56s-1.24-.25-1.61-.59l-.08-.08-.2.2Z"
+								/>
+							</svg>
+							Conferences
+						</a>
+
+						
+
+						
+							<a class="nav-item nav-link nav-text"  aria-current="page" href="https://ieomsociety.org/ieom/conferences/" target="_blank">Upcoming Conferences</a><a class="nav-item nav-link nav-text"  aria-current="page" href="https://ieomsociety.org" target="_blank">IEOM Society Home</a>
+						
+
+					</div>
+
+				</div>
+				
+			</div>
+		</div>
+	</nav>
+
+
+			
+	Error 404 - Page not found.
+
+
+
+			
+
+
+	
+	
+	
+	
+
+	
+	
+	
+		
+	
+
+
+	
+		
+	
+
+
+	<footer class=" text-lg-start">
+		<section class="bg-color footer-style">
+			<div class="container text-center text-md-start ">
+				<div class="row mt-3">
+					<div class="col-md-5 col-lg-5 col-xl-5 col-sm-5  mb-5 text-white">
+						<h3 class="mb-4 mt-5 brand-header">
+							IEOM
+						</h3>
+
+						
+							<p class="brand-text">
+								The IEOM Society International strives to be the premier global organization dedicated to the advancement of industrial engineering and operations management discipline for the betterment of humanity.
+							</p>
+						
+					</div>
+
+					<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-5 text-white">
+						<h4 class=" mb-4 mt-5 footer-header">
+							Quick links
+						</h4>
+						<ul class="side-nav" style="margin-left: -58px">
+							<ol>
+								<span><a class="text-white"href="/index.cfm">Home</a></span>
+							</ol>
+							<ol>
+								<span><a class="text-white" href="/index.cfm/conference/list">Conferences</a></span>
+							</ol>
+
+							
+								
+									<ol>
+										<span><a class="text-white" href="https://ieomsociety.org/ieom/conferences/">Upcoming Conferences</a></span>
+									</ol>
+								
+							
+								
+									<ol>
+										<span><a class="text-white" href="https://ieomsociety.org">IEOM Society Home</a></span>
+									</ol>
+								
+							
+							
+						</ul>
+					</div>
+
+					<div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-5">
+						<h4 class=" mb-4 mt-5 footer-header">Contact Us</h4>
+						
+							<p class="footer-text">
+								<svg
+									xmlns="http://www.w3.org/2000/svg"
+									width="20"
+									height="20"
+									fill="currentColor"
+									class="phone-icon"
+									viewBox="0 0 20 20"
+								>
+									<path
+										d="m19.99,15.11c-.18,1.36-.84,2.6-1.87,3.5-1.03.9-2.35,1.4-3.72,1.39C6.46,20,0,13.54,0,5.6c0-1.37.49-2.69,1.39-3.72C2.29.86,3.54.19,4.89.01c.34-.04.69.03.99.2.3.17.54.44.67.75l2.11,4.72h0c.11.25.15.52.13.78-.02.26-.11.52-.25.74-.02.03-.04.05-.06.08l-2.08,2.47c.75,1.52,2.34,3.1,3.88,3.85l2.43-2.07s.05-.04.07-.06c.22-.15.48-.24.74-.26.26-.02.53.02.78.12h.01s4.71,2.12,4.71,2.12c.32.14.58.37.75.67.17.3.24.65.2.99Z"
+									/>
+								</svg>
+								1-248-450-5660
+							</p>
+						
+
+						
+							<p class="footer-text">
+								<svg
+									xmlns="http://www.w3.org/2000/svg"
+									width="20"
+									height="20"
+									fill="currentColor"
+									class="phone-icon"
+									viewBox="0 0 20 20"
+								>
+									<path
+										d="m2.21,2.92h15.58c1.47,0,2.21.7,2.21,2.11v9.94c0,1.4-.74,2.11-2.21,2.11H2.21C.74,17.08,0,16.38,0,14.97V5.03C0,3.61.74,2.92,2.21,2.92Zm7.78,10.15l7.92-6.53c.28-.24.51-.78.15-1.26-.34-.48-.96-.5-1.38-.2l-6.7,4.56L3.3,5.08c-.41-.3-1.03-.28-1.38.2-.35.48-.13,1.03.15,1.26l7.91,6.53Z"
+									/>
+								</svg>
+								info@ieomsociety.org
+							</p>
+						
+
+						
+							<span class="footer-text address">
+
+								<span style="width:25px"> 
+									<svg
+										xmlns="http://www.w3.org/2000/svg"
+										width="25"
+										height="50"
+										fill="currentColor"
+										class="location-icon"
+										viewBox="0 0 25 25"
+									>
+										<path
+											d="m10,0c-2.12,0-4.15.83-5.65,2.3-1.5,1.47-2.34,3.47-2.35,5.55,0,1.7.56,3.36,1.61,4.71,0,0,.22.28.25.32l6.13,7.11,6.14-7.11s.25-.32.25-.32h0c1.05-1.36,1.61-3.01,1.61-4.71,0-2.08-.85-4.08-2.35-5.55C14.15.83,12.12,0,10,0Zm0,10.71c-.58,0-1.14-.17-1.62-.48-.48-.31-.85-.76-1.07-1.28-.22-.52-.28-1.1-.17-1.65.11-.55.39-1.06.8-1.46.41-.4.93-.67,1.49-.78.56-.11,1.15-.05,1.68.16.53.22.99.58,1.31,1.05.32.47.49,1.02.49,1.59,0,.76-.31,1.48-.85,2.02-.55.54-1.28.84-2.06.84Z"
+										/>
+									</svg>
+								</span>
+	
+								<span>
+									21411 Civic Center,Suite #205, Southfield,Michigan,48076, USA
+								</span>
+								
+							</span>
+						
+						
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+			&copy; 2024 Copyright: Developed and maintained by
+			<a class="text-reset fw-bold" href="https://www.x-cd.com/"> X-CD Technologies</a>
+		</div>
+	</footer>
+
+	<!-- Footer -->
+
+	<!-- Footer
+
+
+	<div class="footer">
+	<footer>
+	<div class="container">
+	<div class="row">
+	<div class="col-xl-3 col-lg-4 col-md-6">
+	<div class="company-detail-colunm">
+	<h4 class="link-header">IEOM Society</h4>
+	<p class="mb-30 footer-desc content-text-footer">
+	The IEOM Society International strives to be the premier global organization dedicated to the advancement of industrial engineering and operations management discipline for the betterment of humanity.
+	</p>
+	</div>
+	</div>
+	<div class="col-xl-2 offset-xl-1 col-lg-2 col-md-6">
+	<h4 class="link-header">Quick Links</h4>
+	<div class="link-list">
+	<ul class="list-unstyled">
+	<li>
+	<a href="/index.cfm" class="link-color">Home</a>
+	</li>
+	<li>
+	<a href="#" class="link-color">About Us</a>
+	</li>
+	<li>
+	<a href="#" class="link-color">Service</a>
+	</li>
+	<li>
+	<a href="#" class="link-color">Site-Map</a>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="col-xl-2 col-lg-2 col-md-6">
+	
+	</div>
+	<div class="col-xl-3 col-lg-3 col-md-6">
+	<h4 class="link-header">Contact Us</h4>
+	<ul class="list-unstyled">
+	<li>
+	<p>Phone: 1-248-450-5660</p>
+	</li>
+	<li>
+	<p>
+	<a href="mailto:info@ieomsociety.org" class="email">Email: info@ieomsociety.org</a>
+	</p>
+	</li>
+	<li>
+	<p class="link-color">
+	21411 Civic Center, Suite <br/>
+	#205, Southfield, Michigan,<br/>
+	48076, USA
+	</p>
+	</li>
+	</ul>
+	</div>
+	<div class="d-flex justify-content-center">
+	<div class="copyright">
+	<p>
+	IEOM Society International - Industrial Engineering and Operations Management Society International - is a 501(c)(3) non-profit organization incorporated in the State of Michigan and tax exemption from the U.S.
+	</p>
+	</div>
+	</div>
+	<div class="d-flex justify-content-center">
+	<div class="copyright">
+	<p>
+	&copy;2022 Copyright: Developed and maintained by <a href="#" target="_blank" class="company-name">X-CD Technologies</a>
+	</p>
+	</div>
+	</div>
+	</div>
+	</footer>
+	</div> -->
+
+
+
+			<script>
+				let localization = {"videoTab":"Video","trackType":"Conference Tracks","downloads":"Downloads","recentYears":"Recent Years","caption":"Forefront of Scientific Publications","allConferenceYears":"All Conference Years","conferenceMenu":"Conferences","downloadCitations":"Download Citations","allYears":"All Years","refineResults":"Refine Results","ListOfConferences":"List Of Conferences","searchConferenceTitle":"Search Conference Title","advancedSearchHelpTitle":"Search Help","specialConferences":"Conference Type","affiliation":"Affiliation","conferences":"text","browseConferences":"Browse conferences ","paperCitations":"Paper Citations","customYears":"Custom Years","selectASession":"Select a Session","conference":"Conferences","publisherName":"IEOM Society International","selectAConference":"Select a Conference","sessionType":"Session Types","reset":"Reset All","home":"Home","siteHeader":"IEOM Index","selectATrack":"Select a Track","allConferences":"All Conferences","attachmentsTab":"Attachments","presenter":"Presenter","downloadPdfs":"Download PDF's","EndYear":"End Year","searchTerm":"Search Term","displayOrder":"Display Order","advancedSearchHelpText":"How to use the advanced search feature.","advancedSearch":"Advanced Search","views":"Views","login":"Login","downloadConferences":"Download Conferences","clientName":"IEOM","biography":"Biography","authors":"Authors","loginButton":"Login","articleTrack":"Track","selectAYear":"Select a Year","advancedSearchHelpTip":"Enter Keywords and Select Fields","fullTextReviews":"Full Text Reviews","posterTab":"Poster","homePhrase":"Your gateway to world-class <br>research journals","startYear":"Start Year","searchResults":"Search Results","search":"Search","searchYears":"Publication Year","upcomingConferences":"Upcoming Conferences","ViewPosterButton":"View"};
+			</script>
+
+			
+			<script src="/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+			
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+
+			<script src="/assets/js/select2.js"></script>
+			
+			<script src="/assets/js/search.js"></script>
+			<script src="/assets/js/filterCardView.js"></script>
+
+
+			<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+			
+			
+			
+			
+
+			
+			
+			
+
+			
+
+			<script src="/assets/js/main.js"></script>
+			
+			
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-D7M1RLP0FP"></script>
+			
+			
+				<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-D7M1RLP0FP'); </script>
+			
+
+			<script src="https://vjs.zencdn.net/8.16.1/video.min.js"></script>
+		</body>
+	</html>
+
