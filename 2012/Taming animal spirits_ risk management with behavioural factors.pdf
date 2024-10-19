@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="stylesheet" href="/public/include/css/modern/framework.css?q=1648450399" />
+    <script type="text/javascript" src="/public/include/js/modern/loader.js?q=1648450399"></script>
+    <script type="text/javascript" src="/public/include/js/modern/main.js?q=1648450399"></script>
+    <script type="text/javascript">
+    function init(apmui) {
+        var appLoader = new apmui.AppLoader();
+        appLoader.configure({
+    "pageType": "logon",
+    "source": "/Common/modern",
+    "styles": [],
+    "scripts": [],
+    "logon": {
+        "recaptcha": {
+            "config": {
+                "siteKey": "6LfN5xcdAAAAAMohYmgZGcAookU1oraMBY6JDRqn",
+                "theme": "light",
+                "type": "image",
+                "size": "normal",
+                "challengeUrl": "www.google.com/recaptcha/api.js",
+                "noscriptUrl": "www.google.com/recaptcha/api/fallback",
+                "version": null
+            }
+        },
+        "softToken": {
+            "fieldName": "",
+            "state": "",
+            "newPin": ""
+        },
+        "form": {
+            "id": "auth_form",
+            "title": "Verification Required for Access to Spiral",
+            "submitCaption": "Submit",
+            "savePassword": "Save Password",
+            "passwordVerifyDontMatch": "Password and confirmation do not match.",
+            "fields": []
+        },
+        "images": {
+            "image00": "/public/images/my/tr.gif",
+            "image01": "/public/images/my/tr.gif",
+            "image02": "/public/images/my/tr.gif",
+            "image03": "/public/images/my/tr.gif",
+            "image04": "/public/images/my/tr.gif",
+            "image05": "/public/images/my/tr.gif",
+            "image06": "/public/images/my/tr.gif",
+            "image07": "/public/images/my/tr.gif",
+            "image08": "/public/images/my/tr.gif",
+            "image09": "/public/images/my/tr.gif"
+        }
+    },
+    "general": {
+        "header": {
+            "logoImage": "/public/images/customization/Common/spiral-captcha_general_ui/logo_image_en.png",
+            "logoSmallImage": "/public/images/customization/Common/spiral-captcha_general_ui/logo_small_image_en.png",
+            "disconnectCaption": "Logout",
+            "mottoMessage": ""
+        },
+        "footer": {
+            "message": "This product is licensed from F5 Networks. \u00a9 1999-2019 F5 Networks. All rights reserved. "
+        },
+        "config": {
+            "pageTitle": "",
+            "landingUri": "/bitstream/10044/1/42522/2/TAS.pdf",
+            "landingUriBase64": "",
+            "layoutBreakpointSmall": "586px",
+            "layoutBreakpointLarge": "992px",
+            "disableExternal": "off"
+        },
+        "policyTimeout": {
+            "message": "Your session is timed out.",
+            "newSessionMessage": "New session"
+        },
+        "controllers": {
+            "policyTimeout": true
+        }
+    }
+});
+        appLoader.run();
+    }
+    function __run() {
+        if (typeof require !== 'undefined') {
+            require(['apmui'], init);
+        } else {
+            init(this['apmui']);
+        }
+    }
+    </script>
+</head>
+<body onload="javascript: __run();">
+</body>
+</html>
