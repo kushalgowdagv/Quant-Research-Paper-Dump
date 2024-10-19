@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+            </title>
+    
+<meta name="generator" content="Open Journal Systems 3.3.0.14">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik&display=swap" type="text/css" /><link rel="stylesheet" href="https://czasopisma.tnkul.pl/plugins/themes/modern/styles/bs/bootstrap.min.css?v=3.3.0.14" type="text/css" /><link rel="stylesheet" href="https://czasopisma.tnkul.pl/plugins/themes/modern/styles/css/all.css?v=3.3.0.14" type="text/css" /><link rel="stylesheet" href="https://czasopisma.tnkul.pl/plugins/themes/modern/styles/modern.css?v=3.3.0.14" type="text/css" />
+</head>
+<body>
+<div class="container-fluid bg-light">
+
+    
+    
+                    <div class="row">
+            <div class="col col-md-8 offset-md-2 pt-5">
+                                                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators invisible">
+                                                    </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                                                    </div>
+                        <!-- Controls -->
+                        <a class="carousel-control-prev invisible" href="#myCarousel" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon"></span>
+                        </a>
+                        <a class="carousel-control-next invisible" href="#myCarousel" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+        
+    <div class="row">
+        <div class="col" style="height: 2em"></div>
+    </div>
+        <div class="row">
+        <div class="col">
+                                </div>
+    </div>
+    <div class="row mb-3">
+        <div class="col offset-md-3 col-md-6 offset-lg-4 col-lg-4">
+            <div class="card">
+                                <div class="card-body">
+                    <form class="" id="login" method="post" action="https://czasopisma.tnkul.pl/index.php/index/login/signIn">
+                        <input type="hidden" name="csrfToken" value="0c64b95076c52642be540e104dedaf25">
+                        <input type="hidden" name="source" value="/index.php/reiz/article/download/7532/7625"/>
+
+                        <fieldset>
+                            <div class="form-group">
+                                <label for="username">
+                                    Username *
+                                </label>
+                                <input class="form-control" type="text" name="username" id="username"
+                                       value="" maxlength="32" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">
+                                    Password *
+                                </label>
+                                <input class="form-control" type="password" name="password" id="password"
+                                       value="" password="true" maxlength="32" required>
+                                <br>
+                                <a href="https://czasopisma.tnkul.pl/index.php/index/login/lostPassword">
+                                    Forgot your password?
+                                </a>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" name="remember" id="remember" value="1"
+                                       checked="$remember">
+                                <label class="form-check-label" for="remember">
+                                    Keep me logged in
+                                </label>
+                            </div>
+                            <br>
+                            <div class="form-group">
+                                <button class="btn btn-block btn-outline-primary rounded-pill" type="submit">
+                                    Login
+                                </button>
+                            </div>
+                            <div class="form-group">
+                                                                    <span>
+                                        Don't you have an account?
+                                    </span>&nbsp;
+                                                                        <a href="https://czasopisma.tnkul.pl/index.php/index/user/register?source=%2Findex.php%2Freiz%2Farticle%2Fdownload%2F7532%2F7625" class="register">
+                                        Register
+                                    </a>
+                                                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+                <div class="card-footer">
+                    * Required
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- .page -->
+    <div class="row"  style="background-color: #ffffff;">
+    <div class="col offset-md-1 col-md-10 offset-lg-2 col-lg-8 pt-4">
+
+                
+        
+        
+			<div class="row">
+				<div class="col-md-4">
+			
+                    
+                    <strong>Publisher</strong><br>                
+Towarzystwo Naukowe KUL<br>
+ul. Chopina 29/11
+<br>
+20-023 Lublin<br>
+e-mail: tnkul@tnkul.pl <BR>
+
+           
+                    
+                    
+				</div>
+                
+				<div class="col-md-4">
+					<strong>University</strong><br>
+					<a href=""></a>
+                    
+                    Towarzystwo Naukowe KUL<BR>
+                    ul. Chopina 29/11<BR>
+                   20-023 Lublin<br>
+tel.: 81 525 01 93, 524 31 77<BR>
+                  
+					<!--<a href="url">link text</a><br>-->
+				</div>
+				<div class="col-md-4">
+					<strong>About:</strong><br>
+					
+                    Copyright 2023 by <a href="https://tnkul.pl/">Towarzystwo Naukowe KUL </a><br>
+                    OJS Support and Customization by <a href="https://libcom.pl">LIBCOM</a><br>
+                    Platform & Workfow by <a href="">OJS/PKP</a>      <BR>     <BR>       
+                    
+
+
+                    
+                    
+                    
+				</div>
+			</div>
+                    
+                    <div class="row">
+ <!--   <div class="col text-center pt-4 pb-4">
+      <a href="https://czasopisma.tnkul.pl/index.php/index/about/aboutThisPublishingSystem">
+       <img src="https://czasopisma.tnkul.pl/plugins/themes/modern/images/top_logo.png" alt="More information about the publishing system, Platform and Workflow by OJS/PKP."/>
+          
+    </div>-->
+</div>
+                    
+                    <BR>
+                    
+                    
+                    
+            </div>
+</div>
+
+
+
+
+<script src="https://czasopisma.tnkul.pl/plugins/themes/modern/js/jquery.min.js?v=3.3.0.14" type="text/javascript"></script><script src="https://czasopisma.tnkul.pl/plugins/themes/modern/js/popper.min.js?v=3.3.0.14" type="text/javascript"></script><script src="https://czasopisma.tnkul.pl/plugins/themes/modern/js/bootstrap.js?v=3.3.0.14" type="text/javascript"></script><script src="https://czasopisma.tnkul.pl/plugins/themes/modern/js/Chart.bundle.min.js?v=3.3.0.14" type="text/javascript"></script><script src="https://czasopisma.tnkul.pl/plugins/themes/modern/js/carouselLoader.js?v=3.3.0.14" type="text/javascript"></script><script src="https://czasopisma.tnkul.pl/plugins/themes/modern/js/main.js?v=3.3.0.14" type="text/javascript"></script>
+</div>
+</body>
+</html>

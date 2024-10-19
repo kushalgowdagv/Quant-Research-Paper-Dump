@@ -1,0 +1,148 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Login
+					</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.8">
+	<link rel="stylesheet" href="http://asianonlinejournals.com/plugins/themes/classic/resources/app.min.css?v=3.3.0.8" type="text/css" /><link rel="stylesheet" href="http://asianonlinejournals.com/index.php/index/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cardo:400,400i,700|Montserrat:400,400i,700,700i,900,900i" type="text/css" /><link rel="stylesheet" href="http://asianonlinejournals.com/plugins/generic/orcidProfile/css/orcidProfile.css?v=3.3.0.8" type="text/css" />
+</head>
+<body>
+<header>
+	<div class="header container-fluid">
+		<div class="upper-header row">
+			<h1 class="logo-wrapper col-md-7">
+				<a href="http://asianonlinejournals.com/index.php/index/index" class="home-link">
+								<div class="journal-logo-text">Asian Online Journal Publishing Group</div>
+	
+				</a>
+			</h1>
+			<div id="user-nav-wraper" class="col-md-5">
+									<ul id="navigationUser" class="pkp_navigation_user nav nav-tabs">
+												<li class=" nav-item">
+					<a class="nav-link"
+					   href="http://asianonlinejournals.com/index.php/index/oap">Open Access Policy</a>
+				</li>
+															<li class=" nav-item">
+					<a class="nav-link"
+					   href="http://asianonlinejournals.com/index.php/index/Pay">Pay Invoice</a>
+				</li>
+															<li class=" nav-item">
+					<a class="nav-link"
+					   href="http://asianonlinejournals.com/index.php/index/user/register">Register</a>
+				</li>
+															<li class=" nav-item">
+					<a class="nav-link"
+					   href="http://asianonlinejournals.com/index.php/index/login">Login</a>
+				</li>
+													</ul>
+
+											</div>
+		</div>
+
+		
+					</div>
+</header>
+
+<div class="page page_login">
+	<div class="container-fluid container-page container-narrow">
+
+		<header>
+	<div class="current_page_title">
+		<h1 class="text-center">
+							Login
+					</h1>
+	</div>
+</header>
+
+				
+		<form class="cmp_form login" id="login" method="post" action="http://asianonlinejournals.com/index.php/index/login/signIn">
+			<input type="hidden" name="csrfToken" value="a3eb60861e4b6dea08ce2514bdd448e6">
+
+			
+			<input type="hidden" name="source" value="/index.php/JBFD/article/download/837/865" />
+
+			<fieldset class="fields">
+				<div class="row">
+					<div class="form-group col-md-6 offset-md-3">
+						<label for="username" class="sr-only">
+							Username
+						</label>
+						<input type="text" class="form-control" name="username" id="username" value="" maxlength="32" placeholder="Username" required>
+						<small class="form-text text-muted"><span class="required">*</span>Required</small>
+					</div>
+
+					<div class="form-group col-md-6 offset-md-3">
+						<label for="password" class="sr-only">
+							Password
+						</label>
+						<input type="password" class="form-control" name="password" id="password" value="" password="true" maxlength="32" placeholder="Password" required>
+						<small class="form-text text-muted"><span class="required">*</span>Required</small>
+						<p>
+							<small>
+								<a href="http://asianonlinejournals.com/index.php/index/login/lostPassword">
+									Forgot your password?
+								</a>
+							</small>
+						</p>
+					</div>
+
+					<div class="col-md-6 offset-md-3 custom-control custom-checkbox checkbox-remember">
+						<input type="checkbox" class="custom-control-input" name="remember" id="remember" value="1" checked>
+						<label class="custom-control-label" for="remember">Keep me logged in</label>
+					</div>
+
+					<div class="col-md-6 offset-md-3 buttons">
+						<button class="submit btn btn-primary" type="submit">
+							Login
+						</button>
+
+																				<a href="http://asianonlinejournals.com/index.php/index/user/register?source=%2Findex.php%2FJBFD%2Farticle%2Fdownload%2F837%2F865" class="register btn">
+								Register
+							</a>
+											</div>
+
+			</fieldset>
+		</form>
+	</div>
+</div><!-- .page -->
+
+<footer class="site-footer">
+	<div class="container-fluid container-footer">
+				<div class="additional-footer-info">
+							<div class="user-page-footer">
+					<p>2885 Sanford Ave SW #43110 Grandville, MI 49418,<strong> USA  Tel</strong>.: +16164143653<br /><strong>E-mail :</strong> editor@asianonlinejournals.com, asianonlinejournals@gmail.com. </p>
+				</div>
+			
+		</div>
+	</div>
+</footer>
+
+<style>
+.journal-logo-text:focus, .journal-logo-text:hover {
+	color: #FFD120;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+	color: #FFD120;
+}
+.btn, .cmp_edit_link, .btn-primary, .btn-secondary, .block_make_submission_link, .cmp_edit_link {
+	font-size: 1em;
+
+}  
+  
+</style>
+
+<script src="http://asianonlinejournals.com/plugins/themes/classic/resources/app.min.js?v=3.3.0.8" type="text/javascript"></script><script src="http://asianonlinejournals.com/plugins/themes/classic/resources/ionicons.js?v=3.3.0.8" type="text/javascript"></script>
+
+
+
+</body>
+</html>

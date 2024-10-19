@@ -1,0 +1,423 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>DPI Proceedings</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="generator" content="Open Journal Systems 2.4.5.0" />
+	
+		<link rel="stylesheet" href="https://www.dpi-proceedings.com/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.dpi-proceedings.com/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.dpi-proceedings.com/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.dpi-proceedings.com/styles/compiled.css" type="text/css" />
+
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+		<script type="text/javascript">
+			<!--
+			// Provide a local fallback if the CDN cannot be reached
+			if (typeof google == 'undefined') {
+				document.write(unescape("%3Cscript src='https://www.dpi-proceedings.com/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+				document.write(unescape("%3Cscript src='https://www.dpi-proceedings.com/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+			} else {
+				google.load("jquery", "1.4.4");
+				google.load("jqueryui", "1.8.6");
+			}
+			// -->
+		</script>
+	
+	
+	
+	<link rel="stylesheet" href="https://www.dpi-proceedings.com/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.dpi-proceedings.com/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.dpi-proceedings.com/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.dpi-proceedings.com/plugins/themes/classicRed/classicRed.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.dpi-proceedings.com/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Default global locale keys for JavaScript -->
+	
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.dpi-proceedings.com/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.dpi-proceedings.com/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	<!-- Form validation -->
+	<script type="text/javascript" src="https://www.dpi-proceedings.com/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+	<script type="text/javascript">
+		<!--
+		// initialise plugins
+		
+		$(function(){
+			jqueryValidatorI18n("https://www.dpi-proceedings.com", "en_US"); // include the appropriate validation localization
+			
+			$(".tagit").live('click', function() {
+				$(this).find('input').focus();
+			});
+		});
+		// -->
+		
+	</script>
+
+		
+</head>
+<body id="pkp-common-openJournalSystems" class="">
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<div id="dt" style="display:none;"><p><span style="font-style:normal;">DES</span>tech Transactions on</p></div>
+<h1 id="">
+	<img src="https://www.dpi-proceedings.com/public/site/pageHeaderTitleImage_en_US.jpg" width="793" height="113" alt="Page Header" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://www.dpi-proceedings.com/index.php/index/help/view/user/topic/000001')">Journal Help</a>
+</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://www.dpi-proceedings.com/index.php/index/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> 
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" method="post" action="https://www.dpi-proceedings.com/index.php/index/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br />
+			</div>
+			</div>
+
+<div id="main" class="">
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.dpi-proceedings.com/index.php/index/index">Home</a></li>
+		<li id="about"><a href="https://www.dpi-proceedings.com/index.php/index/about">About</a></li>
+
+					<li id="login"><a href="https://www.dpi-proceedings.com/index.php/index/login">Login</a></li>
+							<li id="register"><a href="https://www.dpi-proceedings.com/index.php/index/user/register">Register</a></li>
+												<li id="search"><a href="https://www.dpi-proceedings.com/index.php/index/search">Search</a></li>
+		
+		
+				
+
+			</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.dpi-proceedings.com/index.php/index/index">Home</a> &gt;
+			<a href="https://www.dpi-proceedings.com/index.php/index/index" class="current">DPI Proceedings</a></div>
+
+<h3 class="pretitle"></h3>
+
+<h2 class="autopagetitle" style="margin-bottom:0;">DPI Proceedings</h2>
+
+<h3 class="subtitlehere"></h3>
+<h3 class="author1"></h3>
+<h3 class="author2"></h3>
+<h3 class="author3"></h3>
+<h3 class="author4"></h3>
+
+
+<div id="content">
+
+
+<br />
+
+
+<a name="journals"></a>
+
+
+					<div style="clear:left;">
+				</div>
+				<h3>STRUCTURAL HEALTH MONITORING 2023</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/shm2023" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2023/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2023/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>PROCEEDINGS OF THE AMERICAN SOCIETY FOR COMPOSITES-THIRTY-EIGHTH TECHNICAL CONFERENCE</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc38" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc38/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc38/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>PROCEEDINGS OF THE AMERICAN SOCIETY FOR COMPOSITES-THIRTY-SEVENTH TECHNICAL CONFERENCE</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc37" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc37/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc37/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>STRUCTURAL HEALTH MONITORING 2021</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/shm2021" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2021/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2021/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>THERMAL CONDUCTIVITY 34/THERMAL EXPANSION 22</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/tc34-te22" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/tc34-te22/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/tc34-te22/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>32ND INTERNATIONAL SYMPOSIUM ON BALLISTICS</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ballistics32" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics32/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics32/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>2021 3rd International Workshop on Structural Health Monitoring for Railway System(IWSHM-RS 2021)</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/iwshm-rs-2021" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/iwshm-rs-2021/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/iwshm-rs-2021/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Proceedings of the American Society for Compositesâ€”Thirty-Sixth Technical Conference on Composite Materials</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc36" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc36/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc36/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Asphalt Paving Technology 2018</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/aapt2018" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/aapt2018/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/aapt2018/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>31st International Symposium on Ballistics</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ballistics31" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics31/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics31/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Structural Health Monitoring 2019</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/shm2019" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2019/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2019/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Thermal Conductivity 33/Thermal Expansion 21</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/tc33-te21" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/tc33-te21/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/tc33-te21/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Design, Manufacturing and Applications of Composites - Twelfth Joint Canada-Japan Workshop on Composites</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/dmac2018" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac2018/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac2018/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Proceedings of the American Society for Composites â€” Thirty-fourth Technical Conference</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc34" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc34/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc34/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>2nd International Workshop on Structural Health Monitoring for Railway System (IWSHM-RS 2018)</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/iwshm-rs-2018" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/iwshm-rs-2018/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/iwshm-rs-2018/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Proceedings of the American Society for Composites â€” Thirty-third Technical Conference</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc33" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc33/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc33/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>The 21st IAPRI World Conference on Packaging</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/iapri2018" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/iapri2018/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/iapri2018/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Mechanical Behavior of Thick Composites</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/thick-composites" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/thick-composites/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/thick-composites/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3></h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/parcfd" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/parcfd/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/parcfd/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Thermal Conductivity 31</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/thermal-conductivity-31" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/thermal-conductivity-31/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/thermal-conductivity-31/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Structures in Fire</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/structures-in-fire" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/structures-in-fire/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/structures-in-fire/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3></h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/icnm-vi" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/icnm-vi/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/icnm-vi/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Advances in Heterogeneous Material Mechanics 2011</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ichmm2011" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ichmm2011/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ichmm2011/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Design, Manufacturing and Applications of Composites 2014</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/dmac2014" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac2014/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac2014/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Design, Manufacturing and Applications of Composites 2012</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/dmac2012" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac2012/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac2012/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3></h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/waterborne2013" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/waterborne2013/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/waterborne2013/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3></h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/waterborne2012" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/waterborne2012/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/waterborne2012/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Structural Health Monitoring 2013</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/shm2013" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2013/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2013/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Structural Health Monitoring 2011</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/shm2011" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2011/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2011/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Response of Structures Under Extreme Loading (PROTECT 2015)</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/protect2015" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/protect2015/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/protect2015/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Asphalt Paving Technology 2017</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/aapt2017" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/aapt2017/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/aapt2017/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Automated Composites Manufacturing - Third International Symposium</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/acm3" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/acm3/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/acm3/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>30th International Symposium on Ballistics</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ballistics30" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics30/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics30/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Proceedings of the American Society for Composites â€” Thirty-second Technical Conference</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc32" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc32/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc32/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Structural Health Monitoring 2017</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/shm2017" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2017/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/shm2017/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Asphalt Paving Technology 2016</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/aapt2016" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/aapt2016/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/aapt2016/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Design, Manufacturing and Applications of Composites</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/dmac" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/dmac/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>1st International Workshop on Structural Health Monitoring for Railway System</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/iwshm-rs2016" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/iwshm-rs2016/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/iwshm-rs2016/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Proceedings of the American Society for Composites: Thirty-First Technical Conference</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/asc31" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/asc31/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/asc31/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3></h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/duracosys" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/duracosys/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/duracosys/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Other Technical Online Proceedings</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/proceedings" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/proceedings/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/proceedings/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>29th International Symposium on Ballistics</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ballistics" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ballistics/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>American Society of Composites - 30th Technical Conference</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ASC30" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ASC30/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ASC30/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Structural Health Monitoring 2015</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/SHM2015" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/SHM2015/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/SHM2015/user/register" class="action">Register</a></p>
+					<div style="clear:left;">
+				</div>
+				<h3>Composite Science and Technology</h3>
+						<p><a href="https://www.dpi-proceedings.com/index.php/ICCST9" class="action">View Proceedings</a> | <a href="https://www.dpi-proceedings.com/index.php/ICCST9/issue/current" class="action">Current Issue</a> | <a href="https://www.dpi-proceedings.com/index.php/ICCST9/user/register" class="action">Register</a></p>
+
+<div id="journalListPageInfo"></div>
+<div id="journalListPageLinks">
+
+
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+
+
+</div><!-- container -->
+</body>
+</html>

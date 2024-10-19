@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0YJD8QMQXL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-0YJD8QMQXL');
+    </script>
+    
+        <title> Marginal and Dependence Uncertainty  | TU Delft Repository</title>
+        <link rel=stylesheet href=/static/css/webapp.css type=text/css>
+        <link rel=stylesheet href=/static/css/global.css type=text/css>
+        <link rel=stylesheet href=/static/css/MaterialIcon.css type=text/css>
+        <link rel="icon" type="image/png" href="/static/images/favicon.ico">
+        <link rel="stylesheet" href="/static/dist/css/output.css">
+    
+</head>
+<body>
+
+<div class="flex flex-col h-screen justify-between">
+    <div id="content" class="flex-grow background-off-white">
+        <div id="header" class="sticky top-0 z-10">
+            
+                
+    <header class="header bg-blue-delft">
+        <div class="header-container h-16 text-white flex flex-row py-8 pt-9 px-20">
+            <div class="logo-header flex flex-row items-start z-30">
+                <a href="/" class="show-on-small">
+                    <img class="logo"
+                     src="/static/images/logo/tudelft_logo.svg"
+                     alt="TU Delft">
+                </a>
+                <div class="text font-bold">
+                    <a href="https://www.tudelft.nl/library" target="_blank">Library</a>
+                </div>
+            </div>
+            
+                <div class="grow">
+                    <form method="get" action="/search">
+                    
+    
+    <div class="sticky top-[90px z-40 ">
+        <div class="search-box search-box-header">
+            <label for="input-search-bar"></label>
+            <input id="input-search-bar" type="search"
+                   placeholder="Search in TUD Repository..."
+                   name=search_term
+                    
+                    
+                   autocomplete="off">
+            <button type=submit
+                    id="main-search-button"
+                    
+                    onclick="loadingSearchButton(this)"
+                    
+                    name="search_by"#}
+                    value="content">
+                search
+            </button>
+        </div>
+        
+            <div id="suggestions"
+                 class="bg-white border border-50perc-light-gray rounded-sm hidden border-t-0 w-full shadow-md absolute">
+                <div class="flex flex-col">
+                    <button class="w-full text-left hover:bg-transparent"
+                            type=submit
+                            
+                            onclick="loadingSearchButtonFromSearchSuggestions()"
+                            
+                            name="search_by"
+                            value="content">
+                        <div class="py-0.5 px-3 text-right text-sm text-lighter-gray hover:cursor-auto">
+                            Press enter to search in title/abstract
+                        </div>
+                        <div class="py-0.5 px-3 hover:bg-gray-200">
+
+                            <span id="search-as-subject-option" class="text-gray-600"></span>
+                            <span class="text-link">in title/abstract</span>
+                        </div>
+                    </button>
+                    <button class="w-full text-left hover:bg-transparent"
+                            type=submit
+                            
+                            onclick="loadingSearchButtonFromSearchSuggestions()"
+                            
+                            name="search_by"
+                            value="author">
+                        <div class="py-0.5 px-3 hover:bg-gray-200">
+
+                            <span id="search-as-author-option" class="text-gray-600"></span>
+                            <span class="text-link">in authors</span>
+                        </div>
+                    </button>
+                </div>
+            </div>
+        
+
+    </div>
+
+
+                    </form>
+                </div>
+            
+            <div class="flex flex-row justify-end space-x-3 z-30">
+                
+                
+                    <div class="flex flex-row space-x-1">
+                        <a href="/login"><span class="material-symbols-outlined">local_library</span></a>
+                        <a class="text-white" href="/">Repository</a>
+                    </div>
+                
+            </div>
+        </div>
+    </header>
+
+            
+        </div>
+        
+    <div id="main">
+        
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex w-full lg:w-[1000px] xl:w-[1200px] record-wrap m-auto">
+        <div class="hidden lg:block flex-1 xl:pt-10">
+            
+
+<div class="menu record-navigator">
+    <div class="filter space-y-2">
+
+        
+    <div>
+        <a href="#title" class="text-gray-500">Title</a>
+    </div>
+
+        
+    <div>
+        <a href="#metadata" class="text-gray-500">Metadata</a>
+    </div>
+
+        
+    <div>
+        <a href="#abstract" class="text-gray-500">Abstract</a>
+    </div>
+
+
+
+        
+    <div>
+        <a href="#files" class="text-gray-500">Files</a>
+    </div>
+
+
+    </div>
+</div>
+        </div>
+        <div class="grow lg:grow-0 lg:w-[800px] record-container">
+            <div id="title">
+                <h1>Marginal and Dependence Uncertainty</h1>
+                
+                    <h3 class="mt-2">Bounds, Optimal Transport, And Sharpness</h3>
+                
+                
+            </div>
+            <div class="pt-3 space-x-2">
+                
+
+                    
+                        <a href="/file/File_89fde9fd-bf80-4071-888b-c7614df3ae00?preview=1" target="_blank">
+                            <button class="primary-button"><i class="icon">open_in_new</i>Preview File</button>
+                        </a>
+                    
+                
+                
+                
+            </div>
+            <div id="metadata">
+                
+                    
+
+<div class="metadata space-y-2.5 py-6">
+    
+    
+        <div class="text-right flex flex-row justify-end space-x-2">
+    <div>
+        <span class="__dimensions_badge_embed__" data-doi="10.1137/21M144709X"
+              data-style="small_rectangle"></span>
+    </div>
+    <div>
+        <span class='altmetric-embed overnight-altmetric mb-1' data-badge-popover="left" data-badge-type='2'
+              data-doi='10.1137/21M144709X'></span>
+
+    </div>
+</div>
+    
+
+    <div class="publisher">
+        
+        
+            
+    Journal article
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+        
+            
+
+
+
+    (2022)
+
+        
+
+    </div>
+
+    
+    
+        
+
+
+
+
+
+
+<div>
+    
+        <p>Authors</p>
+
+        
+            <div>
+    
+
+    <a href="/person/Person_a490cec5-18a9-4169-b470-339ea01ccb61">Daniel Bartl</a>
+
+    
+    
+        University of Vienna
+    
+
+</div>
+        
+            <div>
+    
+
+    <a href="/person/Person_10fe52f2-86dd-474b-9d0a-7c37f2c734f4">Michael  Kupper</a>
+
+    
+    
+        Universität Konstanz
+    
+
+</div>
+        
+            <div>
+    
+
+    <a href="/person/Person_c9ee3690-5029-40e7-98dc-4e2e968a7e11">Thibaut  Lux</a>
+
+    
+    
+        Helvetia Insurance Group
+    
+
+</div>
+        
+            <div>
+    
+
+    <a href="/person/Person_18713d05-9bce-48e2-8c09-59b142d06cea">A. Papapantoleon</a>
+
+    
+    
+        Applied Probability  - <span class="tooltip" title="Electrical Engineering, Mathematics and Computer Science">EEMCS</span> 
+    
+
+</div>
+        
+    
+</div>
+
+
+<div>
+    
+</div>
+
+    
+
+    
+    
+
+    
+    
+
+
+
+<div>
+    
+        
+        
+            
+                
+            
+        
+        <div>
+            
+                
+    <div>Research Group</div>
+    
+        Applied Probability
+            (<span class="tooltip" title="Electrical Engineering, Mathematics and Computer Science">EEMCS</span>) (TU Delft)
+
+            
+        </div>
+    
+</div>
+
+    
+    
+
+    
+    
+        <div class="license">
+    Copyright:
+    
+        <span>© 2022 Daniel Bartl, Michael Kupper, Thibaut Lux, A. Papapantoleon</span>
+    
+</div>
+    
+
+    
+    
+        <!---
+What is the doi_before_slash/doi_after_slash about?
+
+It is a work around for
+https://liretest.tudelft.nl/record/uuid:64e15692-06d7-4e3a-9d51-97f4a07b403f
+
+In the API The doi info is
+      {
+        "identifier_type": "doi",
+        "identifier": "10.4233/64e15692-06d7-4e3a-9d51-97f4a07b403f"
+      }
+but in the old repo is with the uuid https://doi.org/10.4233/uuid:64e15692-06d7-4e3a-9d51-97f4a07b403f
+If you use the link with the uuid can be resolved for our repo but without it cannot be resolved
+-->
+
+
+
+    
+    
+    
+    
+
+    
+        
+    
+
+    <div class="doi">
+                DOI:
+        <a target="_blank" href="https://doi.org/10.1137/21M144709X">https://doi.org/10.1137/21M144709X</a>
+    </div>
+
+    
+
+    
+    
+        
+
+<div>
+    
+    <div class="keywords">
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('dependence_uncertainty','keyword')>
+        <span>Dependence uncertainty</span>
+    </a>
+
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('frechet_classes','keyword')>
+        <span>Frechet classes</span>
+    </a>
+
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('improved_frechet-hoeffding_bounds','keyword')>
+        <span>Improved Frechet-Hoeffding bounds</span>
+    </a>
+
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('marginal_uncertainty','keyword')>
+        <span>Marginal uncertainty</span>
+    </a>
+
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('optimal_transport_duality','keyword')>
+        <span>Optimal transport duality</span>
+    </a>
+
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('relaxed_duality','keyword')>
+        <span>Relaxed duality</span>
+    </a>
+
+        
+            
+    
+    <a class="cursor-pointer" onclick=handleFilterOnChange('sharpness_of_bounds','keyword')>
+        <span>Sharpness of bounds</span>
+    </a>
+
+        
+    </div>
+
+</div>
+    
+
+    
+    
+        <div class="flex flex-row items-center space-x-2">
+            <div>
+                <div>To reference this document use:</div>
+                <div>    <a href="http://resolver.tudelft.nl/uuid:81625d08-2b0b-4b2e-8d59-f707fa16430a" target="_blank">
+        http://resolver.tudelft.nl/uuid:81625d08-2b0b-4b2e-8d59-f707fa16430a</a></div>
+            </div>
+            <div class="mt-4">
+                
+                
+    <span class="tooltip tooltip-btn-icon" title="Copy resolver link">
+    <button
+            type="button"
+            class="text-gray-400 bg-white hover:bg-gray-200 border-gray-400 border
+            font-medium rounded-sm text-xs px-0.5 py-px text-center inline-flex items-center"
+            onclick="copyContent('81625d08-2b0b-4b2e-8d59-f707fa16430a', 'https://resolver.tudelft.nl/uuid:81625d08-2b0b-4b2e-8d59-f707fa16430a')">
+            <i id="icon-content-to-copy-81625d08-2b0b-4b2e-8d59-f707fa16430a" class="text-gray-400 text-xs icon-no-style">content_copy</i>
+    </button>
+    </span>
+
+            </div>
+        </div>
+
+
+    
+</div>
+                
+            </div>
+            <div class="more-info" onclick="displayFullMetadata()">
+                <details>
+                    <summary class="flex items-center">
+                        <div class="title flex-1 mr-4 pt-3">
+                            More Info
+                        </div>
+                        <div class="flex-0">
+                            <div id="btn-more" class="btn-more">
+                                expand_more
+                            </div>
+                        </div>
+                    </summary>
+                    
+                        <div class="flex flex-col space-y-2 metadata-details pt-4">
+
+    
+
+
+
+
+
+
+
+    
+    
+        
+
+<div>
+    <p class="font-bold">Published Date</p>
+    <p>2022</p>
+</div>
+
+    
+
+    
+    
+        <!-- TODOS: Modify object type to be able to do just do record.identifiers.issn -->
+
+    
+
+    
+    
+        <div>
+    <p class="font-bold">Language</p>
+    English
+</div>
+    
+
+    
+    
+
+    
+    
+    
+    
+
+
+
+    <div class="license">
+        <p class="font-bold">Reuse Rights</p>
+        <p>Other than for strictly personal use, it is not permitted to download, forward or distribute the text or part
+            of it, without the consent of the author(s) and/or copyright holder(s), unless the work is under an open
+            content license such as Creative Commons.</p>
+    </div>
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+    #1 - record.managing_organisations is a list with different types of affiliations,
+    thus we are separating them by list type
+    #2 - Displaying the lists
+-->
+
+    
+    
+        
+        
+        
+        
+
+        
+            
+    
+        
+    
+
+            
+    
+        
+    
+        
+    
+
+    
+
+            
+    
+        
+    
+        
+    
+
+    
+
+        
+
+    
+    
+    
+        
+    <p class="font-bold">Faculty</p>
+    
+        Electrical Engineering, Mathematics and Computer Science
+
+        
+    <p class="font-bold">Department</p>
+    
+        Delft Institute of Applied Mathematics
+
+        
+    <p class="font-bold">Research Group</p>
+    
+        Applied Probability
+
+
+
+</div>
+                    
+                </details>
+            </div>
+            <div class="abstract space-y-3 px-20 my-8 mt-10" id="abstract">
+                
+                    <h2>Abstract</h2>
+                    <p><p>Motivated by applications in model-free finance and quantitative risk management, we consider Frechet classes of multivariate distribution functions where additional information on the joint distribution is assumed, while uncertainty in the marginals is also possible. We derive optimal transport duality results for these Frechet classes that extend previous results in the related literature. These proofs are based on representation results for convex increasing functionals and the explicit computation of the conjugates. We show that the dual transport problem admits an explicit solution for the function f = 1B, where B is a rectangular subset of Rd, and provide an intuitive geometric interpretation of this result. The improved Frechet-Hoeffding bounds provide ad hoc bounds for these Frechet classes. We show that the improved Frechet-Hoeffding bounds are pointwise sharp for these classes in the presence of uncertainty in the marginals, while a counterexample yields that they are not pointwise sharp in the absence of uncertainty in the marginals, even in dimension 2. The latter result sheds new light on the improved Frechet-Hoeffding bounds, since Tankov [J. Appl. Probab., 48 (2011), pp. 389-403] has showed that, under certain conditions, these bounds are sharp in dimension 2.</p></p>
+                
+            </div>
+            <div id="files">
+                
+                     
+
+
+
+
+    
+        <div class="media flex flex-col items-center space-y-3">
+            
+
+    
+
+
+
+    
+                    
+                
+
+            
+        </div>
+
+        <div class="files my-8">
+            <h2 class="text-black">Files</h2>
+    
+
+
+    <div class="flex flex-col space-y-2 mt-1">
+        
+
+            
+                
+                    
+                        
+                    
+                
+
+                
+                    <div class="flex flex-row gap-2 items-center">
+                        <div class="grow flex-col">
+                            
+                                <a href="/file/File_89fde9fd-bf80-4071-888b-c7614df3ae00" download target="_blank">21m144709x.pdf</a>
+                            
+
+                            <div class="flex flex-row space-x-1">
+                                
+                                    <div class="small-note-not-italic">
+                                        
+                                        (.pdf | 0.614 Mb)
+                                    </div>
+                                
+                                
+                            </div>
+                        </div>
+
+                        
+
+
+                        
+                            <a href="/file/File_89fde9fd-bf80-4071-888b-c7614df3ae00" download target="_blank">
+                                <button class="secondary-button"><i class="icon">download</i>Download</button>
+                            </a>
+                        
+                    </div>
+
+                
+            
+        
+    </div>
+
+
+        </div>
+    
+
+
+                
+            </div>
+        </div>
+        <div class="hidden xl:block flex-1"></div>
+    </div>
+
+
+    </div>
+
+    </div>
+    <div id="footer">
+        
+            <footer class="border-t border-slate-400">
+    <div class="footer-section quick-links">
+        <div class="footer-container flex flex-row space-x-5 items-start">
+            <div class="contacts basis-1/3">
+                <h2>TU Delft Research Repository</h2>
+                <ul class="flex flex-row mt-3">
+                    <li><a href="https://www.facebook.com/tudelft" class="icon-button-lg">thumb_up</a></li>
+                    <li><a href="https://twitter.com/tudelft" class="icon-button-lg">close</a></li>
+                    <li><a href="https://www.instagram.com/tudelft/?hl=en" class="icon-button-lg">photo_camera</a></li>
+                    <li><a href="https://www.youtube.com/user/tudelft" class="icon-button-lg">play_circle</a></li>
+                    <li><a href="https://api.whatsapp.com/send?phone=3197010256278" class="icon-button-lg">chat_bubble</a></li>
+                </ul>
+            </div>
+            <div class="about basis-1/3">
+                <h2>About</h2>
+                <ul>
+
+
+
+
+
+
+
+                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/team-and-governance">Team and Governance</a></li>
+                    <li><a href="/background-info-and-future-plans">Background Information and Future Plans</a></li>
+                    <li><a href="/content-in-the-repository">Content in the Repository</a></li>
+                    <li><a href="/upload-content">Upload Content</a></li>
+                    <li><a href="/statistics">Statistics</a></li>
+                </ul>
+            </div>
+            <nav class="navigation basis-1/3">
+                <h2>Navigation</h2>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/search?search_term=&page=1">Search</a></li>
+                    <li><a href="/faq">FAQ</a></li>
+
+
+
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="footer-section options">
+        <div class="footer-container flex flex-row">
+            <div class="utilities h-6">
+
+
+
+
+
+            </div>
+
+
+
+
+        </div>
+    </div>
+</footer>
+        
+    </div>
+</div>
+
+    <!-- block javascript -->
+
+<script src="/static/js/common/form/buttons.js"></script>
+<script src="/static/js/common/form/searchBox.js"></script>
+<script src="/static/js/common/search/filters.js"></script>
+<script src="/static/js/common/search/pagination.js"></script>
+<script src="/static/js/script.js"></script>
+</body>
+</html>
