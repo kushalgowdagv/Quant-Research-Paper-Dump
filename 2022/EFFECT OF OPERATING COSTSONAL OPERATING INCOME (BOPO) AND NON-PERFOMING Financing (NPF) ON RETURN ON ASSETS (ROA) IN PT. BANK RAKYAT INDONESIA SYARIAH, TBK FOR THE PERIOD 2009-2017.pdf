@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://idwebhost.com/themes/general/webhosting/assets/css/dist/output.css" rel="stylesheet" />
+    </head>
+
+    <body class="flex">
+        <div class="flex flex-col w-full h-full mx-auto">
+            <main id="content" role="main">
+                <div class="px-6 bg-gradient-to-r from-blue-900 to-blue-700">
+                    <nav class="absolute left-0 right-0 flex items-center justify-between w-full max-w-6xl px-6 py-6 mx-auto xl:px-0" aria-label="Global">
+                        <a class="text-center" target="_blank" href="htpps://idwebhost.com" aria-label="Brand">
+                            <img src="https://idwebhost.com/themes/midnight/assets/img/logo-idwebhost-negative.svg" alt="" class="w-36" width="124" height="25" />
+                        </a>
+                        <p class="max-w-xl text-white">
+                            <!-- <span class="hidden pr-5 md:inline">Customer service kami selalu siap membantu anda</span> -->
+                            <a class="inline-flex items-center justify-center w-full px-4 py-3 text-sm font-medium text-center text-white transition bg-green-500 border border-transparent rounded-md sm:w-auto gap-x-3 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white" href="tel:+6274415585">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <path d="M10.5 10.7c-.3-.2-.7-.2-1 0-.4.3-.9.4-1.4.4-.5 0-1-.2-1.4-.4-.3-.2-.7-.2-1 0-.6.4-1 1-1 1.7 0 .6.2 1.1.4 1.6.2.3.2.7 0 1-.2.3-.5.7-.9 1-.6.4-1.2.7-2 .7-.7 0-1.4-.2-2-.7C.8 14.1 0 12.7 0 11s.8-3.1 2.2-4.2c1.2-1 2.7-1.5 4.2-1.5.7 0 1.5.2 2.2.6.5.3.9.8 1.1 1.4.1.3.1.7-.1 1-.1.3-.4.7-.7 1-.3.2-.7.3-1 .1-.3-.1-.6-.2-.9-.4zM15 11c-.2-3.7-3.3-6.8-7-7-2.8-.2-5.4 1-7.2 2.9C-.1 8 .5 11.5 3.4 15c1.5 1.5 3.3 2.5 5.3 2.8 1.1.2 2.2.1 3.3-.3.3-.1.6-.3.8-.6.2-.2.3-.5.2-.8 0-.3-.2-.6-.4-.9-.1-.2-.2-.4-.4-.6-.4-.4-.9-.7-1.4-1-.4-.2-.8-.5-1.2-.8-.2-.2-.4-.3-.7-.3-.3 0-.5.1-.8.3-.2.2-.5.4-.7.6-.1.1-.2.2-.3.3-.1.1-.2.2-.3.3-.2.2-.4.3-.6.3-.2 0-.4-.1-.6-.2-.4-.2-.8-.5-1.2-.9C3.5 13.3 3.2 12.7 3 12c-.1-.3 0-.6.1-.9.1-.3.3-.6.6-.8.2-.1.5-.3.7-.3.2 0 .3-.1.5-.1.2 0 .5 0 .7.1.3.1.5.3.8.5.2.2.4.3.7.5.2.2.5.4.7.6.4.4.8.8 1.2 1.2.2.2.4.5.5.7.1.3.1.5.1.8 0 .4-.1.7-.3 1-.2.2-.4.4-.7.6-.2.1-.4.2-.6.2-.3 0-.6-.1-.8-.3-.1-.1-.2-.2-.3-.3-.1-.1-.2-.2-.3-.3-.1-.1-.2-.2-.2-.4 0-.2.1-.4.3-.6.2-.3.5-.6.8-.8.3-.2.6-.3.9-.3.7 0 1.4.4 1.9 1 .3.3.6.7.7 1.2.1.3.1.7 0 1z"/>
+</svg>
+
+                                <span class="hidden ml-1 md:inline">(0274) 415585</span>
+                            </a>
+                        </p>
+                    </nav>
+                    <div class="flex items-center justify-center min-h-screen">
+                        <div>
+                            <div class="block mx-auto mt-10 text-center text-white">
+                                <div class="block mb-3 font-semibold uppercase opacity-70">SORRY</div>
+                                <h1 class="block max-w-2xl mx-auto mb-5 text-3xl font-bold md:text-4xl">This Account Has Been Suspended</h1>
+
+                            </div>
+                            <div class="py-16 box">
+                                <img class="xl:max-w-[16vw] max-w-[200px] mx-auto transition animate-pulse moves" src="https://idwebhost.com/themes/general/webhosting/assets/img/ufo-min.png" alt="" />
+                                <img class="max-w-xs mx-auto -mt-[230px]" src="https://idwebhost.com/themes/general/webhosting/assets/img/under.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </body>
+    <script src="https://idwebhost.com/themes/general/webhosting/assets/js/dist/preline.js"></script>
+</html>

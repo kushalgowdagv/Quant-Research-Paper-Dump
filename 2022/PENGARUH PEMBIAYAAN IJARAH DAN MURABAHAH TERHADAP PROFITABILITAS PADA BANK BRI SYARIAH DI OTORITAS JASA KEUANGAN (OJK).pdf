@@ -1,0 +1,931 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>Selamat Datang Pengunjung Rumah Jurnal</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="generator" content="Open Journal Systems 2.4.8.5" />
+	
+		<link rel="stylesheet" href="https://jurnal.iain-bone.ac.id/plugins/themes/customSite/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="https://jurnal.iain-bone.ac.id/plugins/themes/customSite/css/sitestyle.css" type="text/css" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/plugins/themes/customSite/js/jquery.min.js"></script>
+
+				
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	</head>
+
+<body id="body-site">
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://jurnal.iain-bone.ac.id/index.php/index/index"><i class="fa fa-home"></i> Home</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+		<li id="about"><a href="https://jurnal.iain-bone.ac.id/index.php/index/about"><i class="fa fa-info-circle"></i> About</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+
+					<li id="login"><a href="https://jurnal.iain-bone.ac.id/index.php/index/login"><i class="fa fa-unlock-alt"></i> Login</a></li>
+							<li id="register"><a href="https://jurnal.iain-bone.ac.id/index.php/index/user/register"><i class="fa fa-file-text-o "></i> Register</a></li>
+												<li id="search"><a href="https://jurnal.iain-bone.ac.id/index.php/index/search"><i class="fa fa-search"></i> Search</a></li>
+		
+		
+		      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav><div class="container header-container">
+
+	<div id="header">
+		<div id="headerTitle">
+			<h1>
+													<img src="https://jurnal.iain-bone.ac.id/public/site/pageHeaderTitleImage_en_US.jpg" width="1115" height="126" alt="Page Header" />
+							</h1>
+			<h4></h4>
+		</div>
+	</div>
+</div><!-- container -->
+
+<div class="container">
+
+<div class="row" id="main-content">
+<a name="journals"></a>
+				<span style="display:none">1</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/ekspose"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/7/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Ekspose: Jurnal Penelitian Hukum dan Pendidikan
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/ekspose" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/ekspose/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal1"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal1" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-7">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>EKSPOSE: Jurnal Penelitian Hukum dan Pendidikan</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>EKSPOSE</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"> </td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong>Prefix <strong><strong>10.30863</strong></strong></strong><strong> by Crossref</strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong>1412-2715 (Print) | 2615-4412 (Online)</strong></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Rahmatunnair</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><strong><a href="http://sinta2.ristekdikti.go.id/journals/detail?id=1550" rel="noopener" target="_blank">Sinta</a><span> </span>|<span> </span><a href="https://scholar.google.co.id/citations?user=6wJVSTYAAAAJ&amp;hl=id" rel="noopener" target="_blank">Google Scholar</a><span> </span>|<span> </span><a href="http://garuda.ristekdikti.go.id/journal/view/490" rel="noopener" target="_blank">Garuda</a></strong></td></tr></tbody></table><hr /><p style="text-align: justify;"><strong>Ekspose: Jurnal Penelitian Hukum dan Pendidikan</strong><span> a scientific journal  for disseminating results of conceptual research or studies on law and education, is published two times (June and December) a year. The </span><strong>Ekspose: Jurnal Penelitian Hukum dan Pendidikan</strong><span> is managed by the Institute for Research and Community Service (</span><strong>Pusat Penelitian dan Pengabdian Masyarakat</strong><span>) at Bone State Islamic Institute (</span><strong>IAIN Bone</strong><span>).The publications through </span><strong>Ekspose: Jurnal Penelitian Hukum dan Pendidikan</strong><span> include  results of research or conceptual studies about law, legal or educational phenomena and issues that have never been published elsewhere. The </span><strong>Ekspose: Jurnal Penelitian Hukum dan Pendidikan</strong><span> is intended for experts, academics, practitioners, state administrators, NGOs, and law and education observers.</span></p><div><p style="text-align: justify;"><span>Accepted and published papers will be freely accessed in this website and the following abstracting &amp; indexing databases:</span></p><ul><li style="text-align: justify;"><strong><a title="Sinta" href="http://sinta2.ristekdikti.go.id/journals/detail?id=1550" rel="noopener" target="_blank">Science and Technology Index (SINTA) </a></strong>by Ristekdikti of The Republic of Indonesia</li><li style="text-align: justify;"><strong><a title="isjd" href="http://isjd.pdii.lipi.go.id/index.php/public_no_login/index_direktori" rel="noopener" target="_blank">Indonesian Scientific Journal Database (ISJD)<br /></a></strong></li><li style="text-align: justify;"><a href="http://garuda.ristekdikti.go.id/journal/view/7681" rel="noopener" target="_blank"><strong>GARUDA: Garba Rujukan Digital by Ristekdikti - Indonesia</strong></a></li><li style="text-align: justify;"><strong><a title="Google Scholar" href="https://scholar.google.co.id/citations?user=6wJVSTYAAAAJ&amp;hl=id" rel="noopener" target="_blank">Google Scholar</a></strong></li><li style="text-align: justify;"><strong><a title="doaj" href="https://doaj.org/toc/2527-421X?source=%7B%22query%22%3A%7B%22filtered%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22index.issn.exact%22%3A%221978-4538%22%7D%7D%2C%7B%22term%22%3A%7B%22index.issn.exact%22%3A%222527-421X%22%7D%7D%2C%7B%22term%22%3A%7B%22_type%22%3A%22article%22%7D%7D%5D%7D%7D%2C%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%7D%7D%2C%22from%22%3A0%2C%22size%22%3A100%7D" rel="noopener" target="_blank">Directory of Open Access Jounals (DOAJ)</a></strong></li><li style="text-align: justify;"><a title="Crossref" href="https://search.crossref.org/?q=2527-421X&amp;publication=PYTHAGORAS%3A+Jurnal+Pendidikan+Matematika" rel="noopener" target="_blank"><strong>Crossref Search</strong></a></li><li style="text-align: justify;"><strong><a title="PKP" href="http://index.pkp.sfu.ca/index.php/browse/index/3018" rel="noopener" target="_blank">Publick Knowledge Project (PKP) Index</a></strong></li></ul><p style="text-align: justify;"><strong>The journal has been listed in</strong></p><ul><li><strong><a title="ROAD" href="http://road.issn.org/issn/2527-421X-pythagoras#.Wv-S2jSFPIU" rel="noopener" target="_blank">ROAD ISSN</a></strong></li><li><strong><a title="ebsco" href="http://atoz.ebsco.com/Titles/SearchResults/8623?SearchType=Contains&amp;Find=Pythagoras%3A+jurnal&amp;GetResourcesBy=QuickSearch&amp;resourceTypeName=journalsOnly&amp;resourceType=1&amp;radioButtonChanged=" rel="noopener" target="_blank">Open Science Directory </a>by EBSCO information service</strong><strong></strong></li></ul></div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">2</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/albayyinah"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/1/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Al-Bayyinah
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/albayyinah" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/albayyinah/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal2"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal2" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-1">
+      				<table cellpadding="2"><tbody align="top"><tr><td width="100px">Journal Title</td><td><strong>: Al-Bayyinah<br /></strong></td></tr><tr><td>ISSN</td><td><strong>: <a title="pISSN" href="https://issn.brin.go.id/terbit/detail/1326076849" target="_blank">1979-7486</a> (print) | <a title="eISSN" href="https://issn.brin.go.id/terbit/detail/1496799320" target="_blank">2580-5088</a> (online)</strong></td></tr><tr><td>DOI Prefix</td><td><strong>: Prefix <a href="https://dx.doi.org/10.30863/al-bayyinah.v8i1.5198" target="_blank"><strong>10.30863</strong></a> </strong>by <img style="height: 14px;" src="http://ijain.org/public/site/images/apranolo/Crossref_Logo_Stacked_RGB_SMALL.png" alt="" /></td></tr><tr><td>Editor in Chief</td><td><strong>: Dr. Hamzah, M.Sy<br /></strong></td></tr><tr><td>Publisher</td><td><strong>: Faculty of Shariah and Islamic Law, Institut Agama Islam Negeri Bone</strong></td></tr><tr><td>Frequency</td><td><strong>: 2 issues per year (Juny and December)</strong></td></tr><tr><td valign="top">Citation Analysis</td><td><strong>: <a title="SINTA ID" href="https://sinta.kemdikbud.go.id/journals/profile/4904" target="_blank">Sinta</a> </strong>|<strong> <a title="GS" href="https://scholar.google.co.id/citations?user=FGPVX8oAAAAJ&amp;hl=id" target="_blank">Google Scholar</a></strong> | <strong><a title="Garuda" href="https://garuda.kemdikbud.go.id/journal/view/33241" target="_blank">Garuda</a></strong> | <strong><a title="Dimensions" href="https://app.dimensions.ai/discover/publication?search_mode=content&amp;and_facet_source_title=jour.1368308" target="_blank">Deminsions</a></strong></td></tr></tbody></table><p style="text-align: justify;">Al-Bayyinah is a double-blind peer-reviewed journal published by the Faculty of Sharia and Islamic Law, Bone State Islamic Institute, South Sulawesi, Indonesia. This journal publishes the results of research and conceptual studies in the fields of Islamic family law, Islamic law, constitutional law, sharia economic law and social, cultural, customary studies relevant to Islamic law. This journal article is published 2 times a year in stages; Juny and December. Since its inception in 2017, <strong>Al-Bayyinah</strong> has been listed on Crossref. All articles published by <strong>Al-Bayyinah</strong> have a DOI number. <strong>Al-Bayyinah</strong> is also indexed by Google Scholar, Garuda, Moraref, BASE, and other indexes. In 2019, <strong>Al-Bayyinah</strong> has been accredited based on the Decree of the Director General of Strengthening Research and Development of the Ministry of Research, Technology and Higher Education of the Republic of Indonesia <strong>Number 28/E/KPT/2019</strong>. This accreditation is effective since the issuance of Vol 1 No 1 Year 2018 <strong>(Sinta 5)</strong>. In 2021, Al-Bayyinah Journal has been reaccredited through the Decree of the Director General of Strengthening Research and Development of the Ministry of Research, Technology and Higher Education of the Republic of Indonesia <strong>Number 158/E/KPT/2021</strong>. This reaccreditation is only effective in the issue of Vol 4 No 1 of 2020 <strong>(Sinta 4)</strong>, and it is valid until Vol 8 No 2 of 2024. <strong>Journal Secretariat</strong>: Building of the Faculty of Sharia and Islamic Law, State Islamic Institute of Bone, South Sulawesi, Indonesia, Jl.  Hos Cokroaminoto, Watampone, South Sulawesi, Indonesia, Postal Code 92733.</p><p style="text-align: justify;"><strong>Email:</strong> <a>albayyinah08@gmail.com</a></p><p style="text-align: justify;"><strong>Collaboration With:</strong></p><ul><li><strong><a title="MoU IAIN Bone &amp; RJI" href="https://drive.google.com/file/d/1rBYZYzJTOwy98DkM9P6eA6pMq3KMgbBU/view?usp=sharing" target="_blank">Relawan Jurnal Indonesia (RJI)</a></strong></li><li><strong><a title="apji" href="https://drive.google.com/file/d/1SZAuHmyzFgav26MKGyHUTYwQ_C9z9Y9E/view?usp=sharing" target="_blank">Asosiasi Pengelola Jurnal Indonesia (APJI)</a></strong></li><li><strong><a title="ADHKI" href="http://adhkiindonesia.or.id/" target="_blank">Asosiasi Dosen Hukum Keluarga Islam (ADHKI) Indonesia</a></strong></li><li><strong><a title="RM-IAIN Bone" href="/" target="_blank">Rumah Jurnal Institut Agama Islam Negeri (IAIN) Bone</a></strong></li></ul><p> </p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">3</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/aladalah"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/6/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Al-Adalah: Jurnal Hukum dan Politik Islam
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/aladalah" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/aladalah/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal3"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal3" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-6">
+      				<div class="translate-tooltip-mtz black sm-root translate hidden_translate"><div class="header-wrapper"><div class="header-controls"> </div></div></div><table class="data" width="100%" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%"><a href="https://sinta.kemdikbud.go.id/journals/profile/6316">Journal title</a></td><td width="80%"><strong>Al-Adalah: Jurnal Hukum dan Politik Islam</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>AJMPI</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"><strong>Al-Adalah J. Huk. dan Polit. Islam</strong></td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="80%"><strong>Prefix 10.35673 as of January 2023, switches to Prefix <strong><a title="DOI" href="https://search.crossref.org/search/works?q=AL-ADALAH%3A+JURNAL+HUKUM+DAN+POLITIK+ISLAM&amp;from_ui=yes">10.30863</a></strong></strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><a title="E-ISSN" href="https://issn.brin.go.id/terbit/detail/1557200238"><strong>2685550X</strong></a> (Online) | <strong><a title="P-ISSN" href="https://issn.brin.go.id/terbit?search=2406-8802">24068802</a> </strong>(print)</td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Irfan Amir</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong>IAIN Bone</strong></td></tr><tr valign="top"><td width="20%"><p>Citation Analysis</p></td><td width="80%"><p><strong><a title="GS" href="https://scholar.google.com/citations?user=I8HCgkQAAAAJ&amp;hl=id"><strong>Google Scholar</strong></a> <span>|</span> <a title="Sinta4" href="https://sinta.kemdikbud.go.id/journals/profile/6316"><strong>Sinta</strong></a> <span>|</span> <a title="DOAJ" href="https://doaj.org/toc/2685-550X?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22terms%22%3A%7B%22index.issn.exact%22%3A%5B%222406-8802%22%2C%222685-550X%22%5D%7D%7D%5D%7D%7D%2C%22size%22%3A100%2C%22sort%22%3A%5B%7B%22created_date%22%3A%7B%22order%22%3A%22desc%22%7D%7D%5D%2C%22_source%22%3A%7B%7D%2C%22track_total_hits%22%3Atrue%7D"><strong>Doaj</strong></a></strong></p></td></tr></tbody></table><p>Welcome to the official website of<strong> Al-Adalah: Jurnal Hukum dan Politik Islam.</strong> With the spirit of further proliferation of knowledge on the legal system in Indonesia to the wider communities, this website provides journal articles for free download. Our academic journal is a source of reference both from law academics and legal practitioners.</p><p><strong>Al-Adalah: Jurnal Hukum dan Politik Islam</strong> is an academic journal for Legal Studies published by Department of Constitutional Law, Faculty of Sharia, State Islamic Institute of Religion (IAIN) Bone, Indonesia. <strong>Al-Adalah: Jurnal Hukum dan Politik Islam</strong> contains several kinds of research and reviews on selected disciplines within several branches of Legal Studies (Sociology of Law, History of Law, Comparative Law, etc.). In addition, <strong>Al-Adalah: Jurnal Hukum dan Politik Islam</strong> also covers multiple studies on law in a broader sense. This journal is periodically published (in January and Juli) and the approved and ready-to-publish manuscripts will also be regularly published on the website (with early view) and the hardcopy version will be circulated at the end of every period.</p><p><strong>Al-Adalah: Jurnal Hukum dan Politik Islam</strong> is published by Study Program of Constitutional Law, Shariah, and Islamic Law Faculty, Islamic State Institute of Religion (IAIN) Bone, Indonesia</p><p><img src="https://public/site/images/jumrianinawawi/sinta_4.png" alt="" /></p><p> </p><p style="direction: rtl;"> </p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">4</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/aldustur"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/14/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Jurnal Al-Dustur
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/aldustur" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/aldustur/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal4"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal4" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-14">
+      				<p><strong> </strong></p><table width="452" border="1" cellpadding="0"><tbody><tr><td><p>Journal Title</p></td><td><p><strong>: Jurnal Al-Dustur</strong></p></td></tr><tr><td><p>ISSN</p></td><td><p><strong>: <a href="https://issn.brin.go.id/terbit/detail/1533090733" target="_blank">2622-5964</a> (printed) | <a href="https://issn.brin.go.id/terbit/detail/1564627576" target="_blank">2686-6498</a> (online)</strong></p></td></tr><tr><td><p>DOI Prefix</p></td><td><p><strong>: Prefix <a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank">10.30863/aldustur by</a></strong><a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAATCAYAAAAu2nXoAAAFW0lEQVRYCeWW+09TZxjH/WNcorvEmSyyiy1mi4tu84LWQFFU8MqEcHOgqHg3QBgG0QEqq0ZZxKl1OBBaQEDacu2VQrloOzawYFsotxZoz3fP+2rrMIvxp2WNT/Ke855z3vOe5/N8n+dpF+EdskXvECveHlaYB2ZsgEMJwXoS6E0FfNMhFas3wPoB7xDgaoRgy4Ng3gahdQXQ8SHQvwwwbAH8c6EMS0pNtQJ//QShJx6C9msIKoLTf/RitNG85QM+F4zRBDsbmrDeG7nwVW2GoCbVLATVTcNAo53gNDTUNBgoA7Ysg6CLCF1Y/6dfwitehRnJSngyV2C+dDn8laRo81KCfI+AF9NYAqEtDIJpI4TBQkCgVA8hC9asa3k4XMvC4VxK58UijL3/GdzhYZiM+xxe2TeYMSTAby+nNDe9EVIQBMzO/T9rOQg79bEY7iVhGFsaBodoLYZj9mLw2CkMlMrQ36DEgEWHoT+tcI85MTM9iampqQWaMkB5RQUyT5xA+tGjOJ2bi3atdsGa//LC4XTi6vXrKCwuDn42CPt8vRTOjEyM3JTBplait0uFvoEOPLHp8WRAC7NBhVZ1DeTyMuT8mI2zOTmYe6kgU5NtKtm6FWXl5XjU1ISsU6eweds2mLq68Nzh4MF5arPBNTbGP97X3w+dwcCfBbyx2+0wmEzopWezsy+an3tiAl3d3TDRmKA5+9bws2eYnp5G/8AApmdm+D1LXx9MZjM8Xi9/90JRESKkUpTfvRvY/tXv7LzLiQnPOJzuIQz9YYKlS4325oe4f+tn5OWeRkJyIiK3b8eaiE34ViJByqFDQdinVis2vwQN7Dw/Pw8twTwjALb2YGYmktLTUVNbi0uXLyMpIwPHz53D/qQkdOp0UGk02LFvH4quXsXxM2dwvawMQ8PD+D4lBTn5+cgrKEB2Xh56enuxNzGRZxDbU9PWhvzCQhyj4J7Mzubv1jU08DWbyKdfbt8OuPQKlt3xUb9pH3VDZrYiTaFBdPENrEnOwOpIKdauX4d1G9Zjw6YISKKlPFUDymr1ekhIRaboP40566R0itmzh4MyRe7I5dgQGQkrqez3+zlEYloaKqurERUbiwJSpEQmQ7VSCdvgIGLj43GaIFhKMse7LRauWO7583C5XFw5piALzq07d7AxKgqXr13j85hduxaUWzCNc/RPsLVOB/H9FoTR+OSeBivkGnwhVyP8ZjW+KpBhzZGz+O5AMrbs3ovEgweDqTbudmPn/v1IP3KEw7EgNBA4U1v56BF2kxKl5CwzBsscclBqMyu6cgU7SVEzpWmVQoHa+npkkbJMUXNPDxR0XUt7XKJ10rg4VFRVQRITg/rGRv4+CwDb7yG92/D4MUpKS9GoUvHASCl4Ho+Hr2OHIGx4jQHih1qIHrRh5W8tWHlfw8+i39shVhghrrdAVG3EarkKcfJa3Kpvgo9SNWBGqs345GTsPnAAKYcPI2rHDq4aqzl27xpFnhkLTGZWFn6gFMy/eBGxBNpEzrHgJKSm4td793h6H6JGpzcaeQlcIaWLCSKOVGaQ0aQYS1VmI6OjSKMgM/ULS0p4erPaZyqzvf8VlsMRoKiiFeLKTjD48Go9h46q1eFkRz/uWu0wuqawsA/zb/LD2Pg4mqn2FHV1vFkEnrAGM0wOBMxLzUfd0sLrl6VzwFg9MnWb1WrejNh9VgpMbaaufWQEPp8PempiTkrhgE1OTvKAKWkdW8+MlQxLeVYqAQsqyxRdpTRBVNmBjTWdSFV3o6R7ECq7Cw5PaP0tDMC9fg7CRig6ccFoQ9sodWTPHG/nry8O9esgbKiDvI3/7xTs37VV+ZCeun6QAAAAAElFTkSuQmCC" alt="" /></a></p></td></tr><tr><td><p>Editor in Chief</p></td><td><p><strong>: Prof. Dr. H. Lukman Arake, Lc., M.A.</strong></p></td></tr><tr><td><p>Publisher</p></td><td><p><strong>: Department of Constitutional Law</strong></p></td></tr><tr><td><p> </p></td><td><p><strong>: Postgraduate Program of IAIN Bone</strong></p></td></tr><tr><td><p>Frequency</p></td><td><p><strong>: 2 issues per year</strong></p></td></tr><tr><td valign="top"><p>Citation Analysis</p></td><td><p><strong>: <a href="https://scholar.google.co.id/citations?user=DvRj7TMAAAAJ&amp;hl=id" target="_blank">Google Scholar</a></strong></p></td></tr></tbody></table><p><strong>Jurnal Al-Dustur</strong> is a Scientific Journal published by Department of Constitutional Law in Postgraduate Program of the State Islamic Institute (IAIN) Bone as a media of publishing and sharing the results of research and the development of Politic, Law and Islamic Studies. This journal contains articles that have never been previously published in the form of articles from research or applied research. All submitted articles will go through "peer-review process" after fulfilling the requirements according to the article writing guidelines. The publication of this journal is biannually on June and December.</p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">5</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/adara"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/3/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Adaara: Jurnal Manajemen Pendidikan Islam
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/adara" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/adara/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal5"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal5" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-3">
+      				<div class="translate-tooltip-mtz green sm-root translate hidden_translate"><div class="header-wrapper"><div class="header-controls"> </div><div class="header-title"><strong>Adaara: Jurnal Manajemen Pendidikan Islam</strong> a periodic scientific journal published by the Islamic Education Management Study Program (MPI) Tarbiyah Department Institut Agama Islam Negeri (IAIN) Bone. E-ISSN: <a href="https://portal.issn.org/resource/ISSN/2685-4538">2685-4538</a> and P-ISSN: <a href="https://portal.issn.org/resource/ISSN-L/2407-8107">2407-8107</a>. This journal focuses on the study of the science of Islamic education management. The editorial board welcomes contributions in the form of articles from  scientists,  scholars,  professionals,  and  researchers  in  Islamic  education  management  disciplines to be published and disseminated after going through the manuscript selection mechanism, sustainable partner studies, and editing processes. All articles published in this journal are the views of the authors and do not represent this journal or the author's affiliated institutions. Jurnal Adaara-"Jurnal Manajemen Pendidikan Islam"- is published twice a year.</div></div></div><p><span><br /></span></p><p><span><strong style="font-family: 'book antiqua', palatino; font-size: medium;">Indexed by</strong><strong>:</strong></span></p><p><span><strong><a href="https://scholar.google.co.id/citations?user=gqAtzM8AAAAJ&amp;hl=id"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguxsD-R_IeSVK4N7ieUgoyGMyK9ysS36Y795h7k9Ew2YzC1VlL9C6cBDQek5ZfmD3t4SAmzpg7j5abaAAfPJ7B5_DTjNd7CZ26k4RT5Xupujkasg48510J1SM8RvrNTpX-CBYZYeO3brRwbqC1xEFezz574aZjIHN4Ex0nGRw9bQph3ALfEn2HUow4C4E/s1600/googlescholar.jpeg" alt="" /></a>  <a href="https://garuda.kemdikbud.go.id/journal/view/15845"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga7-rqPmtgrVC4V3No2AQSbFwjur1ZfldMNl_0PIxnO4v9GizhRCWYVgee2JHRd9XMk5tknYA1mFT-jPdmBAeCkChEwHjn5FX4-xLhajXGyHcv3cIVV47qNgpNCMOlD1TY28mzQY0vrZuRx7UOwvfKUrLm0v3KnixfVixI3A0RwmSo2-NEsmj9tzQLegg/s1600/garuda_36.png" alt="" /></a>  <a href="https://sinta.kemdikbud.go.id/journals/profile/5554"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrQBPVJmEaYs7q91136LtPopFyIq9bSWiuN91MnYweBiCFpJYTWHbANYGcRTfY06zzBupKVlXxYFr4Aj6oLWqTdNLfBL5Is95ZDZaoIPubDNCYDIpphGJVGP4b1rKd6TBr_5_KAgbuG_mRbwtCPhKl27nJcWftySuzqP_VpzylXv2Y3jLFzWJslx9l1fI/s1600/sinta.jpg" alt="" /></a>    <a href="https://moraref.kemenag.go.id/archives/journal/98077985952841981"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs0fcKCwk52aOTqISY-ff_dQqEuNMBvHzaHWTn0D30CrjRPzVSK3FdInCMTU0xjB4tz6rnfi8KOtuJgugWzLI7tljDFdXAf7_p9WsGN1wCTjmU44S9xdldd8UIF_xXmU3gbAF1EXCV8i5a4lfLAQcYmlyuQHgyrjA2aSgs282HjYwmMBsx7wgX68aeYGw/s1600/moraref.jpg" alt="" /></a>  <a href="https://search.crossref.org/search/works?q=Adaara+Jurnal+Manajemen+Pendidikan+Islam&amp;from_ui=yes"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLa6b8MwuPzuFOEKiRgqgkCan6RAO09xLZjmSCX2NRf5feJB5EmYBxYyRh8rZCWjl8f2qdfLX_XnCgI_ML1LVpr5HX_Ur8dwI1Qc8KE90ZGvJXAimR2IGFkn6htbZviKuKZp9EGrv5edkW9HHwqC0O0jRakLjMFvCKXC3AWoBc3dJIY9zQEGtmqds1qJg/s1600/crossref.jpg" alt="" /></a>              <a href="https://app.dimensions.ai/discover/publication?and_facet_source_title=jour.1368299"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgosPkrNQxWvP3EghSjhOjc-Oe8022gkyhj88smBwypG1h44u3EK2yMWZSB0AKs0JTMP1AVPSVaJ8jH9TERqcMdx-otfNIBr1grPAqdsTlHt7_Bt1GrVPzd2CEOgiXf2DjvjxJ4EFvbj8rjI2ZuEzcXtiuqMB2F87tkPpL1-pQw_lKQM8FdHpB4l7Bd3cw/w166-h30/Dimensions_new_colour-01-1212_(1).jpg" alt="" /></a>               </strong></span></p><p><span><strong><img src="https://public/site/images/fajridwiyama/google.png" alt="" /></strong></span></p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">6</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/didaktika"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/2/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Didaktika : Jurnal Kependidikan
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/didaktika" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/didaktika/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal6"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal6" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-2">
+      				<p><strong>P-ISSN <a href="http://issn.pdii.lipi.go.id/issn.cgi?daftar&amp;1180425583&amp;1&amp;&amp;" target="_blank">1978-0214</a> | E-ISSN <a href="http://issn.pdii.lipi.go.id/issn.cgi?daftar&amp;1552961970&amp;1&amp;&amp;" target="_blank">2657-196X</a></strong></p><p><strong><br /></strong></p><p><strong>DIDAKTIKA:  Jurnal Kependidikan</strong> is a peer-reviewed scientific open-access journal with ISSN 1978-0214 (print) and 2657-196X (online). This is a biannual journal which is published every June and December by Fakultas Tarbiyah Institut Agama Islam Negeri (IAIN) Bone. DIDAKTIKA: Jurnal Kependidikan has been established for the dissemination of state-of-the-art knowledge in the field of <strong>education</strong>.</p><p><strong>DIDAKTIKA</strong> <strong>Jurnal Kependidikan</strong> welcomes high-quality manuscripts resulted from a research project or literature study in the scope of <strong>education</strong>, which could be including: theories and practices in education, teaching and learning, instruction, learning environments, education policy, curriculum and materials developments, teacher education, media of teaching and learning, educational technology, educational developments, and other relevant activities, from many kinds of research such as research and development, experimental research, survey, class action research, etc.</p><p>The manuscript must be original research, not be simultaneously submitted to another journal or conference. All submitted manuscripts will be initially reviewed by editors and then evaluated by a minimum of two external reviewers through the double-blind review process. This is to ensure the quality of the published manuscripts in the journal.</p><p>Please kindly submit your manuscript on <strong>submission</strong> by referring to the <strong>template</strong> and <strong>author guidelines</strong>. Any papers not fulfilling these requirements based on the guidelines to authors will not be processed.</p><p><img src="https://public/site/images/penialgurfah/S57.png" alt="" /></p><p> </p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">7</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/alsyakhshiyyah"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/19/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											AL-SYAKHSHIYYAH Jurnal Hukum Keluarga Islam dan Kemanusiaan
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alsyakhshiyyah" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alsyakhshiyyah/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal7"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal7" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-19">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong><span>Al-SYAKHSHIYYAH</span>: Jurnal Hukum Keluarga Islam dan Kemanusiaan</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>AS-HKI</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"><strong> AL-SYAKHSHIYYAH J. Huk. Kel. Islam dan Kemanus.</strong></td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong>Prefix <strong><strong>10.30863</strong></strong></strong><strong> by Crossref</strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><p><strong><span>P-ISSN: 2685-3248 / E-ISSN: 2685-5887</span></strong></p></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Muljan</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><p><strong><strong>Departmen of Islamic Family Law IAIN Bone </strong></strong></p><p>Welcome to the official Al-Syakhshiyyah website. Al-Syakhshiyyah is an academic journal for Islamic Family Law &amp; Humanity published by Departmen of Islamic Family Law, IAIN Bone. Al-Shakhshiyyah contains several studies and reviews of selected disciplines in several branches of Islamic Family Law, also including many studies of law in a broader sense. This website provides journal articles for free download. This journal is published periodically in June and December.</p></td></tr></tbody></table>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">8</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/attadib"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/21/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Atta&#039;dib Jurnal Pendidikan Agama Islam
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/attadib" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/attadib/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal8"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal8" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-21">
+      				<p><strong> </strong></p><table width="452" border="1" cellpadding="0"><tbody><tr><td><p>Journal Title</p></td><td><p><strong>: Atta'dib Jurnal Pendidikan Agama Islam</strong></p></td></tr><tr><td><p>ISSN</p></td><td><p><strong>: 2745-665X (printed) | 2746-1572 (online)</strong></p></td></tr><tr><td><p>DOI Prefix</p></td><td><p><strong>: Prefix <a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank">10.30863/attadib by</a></strong><a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAATCAYAAAAu2nXoAAAFW0lEQVRYCeWW+09TZxjH/WNcorvEmSyyiy1mi4tu84LWQFFU8MqEcHOgqHg3QBgG0QEqq0ZZxKl1OBBaQEDacu2VQrloOzawYFsotxZoz3fP+2rrMIvxp2WNT/Ke855z3vOe5/N8n+dpF+EdskXvECveHlaYB2ZsgEMJwXoS6E0FfNMhFas3wPoB7xDgaoRgy4Ng3gahdQXQ8SHQvwwwbAH8c6EMS0pNtQJ//QShJx6C9msIKoLTf/RitNG85QM+F4zRBDsbmrDeG7nwVW2GoCbVLATVTcNAo53gNDTUNBgoA7Ysg6CLCF1Y/6dfwitehRnJSngyV2C+dDn8laRo81KCfI+AF9NYAqEtDIJpI4TBQkCgVA8hC9asa3k4XMvC4VxK58UijL3/GdzhYZiM+xxe2TeYMSTAby+nNDe9EVIQBMzO/T9rOQg79bEY7iVhGFsaBodoLYZj9mLw2CkMlMrQ36DEgEWHoT+tcI85MTM9iampqQWaMkB5RQUyT5xA+tGjOJ2bi3atdsGa//LC4XTi6vXrKCwuDn42CPt8vRTOjEyM3JTBplait0uFvoEOPLHp8WRAC7NBhVZ1DeTyMuT8mI2zOTmYe6kgU5NtKtm6FWXl5XjU1ISsU6eweds2mLq68Nzh4MF5arPBNTbGP97X3w+dwcCfBbyx2+0wmEzopWezsy+an3tiAl3d3TDRmKA5+9bws2eYnp5G/8AApmdm+D1LXx9MZjM8Xi9/90JRESKkUpTfvRvY/tXv7LzLiQnPOJzuIQz9YYKlS4325oe4f+tn5OWeRkJyIiK3b8eaiE34ViJByqFDQdinVis2vwQN7Dw/Pw8twTwjALb2YGYmktLTUVNbi0uXLyMpIwPHz53D/qQkdOp0UGk02LFvH4quXsXxM2dwvawMQ8PD+D4lBTn5+cgrKEB2Xh56enuxNzGRZxDbU9PWhvzCQhyj4J7Mzubv1jU08DWbyKdfbt8OuPQKlt3xUb9pH3VDZrYiTaFBdPENrEnOwOpIKdauX4d1G9Zjw6YISKKlPFUDymr1ekhIRaboP40566R0itmzh4MyRe7I5dgQGQkrqez3+zlEYloaKqurERUbiwJSpEQmQ7VSCdvgIGLj43GaIFhKMse7LRauWO7583C5XFw5piALzq07d7AxKgqXr13j85hduxaUWzCNc/RPsLVOB/H9FoTR+OSeBivkGnwhVyP8ZjW+KpBhzZGz+O5AMrbs3ovEgweDqTbudmPn/v1IP3KEw7EgNBA4U1v56BF2kxKl5CwzBsscclBqMyu6cgU7SVEzpWmVQoHa+npkkbJMUXNPDxR0XUt7XKJ10rg4VFRVQRITg/rGRv4+CwDb7yG92/D4MUpKS9GoUvHASCl4Ho+Hr2OHIGx4jQHih1qIHrRh5W8tWHlfw8+i39shVhghrrdAVG3EarkKcfJa3Kpvgo9SNWBGqs345GTsPnAAKYcPI2rHDq4aqzl27xpFnhkLTGZWFn6gFMy/eBGxBNpEzrHgJKSm4td793h6H6JGpzcaeQlcIaWLCSKOVGaQ0aQYS1VmI6OjSKMgM/ULS0p4erPaZyqzvf8VlsMRoKiiFeLKTjD48Go9h46q1eFkRz/uWu0wuqawsA/zb/LD2Pg4mqn2FHV1vFkEnrAGM0wOBMxLzUfd0sLrl6VzwFg9MnWb1WrejNh9VgpMbaaufWQEPp8PempiTkrhgE1OTvKAKWkdW8+MlQxLeVYqAQsqyxRdpTRBVNmBjTWdSFV3o6R7ECq7Cw5PaP0tDMC9fg7CRig6ccFoQ9sodWTPHG/nry8O9esgbKiDvI3/7xTs37VV+ZCeun6QAAAAAElFTkSuQmCC" alt="" /></a></p></td></tr><tr><td><p>Editor in Chief</p></td><td><p><strong>: Dr. A Fajar Awaluddin, M.Pd.I</strong></p></td></tr><tr><td><p>Publisher</p></td><td><p><strong>: Islamic Education Study Program</strong></p></td></tr><tr><td><p> </p></td><td><p><strong>: Faculty of Tarbiyah IAIN Bone</strong></p></td></tr><tr><td><p>Frequency</p></td><td><p><strong>: 2 issues every year</strong></p></td></tr><tr><td valign="top"><p>Citation Analysis</p></td><td><p><strong>: <a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&amp;user=Ff8w1LwAAAAJ">Google Scholar</a></strong><strong> </strong></p></td></tr></tbody></table><p align="justify">Atta'dib Jurnal Pendidikan Agama Islam a scientific journal for disseminating results of conceptual research or studies on Islamic religious education, is published two times (June and December) a year. The Atta'dib Jurnal Pendidikan Agama Islam is managed by the Islamic religious education study program at Bone State Islamic Institute (IAIN Bone).The publications through Atta'dib Jurnal Pendidikan Agama Islam include results of research or conceptual studies about Teaching Islamic Education and Islamic Education Studies in the Indonesian or international context. The manuscript must be original research, not be simultaneously submitted to another journal or conference. All submitted manuscripts will be initially reviewed by editors and then evaluated by a minimum of two external reviewers through the double-blind review process. This is to ensure the quality of the published manuscripts in the journal. Please kindly submit your manuscript on submission by referring to the template and author guidelines. Any papers not fulfilling these requirements based on the guidelines to authors will not be processed.</p><p align="justify"> </p><p align="justify"><img src="https://public/site/images/syahrulsarea/Screenshot_2024-06-02_2247573.png" alt="" /></p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">9</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/ijretal"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/29/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											International Journal of Research on English Teaching and Applied Linguistics
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/ijretal" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/ijretal/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal9"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal9" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-29">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>International Journal of Research on English Teaching and Applied Linguistics</strong></td></tr><tr valign="top"><td width="20%"><span>Frequency</span></td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%"><span>DOI</span></td><td width="80%"><strong>Prefix <strong><strong>10.30863</strong></strong></strong><strong> by Crossref</strong></td></tr><tr valign="top"><td width="20%"><span>ISSN</span></td><td width="80%"><strong><a href="https://issn.lipi.go.id/terbit/detail/1611548026" target="_blank"><strong>2774-8294</strong></a> (Print) | <a href="https://issn.lipi.go.id/terbit/detail/1611550706" target="_blank"><strong><strong>2774-9312</strong></strong></a><strong> (Online)</strong></strong></td></tr><tr valign="top"><td width="20%"><span>Editor-in-Chief</span></td><td width="50%"><a href="/index.php/ijretal/about/editorialTeamBio/942" target="_blank"><strong>Hasriati Nur</strong></a></td></tr><tr valign="top"><td width="20%"><span>Publisher</span></td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%"><span>Citation</span></td><td width="80%"><strong><a href="https://scholar.google.com/citations?user=R7UEB-wAAAAJ&amp;hl=id" target="_blank">Google Scholar</a> <strong>| <a href="https://garuda.kemdikbud.go.id/journal/view/23626" target="_blank">Garuda</a></strong></strong></td></tr></tbody></table><p style="text-align: justify;"><strong>International Journal of Research on English Teaching and Applied Linguistics</strong> is dedicated to innovative studies of language use and language learning. The series is based on the idea that there is a need for studies that break barriers. Accordingly, it provides a space for research that crosses traditional disciplinary, theoretical, and/or methodological boundaries in ways that advance knowledge about language (in) education. The series focuses on critical and contextualized work that offers alternatives to current approaches as well as practical, substantive ways forward. Contributions explore the dynamic and multi-layered nature of theory-practice relationships, creative applications of linguistic and symbolic resources, individual and societal considerations, and diverse social spaces related to language learning.</p><div><p style="text-align: justify;">The series publishes in-depth studies of educational innovation in contexts throughout the world: issues of linguistic equity and diversity; educational language policy; revalorization of indigenous languages; socially responsible (additional) language teaching; language assessment; first- and additional language literacy; language teacher education; language development and socialization in non-traditional settings; the integration of language across academic subjects; language and technology; and other relevant topics.</p><p style="text-align: justify;">Accepted and published papers will be freely accessed in this website and the following abstracting &amp; indexing databases:</p><ul><li><strong>Google Scholar</strong></li><li><strong>Garuda</strong></li><li><strong>Moraref</strong></li><li><strong>Morabase</strong></li></ul></div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">10</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/altsarwah"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/13/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Jurnal Ilmiah Al-Tsarwah
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/altsarwah" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/altsarwah/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal10"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal10" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-13">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>Jurnal Ilmiah Al-Tsarwah</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong><span>Jurnal Ilmiah Al-Tsarwah </span></strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"><strong> J. Ilm. Al-Tsarwah</strong></td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong><span>Prefix 10.30863 by Crossref</span></strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong><span><a href="http://www.issn.lipi.go.id/issn.cgi?daftar&amp;1524194429&amp;201&amp;&amp;" target="_blank"><span>2620-7818</span></a></span></strong><span> <strong>(Print)</strong> |<strong><a href="http://issn.pdii.lipi.go.id/issn.cgi?kirimdaftar&amp;1563330305&amp;&amp;&amp;2019" target="_blank"><span>2685-4686</span></a> (Online)</strong></span></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Muhammad Fakhri Amir</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><strong><span> Sinta <strong>| </strong></span><a href="https://scholar.google.co.id/citations?user=6wJVSTYAAAAJ&amp;hl=id" rel="noopener" target="_blank">Google Scholar</a><span> </span>|<span> </span><a href="http://garuda.ristekdikti.go.id/journal/view/490" rel="noopener" target="_blank">Garuda</a></strong></td></tr></tbody></table><hr /><p style="text-align: justify;"><strong><span>Jurnal Ilmiah Al-Tsarwah</span></strong><span> is a scholarly journal published by Program of the Postgraduate Institute of Islamic Studies (IAIN) Bone, serving as a platform for publishing research results and sharing developments in Islamic Economics. This journal features articles that have never been published before, including research articles or applied research, and review articles related to the development of islamic Economics and Finance. Information on article writing guidelines and submission procedures is available in each issue. All submitted articles will go through a peer-review process after meeting the requirements according to the article writing guidelines. This journal is published biannually, in <strong>June</strong> and <strong>December</strong>.</span></p><div><p style="text-align: justify;"><span>Accepted and published papers will be freely accessed in this website and the following abstracting &amp; indexing databases:</span></p><ul><li style="text-align: justify;"><strong>SINTA Kemdikbud</strong></li><li style="text-align: justify;"><a href="https://garuda.kemdikbud.go.id/journal/view/18984" rel="noopener" target="_blank"><strong>GARUDA: Garba Rujukan Digital by Ristekdikti - Indonesia</strong></a></li><li style="text-align: justify;"><strong><a title="Google Scholar" href="https://scholar.google.co.id/citations?user=5WdgkzIAAAAJ&amp;hl=id" rel="noopener" target="_blank">Google Scholar</a></strong></li></ul></div><div id="gtx-trans" style="position: absolute; left: 67px; top: 79px;"> </div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">11</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/palakka"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/27/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Palakka : Media and Islamic Communication
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/palakka" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/palakka/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal11"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal11" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-27">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong><span>Palakka: Media and Islamic Communication</span></strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>PALAKKA</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"> </td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong>Prefix 10.30863 by Crossref</strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong><strong><a href="https://issn.brin.go.id/terbit/detail/1589849842" target="_blank">2746-4687</a> </strong>(Print) | <a href="https://issn.brin.go.id/terbit/detail/20220824131385939" target="_blank">2961-9017</a> (Online)</strong></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong><span>Dr. Kurniati Abidin, S.Sos., M.Si</span></strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><p><strong><a href="https://scholar.google.com/citations?user=L40Aua4AAAAJ&amp;hl=id" target="_blank">Google Scholar</a><span> </span></strong></p><p><a href="https://garuda.kemdikbud.go.id/journal/view/26551" target="_blank"><strong><span>Garuda</span></strong></a></p><p><a href="https://app.dimensions.ai/discover/publication?search_mode=content&amp;and_facet_source_title=jour.1447685" target="_blank"><strong><span>Dimensions</span></strong></a></p></td></tr></tbody></table><hr /><p style="text-align: justify;"><span><strong>Palakka: Media and Islamic Communication</strong> a scientific journal  for disseminating results of conceptual research or studies on media and islamic communication, is published two times (June and December) a year. The <strong>Palakka: Media and Islamic Communication</strong></span><span> is managed by the Institute for Research and Community Service (</span><strong>Communication and <strong>Islamic Broadcasting </strong>Study Program </strong><strong>Faculty of Ushuluddin and Da'wah</strong>) at Bone State Islamic Institute (<strong>IAIN Bone</strong>).The publications through <strong>Palakka: Media and Islamic Communication</strong> include  results of research or conceptual studies about media and islamic communication, and phenomena and issues that have never been published elsewhere. The <strong>Palakka: Media and Islamic Communication</strong> is intended for experts, academics, practitioners, state administrators, NGOs, and media and islamic communication observers.</p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">12</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/alqayyimah"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/16/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											JURNAL AL-QAYYIMAH
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alqayyimah" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alqayyimah/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal12"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal12" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-16">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%">JURNAL AL-QAYYIMAH</td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><span>AQYM</span></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"> </td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong>Prefix <strong><strong>10.30863</strong></strong></strong><strong> by Crossref</strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong>2621-637X (Print) | 2798-2939 (Online)</strong></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Fatimah</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"> </td></tr></tbody></table><hr /><p style="text-align: justify;"><span><strong>JURNAL AL-QAYYIMAH</strong> a scientific journal  for disseminating results of conceptual research or studies on law and education, is published two times (June and December) a year. The <strong>JURNAL AL-QAYYIMAH</strong></span><span> is managed by Program Studi Pendidikan Agama Islam</span><span> at </span><strong>IAIN Bone</strong><span>.The publications through <strong>JURNAL AL-QAYYIMAH</strong></span><span> include  results of research or conceptual studies about law, legal or educational phenomena and issues that have never been published elsewhere. The <strong>JURNAL AL-QAYYIMAH</strong></span><span> is intended for experts, academics, practitioners, state administrators, NGOs, and law and education observers.</span></p><div><p style="text-align: justify;"><span>Accepted and published papers will be freely accessed in this website and the following abstracting &amp; indexing databases:</span></p></div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">13</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/annisa"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/plugins/themes/customSite/css/no-cover.jpg" alt="Cover not ready at this time">
+                  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											AN-NISA
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/annisa" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/annisa/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal13"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal13" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-4">
+      				<table width="452" border="1" cellpadding="0"><tbody><tr><td><p>Journal Title</p></td><td><p>: Jurnal An Nisa'</p></td></tr><tr><td><p>ISSN</p></td><td><p>: 1979-2751 (printed) | <a href="https://portal.issn.org/resource/ISSN/2685-5712">2685-5712</a> (online)</p></td></tr><tr><td><p>DOI Prefix</p></td><td><p>: Prefix <a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank">10.30863/An Nisa'  by</a><a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAATCAYAAAAu2nXoAAAFW0lEQVRYCeWW+09TZxjH/WNcorvEmSyyiy1mi4tu84LWQFFU8MqEcHOgqHg3QBgG0QEqq0ZZxKl1OBBaQEDacu2VQrloOzawYFsotxZoz3fP+2rrMIvxp2WNT/Ke855z3vOe5/N8n+dpF+EdskXvECveHlaYB2ZsgEMJwXoS6E0FfNMhFas3wPoB7xDgaoRgy4Ng3gahdQXQ8SHQvwwwbAH8c6EMS0pNtQJ//QShJx6C9msIKoLTf/RitNG85QM+F4zRBDsbmrDeG7nwVW2GoCbVLATVTcNAo53gNDTUNBgoA7Ysg6CLCF1Y/6dfwitehRnJSngyV2C+dDn8laRo81KCfI+AF9NYAqEtDIJpI4TBQkCgVA8hC9asa3k4XMvC4VxK58UijL3/GdzhYZiM+xxe2TeYMSTAby+nNDe9EVIQBMzO/T9rOQg79bEY7iVhGFsaBodoLYZj9mLw2CkMlMrQ36DEgEWHoT+tcI85MTM9iampqQWaMkB5RQUyT5xA+tGjOJ2bi3atdsGa//LC4XTi6vXrKCwuDn42CPt8vRTOjEyM3JTBplait0uFvoEOPLHp8WRAC7NBhVZ1DeTyMuT8mI2zOTmYe6kgU5NtKtm6FWXl5XjU1ISsU6eweds2mLq68Nzh4MF5arPBNTbGP97X3w+dwcCfBbyx2+0wmEzopWezsy+an3tiAl3d3TDRmKA5+9bws2eYnp5G/8AApmdm+D1LXx9MZjM8Xi9/90JRESKkUpTfvRvY/tXv7LzLiQnPOJzuIQz9YYKlS4325oe4f+tn5OWeRkJyIiK3b8eaiE34ViJByqFDQdinVis2vwQN7Dw/Pw8twTwjALb2YGYmktLTUVNbi0uXLyMpIwPHz53D/qQkdOp0UGk02LFvH4quXsXxM2dwvawMQ8PD+D4lBTn5+cgrKEB2Xh56enuxNzGRZxDbU9PWhvzCQhyj4J7Mzubv1jU08DWbyKdfbt8OuPQKlt3xUb9pH3VDZrYiTaFBdPENrEnOwOpIKdauX4d1G9Zjw6YISKKlPFUDymr1ekhIRaboP40566R0itmzh4MyRe7I5dgQGQkrqez3+zlEYloaKqurERUbiwJSpEQmQ7VSCdvgIGLj43GaIFhKMse7LRauWO7583C5XFw5piALzq07d7AxKgqXr13j85hduxaUWzCNc/RPsLVOB/H9FoTR+OSeBivkGnwhVyP8ZjW+KpBhzZGz+O5AMrbs3ovEgweDqTbudmPn/v1IP3KEw7EgNBA4U1v56BF2kxKl5CwzBsscclBqMyu6cgU7SVEzpWmVQoHa+npkkbJMUXNPDxR0XUt7XKJ10rg4VFRVQRITg/rGRv4+CwDb7yG92/D4MUpKS9GoUvHASCl4Ho+Hr2OHIGx4jQHih1qIHrRh5W8tWHlfw8+i39shVhghrrdAVG3EarkKcfJa3Kpvgo9SNWBGqs345GTsPnAAKYcPI2rHDq4aqzl27xpFnhkLTGZWFn6gFMy/eBGxBNpEzrHgJKSm4td793h6H6JGpzcaeQlcIaWLCSKOVGaQ0aQYS1VmI6OjSKMgM/ULS0p4erPaZyqzvf8VlsMRoKiiFeLKTjD48Go9h46q1eFkRz/uWu0wuqawsA/zb/LD2Pg4mqn2FHV1vFkEnrAGM0wOBMxLzUfd0sLrl6VzwFg9MnWb1WrejNh9VgpMbaaufWQEPp8PempiTkrhgE1OTvKAKWkdW8+MlQxLeVYqAQsqyxRdpTRBVNmBjTWdSFV3o6R7ECq7Cw5PaP0tDMC9fg7CRig6ccFoQ9sodWTPHG/nry8O9esgbKiDvI3/7xTs37VV+ZCeun6QAAAAAElFTkSuQmCC" alt="" /></a></p></td></tr><tr><td><p>Editor in Chief</p></td><td><p>: Munawarah, S.Pd., M.Pd</p></td></tr><tr><td><p>Publisher</p></td><td><p>: Pusat Studi Gender dan Anak IAIN Bone</p></td></tr><tr><td><p>Frequency</p></td><td><p>: 2 issues per year</p></td></tr><tr><td valign="top"><p>Citation Analysis</p></td><td><p>: <a href="https://scholar.google.co.id/citations?user=DvRj7TMAAAAJ&amp;hl=id" target="_blank">Google Scholar</a></p></td></tr></tbody></table><p> </p><p>An Nisa' is a scientific journal that contains research results on gender and children, published twice a year (in June and December). An Nisa' is managed by the Institute for Research and Community Service (LPPM) at the State Islamic Institute (IAIN) Bone. Publications through An Nisa' include research results or conceptual studies on gender, women, and children that have never been published elsewhere. An Nisa' is intended for experts, academics, practitioners, state administrators, and NGOs.</p><p>The aim of this journal is to provide a platform for academics, researchers, and practitioners to publish original research articles or review articles. The scope of articles published in this journal covers various topics in the fields of gender and children.</p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">14</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/ieb"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/31/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Islamic Economic and Business Journal
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/ieb" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/ieb/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal14"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal14" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-31">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>Islamic Economic and Business Journal</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>IEB Journal</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"><strong>Islam. Econ. Bus. J.</strong></td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong>Prefix 10.30863 by Crossref</strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong><strong>2715-8853</strong> (Print) | <strong><strong>2963-1025</strong></strong><strong> (Online)</strong></strong></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Syamsul Bahri</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><strong>SINTA</strong><strong><a href="https://garuda.kemdikbud.go.id/journal/view/25835" rel="noopener" target="_blank"> | Garuda | </a></strong><strong><a href="https://scholar.google.com/citations?user=RMLYg1cAAAAJ&amp;hl=id&amp;authuser=1" rel="noopener" target="_blank">Google Scholar</a></strong></td></tr></tbody></table><hr /><p style="text-align: justify;"><strong>IEB (Islamic Economic &amp; Business)</strong> <strong>Journal</strong> is a scientific journal published by the Faculty of Islamic Economics and Business IAIN Bone. This journal contains never-before-published articles in the form of research or applied research articles, study articles related to Sharia Economy and Environment, including Sharia Business, Sharia Banking, Sharia Marketing, Human Resources, Sharia Finance, Zakat, Waqf, Poverty Alleviation, Public Finance, Monetary Economics, Economic Development, Maqasid al-Syariah, Institutional Economics, Sharia Management, Corporate Governance , Risk Management, Securitization and Sukuk, Sharia Capital Market, Insurance and other topics related to this field.</p><p style="text-align: justify;">Accepted and published papers will be freely accessed in this website and the following abstracting &amp; indexing databases:</p><div><ul><li><strong><a href="https://scholar.google.com/citations?user=RMLYg1cAAAAJ&amp;hl=id&amp;authuser=1" rel="noopener" target="_blank">Google Scholar</a></strong></li></ul></div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">15</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/latenriruwa"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/36/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											La Tenriruwa: Jurnal Bimbingan Penyuluhan Islam
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/latenriruwa" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/latenriruwa/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal15"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal15" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-36">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>La Tenriruwa: Jurnal Bimbingan Penyuluhan Islam</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%">La Tenriruwa</td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"> </td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%">On Proses</td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%">On Proses</td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%">Baharuddin</td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><strong><a href="http://sinta2.ristekdikti.go.id/journals/detail?id=1550" rel="noopener" target="_blank">Sinta</a><span> </span>|<span> </span><a href="https://scholar.google.co.id/citations?user=6wJVSTYAAAAJ&amp;hl=id" rel="noopener" target="_blank">Google Scholar</a><span> </span>|<span> </span><a href="http://garuda.ristekdikti.go.id/journal/view/490" rel="noopener" target="_blank">Garuda</a></strong></td></tr></tbody></table><div> </div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">16</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/alwaraqah"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/12/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											AL-WARAQAH Jurnal Pendidikan Bahasa Arab
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alwaraqah" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alwaraqah/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal16"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal16" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-12">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>Al Waraqah: Jurnal Pendidikan Bahasa Arab</strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>Al Waraqah</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"> </td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%"><strong>Prefix <span> </span><a href="http://dx.doi.org/10.30863/awrq.v4i1.3910" target="_blank">10.30863/awrq</a> by Crossref</strong></td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong><a href="https://issn.brin.go.id/terbit/detail/20211105140986119" target="_blank">2809-5598</a> (Print) | <a href="https://issn.brin.go.id/terbit/detail/20211203221461045" target="_blank">2809-4816</a> (Online)</strong></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong><a href="https://scholar.google.com/citations?hl=id&amp;user=RQ6zBCAAAAAJ" target="_blank">Maria Ulfah Syarif</a></strong></td></tr><tr valign="https://scholar.google.com/citations?hl=id&amp;user=RQ6zBCAAAAAJ"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><strong><a href="https://scholar.google.com/citations?user=SYdNdaIAAAAJ&amp;hl=id&amp;authuser=4" target="_blank">Google Scholar</a> </strong></td></tr></tbody></table><hr /><pre><strong>Al Waraqah: Journal of Arabic Language Education</strong> <strong>IAIN Bone</strong> </pre><pre>publishes research based articles that discuss Arabic education and teaching </pre><pre>from various aspects. The editor welcomes scholars, researchers and </pre><pre>practitioners of Arabic Language Education around the world to submit scientific articles</pre><pre>for publication through this journal. All articles will be reviewed by experts before </pre><pre>being accepted for publication. Each author is fully responsible for the content of published </pre><pre>articles. </pre><div><p style="text-align: justify;"> </p></div>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">17</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/aliqtishad"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/15/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											AL-IQTISHAD: Jurnal Ekonomi
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/aliqtishad" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/aliqtishad/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal17"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal17" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-15">
+      				<p><strong> </strong></p><table width="452" border="1" cellpadding="0"><tbody><tr><td><p>Journal Title</p></td><td><p><strong>: Jurnal AL-IQTISHAD</strong></p></td></tr><tr><td><p>ISSN</p></td><td><p><strong>: 2085-4633 (printed) | 2808-0955 (online)</strong></p></td></tr><tr><td><p>DOI Prefix</p></td><td><p><strong>: Prefix <a href="http://dx.doi.org/10.30863/aliqtishad.v15i2.5637">10.30863/aliqtishad</a><a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank"> by</a></strong><a href="https://search.crossref.org/?q=Jurnal+Al-Dustur+%3A+Journal+of+politic+and+islamic+law" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAATCAYAAAAu2nXoAAAFW0lEQVRYCeWW+09TZxjH/WNcorvEmSyyiy1mi4tu84LWQFFU8MqEcHOgqHg3QBgG0QEqq0ZZxKl1OBBaQEDacu2VQrloOzawYFsotxZoz3fP+2rrMIvxp2WNT/Ke855z3vOe5/N8n+dpF+EdskXvECveHlaYB2ZsgEMJwXoS6E0FfNMhFas3wPoB7xDgaoRgy4Ng3gahdQXQ8SHQvwwwbAH8c6EMS0pNtQJ//QShJx6C9msIKoLTf/RitNG85QM+F4zRBDsbmrDeG7nwVW2GoCbVLATVTcNAo53gNDTUNBgoA7Ysg6CLCF1Y/6dfwitehRnJSngyV2C+dDn8laRo81KCfI+AF9NYAqEtDIJpI4TBQkCgVA8hC9asa3k4XMvC4VxK58UijL3/GdzhYZiM+xxe2TeYMSTAby+nNDe9EVIQBMzO/T9rOQg79bEY7iVhGFsaBodoLYZj9mLw2CkMlMrQ36DEgEWHoT+tcI85MTM9iampqQWaMkB5RQUyT5xA+tGjOJ2bi3atdsGa//LC4XTi6vXrKCwuDn42CPt8vRTOjEyM3JTBplait0uFvoEOPLHp8WRAC7NBhVZ1DeTyMuT8mI2zOTmYe6kgU5NtKtm6FWXl5XjU1ISsU6eweds2mLq68Nzh4MF5arPBNTbGP97X3w+dwcCfBbyx2+0wmEzopWezsy+an3tiAl3d3TDRmKA5+9bws2eYnp5G/8AApmdm+D1LXx9MZjM8Xi9/90JRESKkUpTfvRvY/tXv7LzLiQnPOJzuIQz9YYKlS4325oe4f+tn5OWeRkJyIiK3b8eaiE34ViJByqFDQdinVis2vwQN7Dw/Pw8twTwjALb2YGYmktLTUVNbi0uXLyMpIwPHz53D/qQkdOp0UGk02LFvH4quXsXxM2dwvawMQ8PD+D4lBTn5+cgrKEB2Xh56enuxNzGRZxDbU9PWhvzCQhyj4J7Mzubv1jU08DWbyKdfbt8OuPQKlt3xUb9pH3VDZrYiTaFBdPENrEnOwOpIKdauX4d1G9Zjw6YISKKlPFUDymr1ekhIRaboP40566R0itmzh4MyRe7I5dgQGQkrqez3+zlEYloaKqurERUbiwJSpEQmQ7VSCdvgIGLj43GaIFhKMse7LRauWO7583C5XFw5piALzq07d7AxKgqXr13j85hduxaUWzCNc/RPsLVOB/H9FoTR+OSeBivkGnwhVyP8ZjW+KpBhzZGz+O5AMrbs3ovEgweDqTbudmPn/v1IP3KEw7EgNBA4U1v56BF2kxKl5CwzBsscclBqMyu6cgU7SVEzpWmVQoHa+npkkbJMUXNPDxR0XUt7XKJ10rg4VFRVQRITg/rGRv4+CwDb7yG92/D4MUpKS9GoUvHASCl4Ho+Hr2OHIGx4jQHih1qIHrRh5W8tWHlfw8+i39shVhghrrdAVG3EarkKcfJa3Kpvgo9SNWBGqs345GTsPnAAKYcPI2rHDq4aqzl27xpFnhkLTGZWFn6gFMy/eBGxBNpEzrHgJKSm4td793h6H6JGpzcaeQlcIaWLCSKOVGaQ0aQYS1VmI6OjSKMgM/ULS0p4erPaZyqzvf8VlsMRoKiiFeLKTjD48Go9h46q1eFkRz/uWu0wuqawsA/zb/LD2Pg4mqn2FHV1vFkEnrAGM0wOBMxLzUfd0sLrl6VzwFg9MnWb1WrejNh9VgpMbaaufWQEPp8PempiTkrhgE1OTvKAKWkdW8+MlQxLeVYqAQsqyxRdpTRBVNmBjTWdSFV3o6R7ECq7Cw5PaP0tDMC9fg7CRig6ccFoQ9sodWTPHG/nry8O9esgbKiDvI3/7xTs37VV+ZCeun6QAAAAAElFTkSuQmCC" alt="" /></a></p></td></tr><tr><td><p>Editor in Chief</p></td><td><p><strong>: Prof. Dr. Syaparuddin, S.Ag., M.S.I</strong></p></td></tr><tr><td><p>Publisher</p></td><td><p><strong>: Department of Ekonomi Syariah</strong></p></td></tr><tr><td><p> </p></td><td><p><strong>: Faculty Ekonomi dan Bisnis Islam of IAIN Bone</strong></p></td></tr><tr><td><p>Frequency</p></td><td><p><strong>: 2 issues per year</strong></p></td></tr><tr><td valign="top"><p>Citation Analysis</p></td><td><p><strong>: <a href="https://scholar.google.com/citations?hl=id&amp;user=IGYgMQwAAAAJ" target="_blank">Google Scholar</a></strong></p></td></tr></tbody></table><p><strong>JurnalAl-IQTISHAD: Jurnal Ekonomi.</strong> Journal that published by Institute Agama Islam Negeri (IAIN) Bone. The journal will focus on providing quality research in the areas of Islamic economics, banking and finance. The goal of the journal is to cover topics that are paramount in modern Islamic economics and finance. Accordingly, papers that focus on emerging and interdisciplinary topics are encouraged. In addition, the goal of the journal is to provide research that is relevant and applicable to a diverse set of Islamic finance researchers and professionals.The Journal is published twice a year on june and Desember. The aim of the journal is to disseminate the Islamic economics, banking, and finance researches done by researchers.</p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  			<span style="display:none">18</span>
+
+		<div class="col-md-4 col-sm-6 col-xs-12 journals">
+			<div class="ro">
+			<div class="col-sm-6 col-xs-6">
+						<div class="cover">
+								<a href="https://jurnal.iain-bone.ac.id/index.php/alkharaj"  class="thumbnail">
+                                                    									    <img src="https://jurnal.iain-bone.ac.id/public/journals/30/journalThumbnail_en_US.jpg" alt="Page Header Logo" />
+								  																</a>
+						</div>
+										</div>
+			<div class="col-sm-6 col-xs-6" style="overflow:hidden">
+				<div style="height: 70px">
+					<h4 style="padding: 0;margin: 0;font-size: 1.12em;color: #555">
+											Jurnal Al-Kharaj: Studi Ekonomi Syariah, Muamalah, dan Hukum Ekonomi
+										</h4>
+				</div>
+
+				<p>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alkharaj" class="act btn btn-info"><span class="fa fa-folder-open"></span> View Journal</a>
+				<a href="https://jurnal.iain-bone.ac.id/index.php/alkharaj/issue/current" class="act btn btn-info"><span class="fa fa-archive"></span> Current Issue</a>
+				<a href="javascript:void(0)" class="act btn btn-info" data-toggle="modal" data-target="#myModal18"><span class="fa fa-file-text-o"></span> Description</a>
+			</div>
+			</div>
+		</div>
+
+		  <!-- Modal -->
+	  <div class="modal fade" id="myModal18" role="dialog">
+		<div class="modal-dialog">
+
+		  <!-- Modal content-->
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal">&times;</button>
+			  <h4 class="modal-title">Description</h4>
+			</div>
+			<div class="modal-body">
+              		      			<div class="journalDescription" id="journalDescription-30">
+      				<hr /><table style="border-bottom: 0.5px solid #b5b5b5; background-color: #eee; display: block; text-decoration: none; color: #222; line-height: 1em;" bgcolor="#f0f0f0"><tbody><tr valign="top"><td width="20%">Journal title</td><td style="text-align: justify;" width="100%"><strong>Jurnal Al-Kharaj: <span>Studi Ekonomi Syariah, Muamalah, dan Hukum Ekonomi</span></strong></td></tr><tr valign="top"><td width="20%">Initials</td><td width="80%"><strong>Alkharaj</strong></td></tr><tr valign="top"><td width="20%">Abbreviation</td><td width="80%"> </td></tr><tr valign="top"><td width="20%">Frequency</td><td width="80%"><strong>2 issues per year</strong></td></tr><tr valign="top"><td width="20%">DOI</td><td width="50%">Prefix 10.30863 by Crossref</td></tr><tr valign="top"><td width="20%">ISSN</td><td width="80%"><strong><a href="https://issn.brin.go.id/terbit/detail/20210519311256040" target="_blank">2797-0787</a> (Print) | <a href="https://issn.brin.go.id/terbit/detail/20210602131109234" target="_blank">2798-009X</a> (Online)</strong></td></tr><tr valign="top"><td width="20%">Editor-in-chief</td><td width="80%"><strong>Samsidar</strong></td></tr><tr valign="top"><td width="20%">Publisher</td><td width="80%"><strong><a href="http://www.iain-bone.ac.id/" rel="noopener" target="_blank">Institut Agama Islam Negeri (IAIN) Bone</a></strong></td></tr><tr valign="top"><td width="20%">Citation</td><td width="80%"><strong><a href="https://scholar.google.co.id/citations?user=L8niFGkAAAAJ&amp;hl=id" rel="noopener" target="_blank">Google Scholar</a></strong></td></tr></tbody></table><hr /><p><strong>Jurnal Al-Kharaj</strong> merupakan jurnal akademik untuk Hukum Ekonomi Syariah yang diterbitkan oleh Program Studi Hukum Ekonomi Syariah Fakultas Syariah &amp; Hukum Islam, IAIN Bone. </p><p><strong>Jurnal Al-Kharaj</strong> berisi beberapa penelitian dan ulasan tentang Hukum Ekonomi Syariah yang meliputi Hukum Ekonomi, Fiqh Muamalah, dan Ekonomi Syariah juga mencakup banyak studi tentang hukum dalam arti yang lebih luas.  Situs web ini menyediakan artikel jurnal untuk diunduh gratis.</p><p style="text-align: justify;">Jurnal ini diterbitkan secara berkala pada bulan Juni dan Desember, naskah yang disetujui secara teratur diterbitkan di situs web dengan tampilan awal dan versi hardcopy akan diedarkan pada akhir setiap periode</p>
+      			</div>
+      		      				</div>
+		  </div>
+
+		</div>
+	  </div>
+	  	
+</div>
+
+
+
+
+	<script type="text/javascript" src="https://jurnal.iain-bone.ac.id/plugins/themes/customSite/js/bootstrap.min.js"></script>
+
+    </div>
+</div>
+
+    <div class="container-fluid">
+        <div class="row footer-content">
+			<p>Terima kasih telah berkunjung ke website Rumah Jurnal Institut Agama Islam Negeri (IAIN) Bone.</p><p>Untuk akses lebih detil silakan klik tombol <strong>view journal</strong></p>
+        </div>
+        <div class="clearfix"></div>
+        <div class="row copy_right" style="">
+           <span>Copyright  &copy; 2024 <b>Selamat Datang Pengunjung Rumah Jurnal</b> - Powered by <a href="https://pkp.sfu.ca/ojs/" target="_blank">Public Knowledge Project OJS</a> - supported by <a href="http://custom.relawanjurnal.id/" target="_blank">RJI Custom Theme</a></span>
+        </div>
+    </div>
+
+
+
+</div>
+
+</body>
+</html>
