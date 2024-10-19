@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Login
+							| MUTAWAZIN (Jurnal Ekonomi Syariah) 
+			</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.17">
+<meta name="robots" content="noindex,nofollow">
+	<link rel="stylesheet" href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://e-journal.iaingorontalo.ac.id/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.17" type="text/css" />
+</head>
+<body class="pkp_page_login pkp_op_index" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						
+ <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/index
+					" class="is_text">MUTAWAZIN (Jurnal Ekonomi Syariah) </a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/issue/current">
+					Current
+				</a>
+							</li>
+								<li class="">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/issue/archive">
+					Archives
+				</a>
+							</li>
+															<li class="">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/Focus">
+					Focus and Scope
+				</a>
+							</li>
+								<li class="">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about/editorialTeam">
+					Editorial Team
+				</a>
+							</li>
+								<li class="">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/REVIEWER">
+					Reviewers
+				</a>
+							</li>
+								<li class="">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about">
+					About
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/Frequency">
+										Publication Frequency
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about">
+										About the Journal
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about/submissions">
+										Submissions
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about/privacy">
+										Privacy Statement
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/user/register">
+					Register
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_login">
+	<nav class="cmp_breadcrumbs" role="navigation" aria-label="You are here:">
+	<ol>
+		<li>
+			<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li class="current">
+			<span aria-current="page">
+									Login
+							</span>
+		</li>
+	</ol>
+</nav>
+
+	<h1>
+		Login
+	</h1>
+
+	<p>
+		Required fields are marked with an asterisk: <abbr class="required" title="required">*</abbr>
+	</p>
+		
+	<form class="cmp_form cmp_form login" id="login" method="post" action="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/login/signIn">
+		<input type="hidden" name="csrfToken" value="903971f1befd30c0ac78fde04c9d8975">
+
+		
+		<input type="hidden" name="source" value="" />
+
+		<fieldset class="fields">
+			<legend class="pkp_screen_reader">Login</legend>
+			<div class="username">
+				<label>
+					<span class="label">
+						Username
+						<span class="required" aria-hidden="true">*</span>
+						<span class="pkp_screen_reader">
+							Required
+						</span>
+					</span>
+					<input type="text" name="username" id="username" value="" maxlength="32" required aria-required="true">
+				</label>
+			</div>
+			<div class="password">
+				<label>
+					<span class="label">
+						Password
+						<span class="required" aria-hidden="true">*</span>
+						<span class="pkp_screen_reader">
+							Required
+						</span>
+					</span>
+					<input type="password" name="password" id="password" value="" password="true" maxlength="32" required aria-required="true">
+					<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/login/lostPassword">
+						Forgot your password?
+					</a>
+				</label>
+			</div>
+			<div class="remember checkbox">
+				<label>
+					<input type="checkbox" name="remember" id="remember" value="1" checked="$remember">
+					<span class="label">
+						Keep me logged in
+					</span>
+				</label>
+			</div>
+			<div class="buttons">
+				<button class="submit" type="submit">
+					Login
+				</button>
+
+														<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/user/register?source=" class="register">
+						Register
+					</a>
+							</div>
+		</fieldset>
+	</form>
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_custom" id="customblock-menu">
+	<h2 class="title pkp_screen_reader">MENU</h2>
+	<div class="content">
+		<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: white; text-align: center;"><strong><span style="color: white;">ADDITIONAL MENU</span></strong></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: white; text-align: right;"><a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/submission/wizard" target="_blank" rel="noopener"><span style="font-size: small;"><strong><span style="color: #121010;"><span style="vertical-align: Tahoma;"><span style="font-size: medium;"><span style="color: orange;">SUBMIT A MANUSCRIPT</span></span></span></span></strong></span></a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: #121010; text-align: right;"><a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/INDEXING" target="_blank" rel="noopener"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: white;">INDEXING &amp; ABSTRACTING</span></span></strong></a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: #121010; text-align: right;"><a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/AUTHOR" target="_blank" rel="noopener"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: white;">AUTHOR GUIDELINES</span></span></strong></a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: #121010; text-align: right;"><a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/COPYRIGHT" target="_blank" rel="noopener"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: white;">COPYRIGHT NOTICE</span></span></strong></a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: #121010; text-align: right;"><a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/PEER_REVIEW" target="_blank" rel="noopener"><strong><span style="color: white;">PEER REVIEWERS</span></strong></a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: white; text-align: right;"><strong><span style="color: white;">AUTHOR FEES</span></strong></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaaaaa; background: #121010; color: white; text-align: right;"><a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/1" target="_blank" rel="noopener"><strong><span style="color: white;">PUBLICATION ETHICS</span></strong></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-template">
+	<h2 class="title pkp_screen_reader">TEMPLATE</h2>
+	<div class="content">
+		<table style="height: 38px; background-color: #121010; width: 233px;">
+<tbody>
+<tr>
+<td style="width: 164px; padding-left: 60px;"><span style="color: #ffffff;"><strong> TEMPLATE</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://docs.google.com/document/d/1lDUcZ-GL-RmyxLpyTHxLnToqYWTR0I62/edit?usp=sharing&amp;ouid=114181526854592802257&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener"><img src="/public/site/images/supandirahman/SETELAH_REZISE1.png"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-membership">
+	<h2 class="title pkp_screen_reader">MEMBERSHIP</h2>
+	<div class="content">
+		<table style="height: 38px; background-color: #121010; width: 233px;">
+<tbody>
+<tr>
+<td style="width: 164px; padding-left: 60px;"><span style="color: #ffffff;"><strong> MEMBERSHIP</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.crossref.org/" target="_blank" rel="noopener"><img src="/public/site/images/supandirahman/cros_dari_PPT_rezise.png"></a></p>
+<p><a href="https://relawanjurnal.id/" target="_blank" rel="noopener"><img src="/public/site/images/supandirahman/RJI_PPT_RZ.png"></a></p>
+<p><a href="https://garuda.ristekbrin.go.id/journal/view/22013?page=1" target="_blank" rel="noopener"><img src="/public/site/images/supandirahman/GARUDA_ppt.png"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-tools">
+	<h2 class="title pkp_screen_reader">TOOLS</h2>
+	<div class="content">
+		<table style="height: 38px; background-color: #121010; width: 233px;">
+<tbody>
+<tr>
+<td style="width: 164px; padding-left: 60px;"><span style="color: #ffffff;"><strong>&nbsp; &nbsp; &nbsp; TOOLS</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.grammarly.com/?q=brand&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=brand_f1&amp;utm_content=sa360test&amp;utm_term=gramerly&amp;matchtype=e&amp;placement=&amp;network=g&amp;gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdmkOHt5zHHDxnIkPURqASE0Tjbup00ZgYE2R5fEnukPQquXDOnVRAMaApn2EALw_wcB&amp;gclsrc=aw.ds" target="_blank" rel="noopener"><img src="/public/site/images/supandirahman/rezise_grammarly_new.png"></a></p>
+<p><a href="https://www.turnitin.com/"><img src="/public/site/images/supandirahman/turnitin_ppt_resize_new.png"></a></p>
+<p><a href="https://www.mendeley.com/download-desktop-new/" target="_blank" rel="noopener"><img src="/public/site/images/supandirahman/REZISE_new.png"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-visitor">
+	<h2 class="title pkp_screen_reader">Visitor</h2>
+	<div class="content">
+		<p><a href="https://info.flagcounter.com/e5Ml"><img src="https://s04.flagcounter.com/count2/e5Ml/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<p><a href="http://creativecommons.org/licenses/by/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License"></a><br>This work is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.</p>
+<p><strong><em>Mutawazin </em></strong>&nbsp;Jurnal Ekonomi Syariah <br>(e-ISSN&nbsp; : 2807-7385, p-ISSN&nbsp; : 2807-7431)</p>
+<p><br>Pascasarjana IAIN Sultan Amai Gorontalo<br>Jl. Sultan Amai Desa Pone Kecamatan Limboto Barat<br>Kabupaten Gorontalo, Provinsi Gorontalo, Indonesia 96219<br>Telp: (62)-0435-880251-882398; HP: +62-853-4021-3292<br>e-mail: jurnaljpi.pasca@iaingorontalo.ac.id; jpi.pasca.iaingorontalo@gmail.com<br>Website: <a href="http://www.journal.iaingorontalo.ac.id/">http://www.journal.iaingorontalo.ac.id/</a></p>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://e-journal.iaingorontalo.ac.id/index.php/mutawazin/about/aboutThisPublishingSystem">
+				<img alt="More information about the publishing system, Platform and Workflow by OJS/PKP." src="https://e-journal.iaingorontalo.ac.id/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://e-journal.iaingorontalo.ac.id/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.17" type="text/javascript"></script><script src="https://e-journal.iaingorontalo.ac.id/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.17" type="text/javascript"></script><script src="https://e-journal.iaingorontalo.ac.id/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.17" type="text/javascript"></script><script src="https://e-journal.iaingorontalo.ac.id/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.17" type="text/javascript"></script><script src="https://e-journal.iaingorontalo.ac.id/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.17" type="text/javascript"></script><script src="https://e-journal.iaingorontalo.ac.id/plugins/themes/default/js/main.js?v=3.3.0.17" type="text/javascript"></script>
+
+
+</body>
+</html>

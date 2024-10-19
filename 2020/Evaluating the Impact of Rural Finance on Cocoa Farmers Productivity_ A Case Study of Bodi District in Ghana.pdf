@@ -1,0 +1,762 @@
+
+<!doctype html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Asian Journal of Advances in Agricultural Research</title>
+
+	
+<link rel="icon" href="https://journalajaar.com/public/journals/18/favicon_en_US.png">
+<meta name="description" content="Asian Journal of Advances in Agricultural Research aims to publish high quality papers (Click here for Types of paper) in the field of agricultural science. This journal facilitates the research and wishes to publish papers as long as they are technically correct, scientifically motivated. The journal also encourages the submission of useful reports of negative results. This is a quality controlled, OPEN peer reviewed, open access INTERNATIONAL journal.   Subject matters include all areas of agricultural science viz., agronomy, agricultural chemistry, entomology, plant pathology, agricultural genomics, biology, chemistry, earth science, genetics & plant breeding, stored products research, post harvest biology and technology, seed science, irrigation and drainage, plant physiology, soil classification, soil fertility, soil conservation, insect and pest control, animal husbandry, aquaculture, agricultural engineering, agricultural economics, agroecology, biotechnology, organic agriculture, biodynamic agriculture, agribusiness and other allied areas.   Every volume of this journal will consist of 4 issues. Every issue will consist of minimum 5 papers. Each issue will be running issue and all officially accepted manuscripts will be immediately published online. State-of-the-art running issue concept gives authors the benefit of 'Zero Waiting Time' for the officially accepted manuscripts to be published. This journal is an international journal and scope is not confined by boundary of any country or region.">
+<meta name="generator" content="Open Journal Systems 3.3.0.11">
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
+<meta name="robots" content="index, follow">
+ <meta name="Googlebot" content="index, follow">
+ <script type="text/javascript">  
+        function googleTranslateElementInit() {  
+            new google.translate.TranslateElement(  
+                {pageLanguage: 'en'},  
+                'google_translate_element'  
+            );  
+        }  
+    </script>  
+  
+<!-- Script code for google translator API -->  
+    <script type="text/javascript"   
+    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">  
+    </script>  
+<meta name="keywords" content="naas rating, naas journal, agricultural research journal naas rating, agricultural research naas rating, agricultural reviews naas rating, agricultural science digest naas rating, current agriculture research journal naas rating, current science journal naas rating, current science naas rating, highest naas rating journal, naas rating 2024 journal">
+<link rel="alternate" type="application/atom+xml" href="https://journalajaar.com/index.php/AJAAR/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://journalajaar.com/index.php/AJAAR/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://journalajaar.com/index.php/AJAAR/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700;800&display=swap" type="text/css" /><link rel="stylesheet" href="https://journalajaar.com/plugins/themes/gopher/css/fa_all.min.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journalajaar.com/plugins/themes/gopher/css/v4-font-face.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journalajaar.com/plugins/themes/gopher/css/bootstrap.min.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journalajaar.com/plugins/themes/gopher/css/custom.css?v=3.3.0.11" type="text/css" /><style type="text/css">:root { --color-primary: #113383;}</style><link rel="stylesheet" href="https://journalajaar.com/plugins/generic/citations/css/citations.css?v=3.3.0.11" type="text/css" /><link rel="stylesheet" href="https://journalajaar.com/public/journals/18/styleSheet.css?d=2023-02-08+05%3A08%3A35" type="text/css" />
+</head>
+<body>
+<section class="header container-fluid py-4">
+	<div class="container px-3 px-md-4">
+		<div class="row align-items-center align-items-md-start">
+			<!---<div class="col-sm-5 ps-md-3 p-0"><img src="https://journalajaar.com/public/site/pageHeaderTitleImage_en_US.png" alt="" class="img-fluid"></div>--->
+			<div class="col-sm-7 text-end right-col pe-0 pe-md-2 mt-sm-0 mt-4">
+					                            
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="container shadow p-0">
+	<div class="container page-header py-3 py-lg-4 px-4">
+				<h1>
+            				<a class="heading-link" href="			https://journalajaar.com/index.php/AJAAR/index
+		"}>
+                	Asian Journal of Advances in Agricultural Research
+				</a>
+            		</h1>
+	</div>
+	<div class="container border-bottom menu-row px-xl-4 px-2 position-relative">
+		<nav class="navbar navbar-expand-xl navbar-dark">
+			<div class="container-fluid p-0">
+				<button
+					class="navbar-toggler"
+					type="button"
+					data-bs-toggle="collapse"
+					data-bs-target="#collapsibleNavbar"
+					aria-controls="collapsibleNavbar"
+					aria-expanded="false"
+					aria-label="Toggle navigation"
+				>
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    	<ul id="" class="navbar-nav">
+																		<li class="nav-item dropdown">
+					<a
+						id="0"
+						class="nav-link dropdown-toggle"
+						data-bs-toggle="dropdown"
+						aria-expanded="false"
+						role="button"
+						href="https://journalajaar.com/index.php/AJAAR/about"
+					>
+						About
+					</a>
+				 						<ul class="dropdown-menu" aria-labelledby="0">
+																					<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/about"
+									>
+										About the Journal
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/about/submissions"
+									>
+										Author Guideline
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/articles-press"
+									>
+										Accepted Papers
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/editorial-policy"
+									>
+										Editorial Policy
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/about/editorialTeam"
+									>
+										Editorial Board Members
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/reviewers"
+									>
+										Reviewers
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/article-reprints"
+									>
+										Printed Hard copy
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/about/privacy"
+									>
+										Publication Ethics and Malpractice Statement
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/digital-archiving"
+									>
+										Digital Archiving
+									</a>
+								</li>
+																												<li>
+									<a
+										class="dropdown-item"
+										href="https://journalajaar.com/index.php/AJAAR/about/contact"
+									>
+										Contact
+									</a>
+								</li>
+																		</ul>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journalajaar.com/index.php/AJAAR/issue/archive">
+											Archives
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journalajaar.com/index.php/AJAAR/abstracting-indexing">
+											Indexing
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journalajaar.com/index.php/AJAAR/publication-charge">
+											Price
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://www.journalajaar.com/index.php/AJAAR/manuscript-submission">
+											Submission
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://bit.ly/sdi-testimonial">
+											Testimonials
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journalajaar.com/index.php/AJAAR/announcement">
+											Announcements
+									</a>
+				</li>
+																					<li class="nav-item">
+				<a class="nav-link" href="https://journalajaar.com/index.php/AJAAR/recommended-journal">
+											Similar Journals
+									</a>
+				</li>
+						</ul>
+
+				</div>
+			</div>
+		</nav>
+							<a href="https://journalajaar.com/index.php/AJAAR/search" class="btn btn-primary small">Search</a>
+			</div>
+	<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
+
+
+<div class="container px-4 home-sec-1">
+		<div class="row">
+	
+		<div >
+
+										
+			<!--				<p class="bold">ISSN: 2456-8864</p>
+			--->
+							<p><strong>Asian Journal of Advances in Agricultural Research (ISSN: 2456-8864)</strong> aims to publish high quality papers (<a href="https://journalajaar.com/index.php/AJAAR/general-guideline-for-authors">Click here for Types of paper</a>) in the field of agricultural science. By not excluding papers based on novelty, this journal facilitates the research and wishes to publish papers as long as they are technically correct and scientifically motivated. The journal also encourages the submission of useful reports of negative results. This is a quality controlled, OPEN peer-reviewed, open-access INTERNATIONAL journal.</p>
+<p><strong>NAAS Score: 4.35 (2024)</strong></p>
+					</div>
+	</div>
+    </div>
+
+<div class="border-top">
+	<div class="container pt-4 px-4">
+	
+	<div class="row">
+		<h2>
+							Current Issue
+					</h2>
+
+		                
+				
+		
+		<div class="">
+							<p class="bold m-0">2024 - Volume 24 [Issue 9]</p>
+			
+		
+
+			            
+								</div>
+	</div>
+</div>
+
+
+	<div class="container px-4 pt-0 pt-md-4">
+		<hr>
+									<h3>Original Research Article</h3>
+										
+    
+
+<div class="row ">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-541" href="https://journalajaar.com/index.php/AJAAR/article/view/541">
+				Impact of Fish Guano and Abscisic Acid on Physiological Traits of Grain Amaranth (Amaranthus cruentus L.)  under Moisture Stress
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">A.M. Aliyu, S.U. Yahaya, A. Lado, E.A. Shittu, H.M. Aliyu, A.B. Yakubu, U.B. Ahmad, A. Muhammad, A.A. Manga</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/541/1081" aria-labelledby=article-541>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/541/1082" aria-labelledby=article-541>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/541/1083" aria-labelledby=article-541>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-542" href="https://journalajaar.com/index.php/AJAAR/article/view/542">
+				GCMS Analysis of Curry Leaf  (Murraya koenigii Linn.)
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">P. S. Devanand, B. Sivakumar, R. Vijayan, P. Kumar, M. Kiruba, N. Raja, P. Radha, K. Hemaprabha, S. Utharasu, P. Mangammal, G. Anand</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/542/1084" aria-labelledby=article-542>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/542/1085" aria-labelledby=article-542>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/542/1086" aria-labelledby=article-542>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-544" href="https://journalajaar.com/index.php/AJAAR/article/view/544">
+				Living Hedges and Household Food and Nutrition Security in Cote D'ivoire
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Innocent Daniel Gniza, Kifory Ouattara</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/544/1090" aria-labelledby=article-544>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/544/1091" aria-labelledby=article-544>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/544/1092" aria-labelledby=article-544>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-545" href="https://journalajaar.com/index.php/AJAAR/article/view/545">
+				Yield Gap Analysis and Impact Assessment of Frontline Demonstrations on Green Gram in Arunachal Pradesh, India
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Abhimanyu Chaturvedi, S.K. Chaturvedi, TS Mishra, Neha Sharma</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/545/1093" aria-labelledby=article-545>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/545/1094" aria-labelledby=article-545>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/545/1095" aria-labelledby=article-545>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-546" href="https://journalajaar.com/index.php/AJAAR/article/view/546">
+				Genetic Studies of Heterosis and Combining Ability for Foliar Disease, Yield and Its Contributing Characters in Faba Bean (Vicia faba L.)
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Gehan. G.A. Abou- Zaid, Salwa M. Mostafa, Shymaa F. A. Kalboush, Amany M. ohamed, E. A.D. Sarhan</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/546/1096" aria-labelledby=article-546>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/546/1097" aria-labelledby=article-546>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/546/1098" aria-labelledby=article-546>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-547" href="https://journalajaar.com/index.php/AJAAR/article/view/547">
+				Analysis of Marketing Channels, Price Spread and Costs of Wheat in Junagadh District of Gujarat, India
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">P. R. Vasoya, H. Y. Maheta, C. R. Bharodia, Kalpesh Kumar</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/547/1099" aria-labelledby=article-547>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/547/1100" aria-labelledby=article-547>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/547/1101" aria-labelledby=article-547>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+								
+    
+
+<div class="row pt-4">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-548" href="https://journalajaar.com/index.php/AJAAR/article/view/548">
+				The Physicochemical and Nutritional Analysis of Coconut Oil  (Cocos nucifera) Extracted from the Tall Tree Variety
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Ehichanya Chinonyerem Augusta, Igwilo Innocent Onyeze, Orji Ejike Celestine, Nwolisah Ogechukwu Sylvia, Okochi Chiamaka Vivian, Chibo Elekwachi</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/548/1102" aria-labelledby=article-548>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/548/1103" aria-labelledby=article-548>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/548/1104" aria-labelledby=article-548>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+						</div>
+	<div class="container px-4 pt-0 pt-md-4">
+		<hr>
+									<h3>Review Article</h3>
+										
+    
+
+<div class="row ">
+		<div class="col-md-10">
+				<h3 class="mb-0 text-primary">
+			<a class="heading-link" id="article-543" href="https://journalajaar.com/index.php/AJAAR/article/view/543">
+				Farmers' Preferences for Different Brands and the Challenges they have in Finding High-quality Tomato Seeds: A Review
+							</a>
+		</h3>
+
+							<p style="color:black" class="mb-0 mb-md-1 ">Venkatesa Palanichamy N, Balakrishnan, N, Kalpana M, Rajavel M, Dhivya R</p>
+									
+
+	</div>
+
+	
+	
+	</div>
+	<div class="container px-0">
+        											
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/543/1087" aria-labelledby=article-543>
+	<i class="fa-solid fa-file-pdf"></i>
+	    
+	Full Article - PDF
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/543/1088" aria-labelledby=article-543>
+	
+	    
+	Review History
+
+	    </a>
+																
+                                                                                    
+    
+                            
+
+	
+<a class="btn btn-primary small article-btn " href="https://journalajaar.com/index.php/AJAAR/article/view/543/1089" aria-labelledby=article-543>
+	
+	    
+	Discussion
+
+	    </a>
+						</div>
+
+						</div>
+
+<div class="container px-4 pt-2 pt-md-4">
+	<hr class="mb-1">
+	<a href="https://journalajaar.com/index.php/AJAAR/issue/archive" class="btn btn-link chevron-btn">
+        View All Issues <i class="fa-solid fa-chevron-right"></i>
+	</a>
+</div>
+
+
+</div>
+
+
+    <div class="container mt-5 px-4 pb-4">
+	</div>
+</section>
+
+<section class="footer container-fluid">
+	<div class="container py-3">
+		<div class="row">
+			<div class="col-12">
+          							<p>© Copyright 2010-Till Date, Asian Journal of Advances in Agricultural Research. All rights reserved.</p>
+							</div>
+		</div>
+	</div>
+	<div class="row bottom-bar py-3"></div>
+</section>
+
+<script src="https://journalajaar.com/plugins/themes/gopher/js/jquery.js?v=3.3.0.11" type="text/javascript"></script><script src="https://journalajaar.com/plugins/themes/gopher/js/bootstrap.bundle.min.js?v=3.3.0.11" type="text/javascript"></script><script src="https://journalajaar.com/plugins/themes/gopher/js/custom.js?v=3.3.0.11" type="text/javascript"></script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-135398133-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>
