@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!--		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />-->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>Welcome to UMS INSTITUTIONAL REPOSITORY - UMS INSTITUTIONAL REPOSITORY</title>
+		<link rel="icon" href="/apw_template/images/favicon.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="/apw_template/images/favicon.png" type="image/x-icon" />
+		
+  <link rel="alternate" type="application/rss+xml" title="Items in UMS INSTITUTIONAL REPOSITORY" href="https://eprints.ums.edu.my/cgi/latest_tool?output=RSS2" />
+  <link rel="alternate" type="application/atom+xml" title="Items in UMS INSTITUTIONAL REPOSITORY" href="https://eprints.ums.edu.my/cgi/latest_tool?output=Atom" />
+  <link rel="alternate" type="application/rdf+xml" title="Repository Summary RDF+XML" href="https://eprints.ums.edu.my/cgi/export/repository/RDFXML/devel.rdf" />
+  <link rel="alternate" type="text/n3" title="Repository Summary RDF+N3" href="https://eprints.ums.edu.my/cgi/export/repository/RDFN3/devel.n3" />
+<link rel="Top" href="https://eprints.ums.edu.my/" />
+    <link rel="Sword" href="https://eprints.ums.edu.my/sword-app/servicedocument" />
+    <link rel="SwordDeposit" href="https://eprints.ums.edu.my/id/contents" />
+    <link rel="Search" type="text/html" href="https://eprints.ums.edu.my/cgi/search" />
+    <link rel="Search" type="application/opensearchdescription+xml" href="https://eprints.ums.edu.my/cgi/opensearchdescription" title="UMS INSTITUTIONAL REPOSITORY" />
+    <script type="text/javascript" src="https://www.google.com/jsapi"><!--padder--></script><script type="text/javascript">
+// <![CDATA[
+google.load("visualization", "1", {packages:["corechart", "geochart"]});
+// ]]></script><script type="text/javascript" src="https://www.google.com/jsapi"><!--padder--></script><script type="text/javascript">
+// <![CDATA[
+google.load("visualization", "1", {packages:["corechart", "geochart"]});
+// ]]></script><script type="text/javascript">
+// <![CDATA[
+var eprints_http_root = "https:\/\/eprints.ums.edu.my";
+var eprints_http_cgiroot = "https:\/\/eprints.ums.edu.my\/cgi";
+var eprints_oai_archive_id = "eprints.ums.edu.my";
+var eprints_logged_in = false;
+// ]]></script>
+    <style type="text/css">.ep_logged_in { display: none }</style>
+    <link rel="stylesheet" type="text/css" href="/style/auto-3.3.16.css" />
+    <script type="text/javascript" src="/javascript/auto-3.3.16.js"><!--padder--></script>
+    <!--[if lte IE 6]>
+        <link rel="stylesheet" type="text/css" href="/style/ie6.css" />
+   <![endif]-->
+    <meta name="Generator" content="EPrints 3.3.16" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="en" />
+    
+		
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no" />
+		
+		<link rel="stylesheet" href="/apw_template/styles/font-awesome.min.css" />
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic" />
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,800" />
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:400,800,900" />
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">// <!-- No script --></script>
+		<link rel="stylesheet" href="/apw_template/styles/base.css" />
+		<link rel="stylesheet" href="/apw_template/styles/site.css" />			
+		<link rel="stylesheet" href="/apw_template/styles/apw_main.css" />
+		<link rel="stylesheet" href="/style/auto/zzzz_local.css" /> 
+		
+		<script>
+ 
+		// Give $ back to prototype.js; create new alias to jQuery.
+		jQuery.noConflict();
+ 
+		jQuery(document).ready(function( $ ) {
+		
+			//Clones the EP menu to the top menu. 
+			$('#main_page .ep_tm_key_tools').clone().appendTo('#login_status');
+			//Then remove the old class, and add the navbar classes to make it fit in. 
+			$('header .ep_tm_key_tools').removeClass('ep_tm_key_tools').addClass('nav navbar-nav navbar-right').attr('id','ep_menu_top');
+			// remove the first part of the menu if you are already signed in (as the span buggers up the nice navbar menu)
+			$('header #ep_menu_top li:first-child').has("span").remove();
+			
+
+			//left hand side menu. Adds the id, then the needed classes for bootstrap to style the menu 
+			$('#main_page .ep_tm_key_tools').removeClass('ep_tm_key_tools').attr('id','ep_menu').addClass('hidden-xs');
+			$('#main_page ul#ep_menu ').addClass('list-group');
+			$('#main_page ul#ep_menu li').addClass('list-group-item');
+			//$('#main_page ul#ep_menu li:first-child:contains("Logged")').addClass('active');
+			$('#main_page ul#ep_menu li:first-child:contains("Logged")').closest('.list-group-item').addClass('active');
+			$('#main_page ul#ep_menu li:first-child span a').addClass('list-group-item-text');
+
+			// If the user isn't logged in, style it a little
+			//$('#main_page ul#ep_menu li:first-child a[href$="cgi/users/home"]').addClass('list-group-item-heading');
+			var log_in_btn = $('#main_page ul#ep_menu li:first-child a[href$="cgi/users/home"]');
+			var admin_btn = $('#main_page ul#ep_menu li a[href$="cgi/users/home?screen=Admin"]');
+			//log_in_btn.addClass('btn btn-primary');
+			//admin_btn.addClass('btn btn-default');
+			log_in_btn.closest('li').addClass('active');
+			//admin_btn.closest('li').removeClass('list-group-item');
+			//log_in_btn.closest('ul').removeClass('list-group').addClass('list-unstyled');
+				
+		});
+	</script>
+	<!-- Google tag (gtag.js) -->
+<script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-DGH1VV5TYQ">// <!-- No script --></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DGH1VV5TYQ');
+</script>
+       
+
+	</head>
+
+<body>
+
+	
+	<!-- Wrapper -->
+	<div id="wrapper">
+      
+		<!-- Main -->
+		<div id="main" style="width:80%">
+			<div class="inner">
+
+				<header id="header">
+					<!-- Untuk mengganti logo, letakkan file logo di archives/archives_id/cfg/static/images/ dengan ukuran maksimal 449x70 pixel -->
+					<a href="https://eprints.ums.edu.my" class="logo"><img style="max-width:110%" src="/images/umsirv2.png" alt="Logo IR" title="Logo IR" /></a>
+					
+				</header>
+				
+				<h1 class="ep_tm_pagetitle">
+				  Welcome to UMS INSTITUTIONAL REPOSITORY
+				</h1>
+				
+
+<table>
+<tr>
+<td>
+<p align="justify">
+UMS Institutional Repository is a digital archive that provides full-text access to publications by current Universiti Malaysia Sabah staff and higher degree students including journal articles, newspapers, speeches, annual reports, academic exercise, exam papers, conference papers and thesis. 
+</p>
+</td>
+</tr>
+</table>
+
+<div style="text-align: right">
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=Atom"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=Atom">Atom</a></span>
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=RSS"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=RSS">RSS 1.0</a></span>
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=RSS2"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=RSS2">RSS 2.0</a></span>
+</div>
+
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+  <a href="https://eprints.ums.edu.my/cgi/latest">Latest Additions</a><br /><br />
+  View items added to the repository in the past week.  
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.ums.edu.my/cgi/search/advanced">Search Repository</a><br /><br />
+ Search the repository using a full range of fields. Use the search field at the top of the page for a quick search.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.ums.edu.my/view/subjects/">Browse Repository</a><br /><br />
+ Browse the items in the repository by subject.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.ums.edu.my/information.html">About this Repository</a><br /><br />
+ More information about this site.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.ums.edu.my/policies.html">Repository Policies</a><br /><br />
+ Policy for use of material in this repository.
+</div></div>
+
+<p style="margin-top: 2em; font-size: 90%">
+	UMS INSTITUTIONAL REPOSITORY supports <a href="http://www.openarchives.org"><abbr title="Open Archives Protocol for Metadata Harvesting v2.0">OAI 2.0</abbr></a> with a base URL of <tt>https://eprints.ums.edu.my/cgi/oai2</tt>
+</p>
+
+
+
+
+			</div>
+		</div>
+
+		<!-- Sidebar -->
+		<div id="sidebar" style="zoom:90%">
+			<div class="inner">
+
+				<section id="part_top" class="alt">
+					<div class="search-box">
+					  <div class="container-4">
+						<form method="get" accept-charset="utf-8" action="https://eprints.ums.edu.my/cgi/search">
+							<input type="search" name="q" id="search" placeholder="Insert keyword here..." />
+							<button class="icon" value="Search" type="submit" name="_action_search"><i class="fa fa-search"></i></button>
+							<input type="hidden" name="_action_search" value="Search" />
+							<input type="hidden" name="_order" value="bytitle" />
+							<input type="hidden" name="basic_srchtype" value="ALL" />
+							<input type="hidden" name="_satisfyall" value="ALL" />
+						</form>
+					  </div>
+					</div>
+				</section>
+
+				<!-- Menu -->
+					<header class="major" style="margin-top: -20px;">
+						<div style="text-transform: uppercase; font-size: 14px; font-weight: 700;letter-spacing: 0.35em;">USER MENU</div>
+					</header>
+					
+					<div id="main_page">
+						<ul class="ep_tm_key_tools" id="ep_tm_menu_tools"><li><a href="https://eprints.ums.edu.my/cgi/users/home">Login</a></li></ul>
+					</div>
+						
+					<nav id="menu">
+						<ul>
+                          <li><a href="https://eprints.ums.edu.my">home</a></li>
+						
+							<li><a href="https://eprints.ums.edu.my/information.html">about</a></li>
+							<li>
+								<span class="opener">Browse</span>
+								<ul>
+									<li><a href="https://eprints.ums.edu.my/view/types/">browse by collections</a></li>
+									<li><a href="https://eprints.ums.edu.my/view/year/">browse by years</a></li>
+									<li><a href="https://eprints.ums.edu.my/view/subjects/index.A.html">browse by subjects</a></li>
+									<li><a href="https://eprints.ums.edu.my/view/divisions/">browse by divisions</a></li>
+									<li><a href="https://eprints.ums.edu.my/view/creators/">browse by authors</a></li>
+								</ul>
+							</li>
+							<li><a href="https://eprints.ums.edu.my/help/index.html">Help</a></li>
+							<li><a href="https://eprints.ums.edu.my/standard.html">UMSIR Standard</a></li>
+							<li><a href="https://eprints.ums.edu.my/cgi/stats/report">Statistic</a></li>
+							<!-- Hilangkan comment diatas jika repo Anda memiliki IRStats -->
+						</ul>
+					</nav>
+
+				
+
+			
+				<!-- Footer -->
+					Powered by EPrints 3
+
+			</div>
+		</div>
+
+	</div>
+
+		<!-- Scripts -->
+		<script src="/apw_template/scripts/skel.min.js">// <!-- No script --></script>
+		<script src="/apw_template/scripts/util.js">// <!-- No script --></script>
+		<script src="/apw_template/scripts/main.js">// <!-- No script --></script>
+
+	
+		
+</body>
+</html>
