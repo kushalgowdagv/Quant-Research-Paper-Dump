@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0YJD8QMQXL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-0YJD8QMQXL');
+    </script>
+    
+        <title> The Political Economy of Financialization in the United States, Europe and India  | TU Delft Repository</title>
+        <link rel=stylesheet href=/static/css/webapp.css type=text/css>
+        <link rel=stylesheet href=/static/css/global.css type=text/css>
+        <link rel=stylesheet href=/static/css/MaterialIcon.css type=text/css>
+        <link rel="icon" type="image/png" href="/static/images/favicon.ico">
+        <link rel="stylesheet" href="/static/dist/css/output.css">
+    
+</head>
+<body>
+
+<div class="flex flex-col h-screen justify-between">
+    <div id="content" class="flex-grow background-off-white">
+        <div id="header" class="sticky top-0 z-10">
+            
+                
+    <header class="header bg-blue-delft">
+        <div class="header-container h-16 text-white flex flex-row py-8 pt-9 px-20">
+            <div class="logo-header flex flex-row items-start z-30">
+                <a href="/" class="show-on-small">
+                    <img class="logo"
+                     src="/static/images/logo/tudelft_logo.svg"
+                     alt="TU Delft">
+                </a>
+                <div class="text font-bold">
+                    <a href="https://www.tudelft.nl/library" target="_blank">Library</a>
+                </div>
+            </div>
+            
+                <div class="grow">
+                    <form method="get" action="/search">
+                    
+    
+    <div class="sticky top-[90px z-40 ">
+        <div class="search-box search-box-header">
+            <label for="input-search-bar"></label>
+            <input id="input-search-bar" type="search"
+                   placeholder="Search in TUD Repository..."
+                   name=search_term
+                    
+                    
+                   autocomplete="off">
+            <button type=submit
+                    id="main-search-button"
+                    
+                    onclick="loadingSearchButton(this)"
+                    
+                    name="search_by"#}
+                    value="content">
+                search
+            </button>
+        </div>
+        
+            <div id="suggestions"
+                 class="bg-white border border-50perc-light-gray rounded-sm hidden border-t-0 w-full shadow-md absolute">
+                <div class="flex flex-col">
+                    <button class="w-full text-left hover:bg-transparent"
+                            type=submit
+                            
+                            onclick="loadingSearchButtonFromSearchSuggestions()"
+                            
+                            name="search_by"
+                            value="content">
+                        <div class="py-0.5 px-3 text-right text-sm text-lighter-gray hover:cursor-auto">
+                            Press enter to search in title/abstract
+                        </div>
+                        <div class="py-0.5 px-3 hover:bg-gray-200">
+
+                            <span id="search-as-subject-option" class="text-gray-600"></span>
+                            <span class="text-link">in title/abstract</span>
+                        </div>
+                    </button>
+                    <button class="w-full text-left hover:bg-transparent"
+                            type=submit
+                            
+                            onclick="loadingSearchButtonFromSearchSuggestions()"
+                            
+                            name="search_by"
+                            value="author">
+                        <div class="py-0.5 px-3 hover:bg-gray-200">
+
+                            <span id="search-as-author-option" class="text-gray-600"></span>
+                            <span class="text-link">in authors</span>
+                        </div>
+                    </button>
+                </div>
+            </div>
+        
+
+    </div>
+
+
+                    </form>
+                </div>
+            
+            <div class="flex flex-row justify-end space-x-3 z-30">
+                
+                
+                    <div class="flex flex-row space-x-1">
+                        <a href="/login"><span class="material-symbols-outlined">local_library</span></a>
+                        <a class="text-white" href="/">Repository</a>
+                    </div>
+                
+            </div>
+        </div>
+    </header>
+
+            
+        </div>
+        
+    <div id="main">
+        
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex w-full lg:w-[1000px] xl:w-[1200px] record-wrap m-auto">
+        <div class="hidden lg:block flex-1 xl:pt-10">
+            
+
+<div class="menu record-navigator">
+    <div class="filter space-y-2">
+
+        
+    <div>
+        <a href="#title" class="text-gray-500">Title</a>
+    </div>
+
+        
+    <div>
+        <a href="#metadata" class="text-gray-500">Metadata</a>
+    </div>
+
+        
+    <div>
+        <a href="#abstract" class="text-gray-500">Abstract</a>
+    </div>
+
+
+
+        
+    <div>
+        <a href="#files" class="text-gray-500">Files</a>
+    </div>
+
+
+    </div>
+</div>
+        </div>
+        <div class="grow lg:grow-0 lg:w-[800px] record-container">
+            <div id="title">
+                <h1>The Political Economy of Financialization in the United States, Europe and India</h1>
+                
+                
+            </div>
+            <div class="pt-3 space-x-2">
+                
+
+                    
+                        <a href="/file/File_b90a5238-f436-46f9-b9b8-d32015dc55f3?preview=1" target="_blank">
+                            <button class="primary-button"><i class="icon">open_in_new</i>Preview File</button>
+                        </a>
+                    
+                
+                
+                
+            </div>
+            <div id="metadata">
+                
+                    
+
+<div class="metadata space-y-2.5 py-6">
+    
+    
+        <div class="text-right flex flex-row justify-end space-x-2">
+    <div>
+        <span class="__dimensions_badge_embed__" data-doi="10.1111/dech.12382"
+              data-style="small_rectangle"></span>
+    </div>
+    <div>
+        <span class='altmetric-embed overnight-altmetric mb-1' data-badge-popover="left" data-badge-type='2'
+              data-doi='10.1111/dech.12382'></span>
+
+    </div>
+</div>
+    
+
+    <div class="publisher">
+        
+        
+            
+    Journal article
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+        
+            
+
+
+
+    (2018)
+
+        
+
+    </div>
+
+    
+    
+        
+
+
+
+
+
+
+<div>
+    
+        <p>Authors</p>
+
+        
+            <div>
+    
+
+    <a href="/person/Person_36dca9b3-51e6-46a5-b290-ae3da02b8c10">Arjun Jayadev</a>
+
+    
+    
+        University of Massachusetts Amherst
+    
+
+</div>
+        
+            <div>
+    
+
+    <a href="/person/Person_295047c3-c2dc-49f0-8e3b-ae0b125e4017">J. W. Mason</a>
+
+    
+    
+        City University of New York
+    
+
+</div>
+        
+            <div>
+    
+
+    <a href="/person/Person_c79fb06a-f58f-4e4c-84a0-962f041e78d1">E. Schröder</a>
+
+    
+    
+        Economics of Technology and Innovation  - <span class="tooltip" title="Technology, Policy and Management">TPM</span> 
+    
+
+</div>
+        
+    
+</div>
+
+
+<div>
+    
+</div>
+
+    
+
+    
+    
+
+    
+    
+
+
+
+<div>
+    
+        
+        
+            
+                
+            
+        
+        <div>
+            
+                
+    <div>Research Group</div>
+    
+        Economics of Technology and Innovation
+            (<span class="tooltip" title="Technology, Policy and Management">TPM</span>) (TU Delft)
+
+            
+        </div>
+    
+</div>
+
+    
+    
+
+    
+    
+        <div class="license">
+    Copyright:
+    
+        <span>© 2018 Arjun Jayadev, J. W. Mason, E. Schröder</span>
+    
+</div>
+    
+
+    
+    
+        <!---
+What is the doi_before_slash/doi_after_slash about?
+
+It is a work around for
+https://liretest.tudelft.nl/record/uuid:64e15692-06d7-4e3a-9d51-97f4a07b403f
+
+In the API The doi info is
+      {
+        "identifier_type": "doi",
+        "identifier": "10.4233/64e15692-06d7-4e3a-9d51-97f4a07b403f"
+      }
+but in the old repo is with the uuid https://doi.org/10.4233/uuid:64e15692-06d7-4e3a-9d51-97f4a07b403f
+If you use the link with the uuid can be resolved for our repo but without it cannot be resolved
+-->
+
+
+
+    
+    
+    
+    
+
+    
+        
+    
+
+    <div class="doi">
+                DOI:
+        <a target="_blank" href="https://doi.org/10.1111/dech.12382">https://doi.org/10.1111/dech.12382</a>
+    </div>
+
+    
+
+    
+    
+
+    
+    
+        <div class="flex flex-row items-center space-x-2">
+            <div>
+                <div>To reference this document use:</div>
+                <div>    <a href="http://resolver.tudelft.nl/uuid:d92d0f65-6e66-44c5-b643-51986a3c71dd" target="_blank">
+        http://resolver.tudelft.nl/uuid:d92d0f65-6e66-44c5-b643-51986a3c71dd</a></div>
+            </div>
+            <div class="mt-4">
+                
+                
+    <span class="tooltip tooltip-btn-icon" title="Copy resolver link">
+    <button
+            type="button"
+            class="text-gray-400 bg-white hover:bg-gray-200 border-gray-400 border
+            font-medium rounded-sm text-xs px-0.5 py-px text-center inline-flex items-center"
+            onclick="copyContent('d92d0f65-6e66-44c5-b643-51986a3c71dd', 'https://resolver.tudelft.nl/uuid:d92d0f65-6e66-44c5-b643-51986a3c71dd')">
+            <i id="icon-content-to-copy-d92d0f65-6e66-44c5-b643-51986a3c71dd" class="text-gray-400 text-xs icon-no-style">content_copy</i>
+    </button>
+    </span>
+
+            </div>
+        </div>
+
+
+    
+</div>
+                
+            </div>
+            <div class="more-info" onclick="displayFullMetadata()">
+                <details>
+                    <summary class="flex items-center">
+                        <div class="title flex-1 mr-4 pt-3">
+                            More Info
+                        </div>
+                        <div class="flex-0">
+                            <div id="btn-more" class="btn-more">
+                                expand_more
+                            </div>
+                        </div>
+                    </summary>
+                    
+                        <div class="flex flex-col space-y-2 metadata-details pt-4">
+
+    
+
+
+
+
+
+
+
+    
+    
+        
+
+<div>
+    <p class="font-bold">Published Date</p>
+    <p>2018</p>
+</div>
+
+    
+
+    
+    
+        <!-- TODOS: Modify object type to be able to do just do record.identifiers.issn -->
+
+    
+
+    
+    
+        <div>
+    <p class="font-bold">Language</p>
+    English
+</div>
+    
+
+    
+    
+
+    
+    
+    
+    
+
+
+
+    <div class="license">
+        <p class="font-bold">Reuse Rights</p>
+        <p>Other than for strictly personal use, it is not permitted to download, forward or distribute the text or part
+            of it, without the consent of the author(s) and/or copyright holder(s), unless the work is under an open
+            content license such as Creative Commons.</p>
+    </div>
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+    #1 - record.managing_organisations is a list with different types of affiliations,
+    thus we are separating them by list type
+    #2 - Displaying the lists
+-->
+
+    
+    
+        
+        
+        
+        
+
+        
+            
+    
+        
+    
+
+            
+    
+        
+    
+        
+    
+
+    
+
+            
+    
+        
+    
+        
+    
+
+    
+
+        
+
+    
+    
+    
+        
+    <p class="font-bold">Faculty</p>
+    
+        Technology, Policy and Management
+
+        
+    <p class="font-bold">Department</p>
+    
+        Values Technology and Innovation
+
+        
+    <p class="font-bold">Research Group</p>
+    
+        Economics of Technology and Innovation
+
+
+
+</div>
+                    
+                </details>
+            </div>
+            <div class="abstract space-y-3 px-20 my-8 mt-10" id="abstract">
+                
+                    <h2>Abstract</h2>
+                    <p><p>The quantitative growth and increased social prominence of financial institutions and markets can be usefully seen in terms of the constraints or 'discipline' they impose on other private and public decision makers. The role of finance in allocating real resources may be less important than its role in supporting the claims and authority of wealth-owners vis-a-vis other social actors. This article discusses the political economy of financialization in the United States, Europe and India. In the United States, the latter role is most visible in the pressure non-financial corporations face to increase payouts to shareholders. In Europe, the financial constraints on national governments are more salient. Tightening these constraints is openly acknowledged as the major benefit of financial integration, yet, on the other hand, the constraints financialization imposes on policy may also limit the extent to which finance can in fact be liberalized. This countervailing pressure is visible in the great expansion of central banks' balance sheets and management of financial markets over the past decade. It is even more clearly visible in India, where the conflict between financialization and concrete policy goals has sharply limited the extent of liberalization, despite consistent rhetorical support.</p></p>
+                
+            </div>
+            <div id="files">
+                
+                     
+
+
+
+
+    
+        <div class="media flex flex-col items-center space-y-3">
+            
+
+    
+
+
+
+    
+                    
+                
+
+            
+        </div>
+
+        <div class="files my-8">
+            <h2 class="text-black">Files</h2>
+    
+
+
+    <div class="flex flex-col space-y-2 mt-1">
+        
+
+            
+                
+                    
+                        
+                    
+                
+
+                
+                    <div class="flex flex-row gap-2 items-center">
+                        <div class="grow flex-col">
+                            
+                                <a href="/file/File_b90a5238-f436-46f9-b9b8-d32015dc55f3" download target="_blank">Jayadev_et_al_2018_Development... (.pdf)</a>
+                            
+
+                            <div class="flex flex-row space-x-1">
+                                
+                                    <div class="small-note-not-italic">
+                                        
+                                        (.pdf | 0.275 Mb)
+                                    </div>
+                                
+                                
+                            </div>
+                        </div>
+
+                        
+
+
+                        
+                            <a href="/file/File_b90a5238-f436-46f9-b9b8-d32015dc55f3" download target="_blank">
+                                <button class="secondary-button"><i class="icon">download</i>Download</button>
+                            </a>
+                        
+                    </div>
+
+                
+            
+        
+    </div>
+
+
+        </div>
+    
+
+
+                
+            </div>
+        </div>
+        <div class="hidden xl:block flex-1"></div>
+    </div>
+
+
+    </div>
+
+    </div>
+    <div id="footer">
+        
+            <footer class="border-t border-slate-400">
+    <div class="footer-section quick-links">
+        <div class="footer-container flex flex-row space-x-5 items-start">
+            <div class="contacts basis-1/3">
+                <h2>TU Delft Research Repository</h2>
+                <ul class="flex flex-row mt-3">
+                    <li><a href="https://www.facebook.com/tudelft" class="icon-button-lg">thumb_up</a></li>
+                    <li><a href="https://twitter.com/tudelft" class="icon-button-lg">close</a></li>
+                    <li><a href="https://www.instagram.com/tudelft/?hl=en" class="icon-button-lg">photo_camera</a></li>
+                    <li><a href="https://www.youtube.com/user/tudelft" class="icon-button-lg">play_circle</a></li>
+                    <li><a href="https://api.whatsapp.com/send?phone=3197010256278" class="icon-button-lg">chat_bubble</a></li>
+                </ul>
+            </div>
+            <div class="about basis-1/3">
+                <h2>About</h2>
+                <ul>
+
+
+
+
+
+
+
+                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/team-and-governance">Team and Governance</a></li>
+                    <li><a href="/background-info-and-future-plans">Background Information and Future Plans</a></li>
+                    <li><a href="/content-in-the-repository">Content in the Repository</a></li>
+                    <li><a href="/upload-content">Upload Content</a></li>
+                    <li><a href="/statistics">Statistics</a></li>
+                </ul>
+            </div>
+            <nav class="navigation basis-1/3">
+                <h2>Navigation</h2>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/search?search_term=&page=1">Search</a></li>
+                    <li><a href="/faq">FAQ</a></li>
+
+
+
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="footer-section options">
+        <div class="footer-container flex flex-row">
+            <div class="utilities h-6">
+
+
+
+
+
+            </div>
+
+
+
+
+        </div>
+    </div>
+</footer>
+        
+    </div>
+</div>
+
+    <!-- block javascript -->
+
+<script src="/static/js/common/form/buttons.js"></script>
+<script src="/static/js/common/form/searchBox.js"></script>
+<script src="/static/js/common/search/filters.js"></script>
+<script src="/static/js/common/search/pagination.js"></script>
+<script src="/static/js/script.js"></script>
+</body>
+</html>

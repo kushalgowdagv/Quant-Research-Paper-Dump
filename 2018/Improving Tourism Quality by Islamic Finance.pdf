@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://academic.oup.com/cje -->
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <!-- Responsive View Port -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Meta -->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    <!-- Stylesheets -->
+    <link href="/css/front-global.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/front-site.min.css?ver=1.1" rel="stylesheet" type="text/css">
+    
+    <link rel="canonical" href="https://ersj.eu/">
+    <meta name="description" content="">
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/cookieconsent.min.css" />
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36049709-12"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-36049709-12');
+    </script>
+
+    
+<title>
+	European Research Studies Journal - European Research Studies Journal
+</title>
+<style type="text/css">
+    .body{font-family: Montserrat}
+</style></head>
+
+<body class="off-canvas pg_index" theme-cje="">
+    <div id="MathJax_Message" style="display: none;"></div>
+            
+    <div class="master-container">
+        <section class="master-header row">
+                <div class="widget widget-SitePageHeader widget-instance-SitePageHeader">
+        
+    <div class="ad-banner js-ad-banner-header">
+    <div class="widget widget-AdBlock widget-instance-HeaderAd">
+        
+    </div>
+
+    </div>
+
+    <div class="oup-header">
+        <div class="center-inner-row">
+
+            <div class="oup-header-logo">
+                <a href="/">
+                    <img src="/images/logo.png" alt="European Research Studies Journal" class="oup-header-image">
+                </a>
+            </div><!-- /.oup-header-logo -->
+
+            <ul class="oup-header-menu account-menu">
+
+                <!-- MOBILE NAV -->
+                <li class="oup-header-menu-item mobile" style="overflow:hidden">
+                    <button href="#" onclick="toggleMenu()" class="btn btn-as-icon mobile-dropdown-toggle mobile-nav-toggle is-active">
+                        <i class="icon-menu_hamburger"><span class="screenreader-text">Menu</span></i>
+                    </button>
+                </li>
+
+            </ul><!-- /.oup-header-menu .account-menu -->
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.oup-header -->
+
+<div class="dropdown-panel-wrap">
+
+    
+    <div class="dropdown-panel mobile-search-dropdown">
+        <div class="mobile-search-inner-wrap">
+            <div class="navbar-search">
+                <div id="MobileMicrositeSearch" class="mobile-microsite-search">
+                    <form method="POST" action="https://ersj.eu/search" accept-charset="UTF-8" id="searchformmobile"><input name="_token" type="hidden" value="LWnnptmZ2Md0vcqjJaNCWrVwXxPiv43485pvad57">
+                        <label for="MicrositeSearchTerm" class="screenreader-text">search input</label>
+                        <input class="navbar-search-input microsite-search-term" name="searchTerm" type="text" required="required" id="MicrositeSearchTerm" value="" title="search input" placeholder="Search Articles, Authors">
+                        <span id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search" onclick="document.getElementById('searchformmobile').submit();"></span>
+                    </form>
+                </div><!-- /#MobileMicrositeSearch -->
+            </div><!-- /.navbar-search -->
+        </div><!-- /.mobile-search-inner-wrap -->
+    </div><!-- /.dropdown-panel .dropdown-panel-search -->
+    
+<!--     <div class="dropdown-panel mobile-account-dropdown">
+        <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0">
+                <a href="https://academic.oup.com/cje" class="nav-link mobile-account-signin dummy-link" id="header-account-info-user-fullname">
+                    
+Sign In                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                </a>
+                <ul class="site-menu site-menu-lvl-1 individual-menu">
+                    <li class="dropdown-signin-form">
+                        <div class="spinner"></div>
+                    </li>
+                </ul>
+            </li>
+                            <li class="site-menu-item">
+                    <a href="https://academic.oup.com/my-account/register?siteId=5437&amp;returnUrl=%2fcje" class="register nav-link">Register</a>
+                </li>
+        </ul>
+    </div> --><!-- /.dropdown-panel .dropdown-panel-account -->
+    
+    <div id="mobile-menu" class="dropdown-panel mobile-nav-dropdown is-active closed"><!--mobile menu-->
+
+    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul>
+            <li class="site-menu-item">
+            <a href="/" class="nav-link">Home</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/issues" class="nav-link">Issues</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="#" class="nav-link">Submit</a>
+                            <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i>
+                <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                <ul>
+            <li class="site-menu-item">
+            <a href="/page/instructions-to-authors" class="nav-link">Instructions To Authors</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/submission" class="nav-link">Submission</a>
+                    </li>
+    </ul>                    </li>
+            <li class="site-menu-item">
+            <a href="#" class="nav-link">About</a>
+                            <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i>
+                <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                <ul>
+            <li class="site-menu-item">
+            <a href="/page/publication-ethics-and-publication-malpractice" class="nav-link">Ethics and Malpractice</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/copyright-and-open-access" class="nav-link">Copyright and Open Access</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/journal" class="nav-link">Journal</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/editors" class="nav-link">Editors</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/editorial-board" class="nav-link">Editorial Board</a>
+                    </li>
+    </ul>                    </li>
+            <li class="site-menu-item">
+            <a href="/contact" class="nav-link">Contact Us</a>
+                    </li>
+    </ul>
+    </div><!-- /.dropdown-panel .dropdown-panel-nav -->
+
+</div><!-- /.dropdown-panel-wrap -->
+
+
+    <div class="journal-header journal-bg">
+        <div class="center-inner-row">
+            <h1 class="journal-logo-container" title="European Research Studies Journal">
+                EUROPEAN RESEARCH STUDIES JOURNAL
+                <span style="font-size: 12px;display: block;">ISSN: 1108-2976</span>
+            </h1>
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.journal-header -->
+
+<div class="navbar">
+    <div class="center-inner-row">
+        <nav class="navbar-menu">
+            <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+            <ul>
+            <li class="site-menu-item">
+            <a href="/" class="nav-link">Home</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/issues" class="nav-link">Issues</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="#" class="nav-link">Submit</a>
+                            <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i>
+                <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                <ul>
+            <li class="site-menu-item">
+            <a href="/page/instructions-to-authors" class="nav-link">Instructions To Authors</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/submission" class="nav-link">Submission</a>
+                    </li>
+    </ul>                    </li>
+            <li class="site-menu-item">
+            <a href="#" class="nav-link">About</a>
+                            <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i>
+                <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                <ul>
+            <li class="site-menu-item">
+            <a href="/page/publication-ethics-and-publication-malpractice" class="nav-link">Ethics and Malpractice</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/copyright-and-open-access" class="nav-link">Copyright and Open Access</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/journal" class="nav-link">Journal</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/editors" class="nav-link">Editors</a>
+                    </li>
+            <li class="site-menu-item">
+            <a href="/page/editorial-board" class="nav-link">Editorial Board</a>
+                    </li>
+    </ul>                    </li>
+            <li class="site-menu-item">
+            <a href="/contact" class="nav-link">Contact Us</a>
+                    </li>
+    </ul>
+        </nav>
+        <div class="navbar-search-container">
+            <div class="navbar-search-close js_close-navsearch">Close</div>
+            <div class="navbar-search">
+                <div id="MicrositeSearch" class="microsite-search">
+                    <form method="POST" action="https://ersj.eu/search" accept-charset="UTF-8" id="searchform"><input name="_token" type="hidden" value="LWnnptmZ2Md0vcqjJaNCWrVwXxPiv43485pvad57">
+                        <label for="MicrositeSearchTerm" class="screenreader-text">search input</label>
+                        <input class="navbar-search-input microsite-search-term" name="searchTerm" type="text" maxlength="255" id="MicrositeSearchTerm" value="" title="search input" placeholder="Search Articles, Authors">
+                        <span id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search" onclick="document.getElementById('searchform').submit();"></span>
+                    </form>
+                </div><!-- /#MicrositeSearch -->
+            </div><!-- /.navbar-search -->
+        </div><!-- /.navbar-search-container -->
+        <!-- <div class="navbar-search-collapsed"><i class="icon-menu_search js_expand-navsearch"></i></div> -->
+    </div><!-- /.center-inner-row -->
+</div><!-- /.navbar -->
+
+<input id="routename" name="RouteName" type="hidden" value="cje">
+    </div>
+
+        </section>
+        <main id="main" tabindex="-1">
+                <section class="master-main row">
+<div class="center-inner-row no-overflow">           
+    <div class="large-12">
+        <div class="index-inner-wrap">
+            <div class="location-main-content">
+                <div class="widget widget-dynamic " data-count="8"> 
+                    <div class="widget-dynamic-inner-wrap">
+
+<div class="widget widget-dynamic row-journal-features" data-count="4" style="background-image: url('/images/library_bg.jpg');background-size: cover;background-repeat: no-repeat;"> 
+
+    <div class="widget-dynamic-inner-wrap">
+
+      <div class="widget widget-IssueInfo widget-instance-Home_MainContentB0Home_Row1_IssueInfo"  style="background-color:#fafafa;text-align: center;padding: 0!important;">
+        <div id="issueInfo-Home_MainContentB0Home_Row1_IssueInfo" class="widget-info-wrap clearfix">
+            <div class="article-issue-img" style="position: relative; left: 26px; width: 108px;">
+              <a class="widget-IssueInfo__link" href="/issues">
+                <img id="issueImage" class="fb-featured-image widget-IssueInfo__img" src="/images/Latest_Issue.jpg" alt="Issue Cover">
+              </a>
+            </div>
+                <div class="current-issue-title widget-IssueInfo__title">
+
+                    <a class="widget-IssueInfo__link" href="/issues">
+                        Latest Issue
+                    </a>
+                </div>
+            <div class="article-issue-info widget-IssueInfo__desc">
+                <a class="widget-IssueInfo__link TEST" href="/issues">
+                    <span class="volume trailing-comma">Volume XXVIΙ(2024)</span>
+                    <span class="issue">Issue 3</span>
+                </a>
+            </div>
+        </div>
+      </div>
+
+      <div class="widget widget-dynamic " style="background: transparent;border: 0;" data-count="2"> 
+        <div class="widget-dynamic-inner-wrap">
+          
+        </div>
+      </div>
+
+    <div class="widget widget-instance-cje_Home_Row1_Middle">
+      <div class="featurePanel">
+        <div class="featurePanelInner txt-justify">
+          <h3>About the journal 1998-TODAY (27th VOLUME in 2024)</h3>
+          <p>European Research Studies Journal is a refereed publication and is designed to cover a wide variety of topics in the fields of Business and Economics in general including Banking, Financial Services and Internal Controls, Accounting and Finance, Health Economics, Tourism, Maritime Studies, Transport and Logistics, Energy and Environment with reference to European Integration. It aims to act as a guide for new developments and prospects in different aspects of economic thought and business methodologies and it is programmed to come out two to four times a year. Papers are invited both from academic economists as well as practitioners. <br>As of 2024, the online submission platform has been changed. ERSJ is now using the ScholarOne submission platform by Clarivate, as part of the Clarivate group of journals. We trust the ScholarOne platform for effective and immediate double peer-review evaluation. For more information or assistance on how to use the platform, please contact:  info@isma-edu.eu<br>ISSN:  1108-2976</p>
+        </div>
+      </div>
+    </div>
+
+
+
+    
+
+
+
+
+
+    </div>
+
+</div>
+
+
+<div class="widget widget-dynamic " data-count="2"> 
+	<div class="center-inner-row no-overflow"> 
+    
+    <div style="max-width: 1340px; margin: auto; text-align: center;">
+
+
+
+      <div>
+        
+
+        <div style="text-align:left">
+          <img src="images/clarivate.png" alt="Clarivate" style="width: 200px;">
+          <div>
+            <p>Privacy Center</p>
+            <p>Corporate private notice</p><br>
+            <p>Effective Date: May 25, 2018</p>
+            <p>Last updated: April 7, 2024</p>
+            <p><strong>Scope:</strong></p>
+
+            <p>This Privacy Notice (“Notice”) describes how Clarivate (“Clarivate”, “we”, “us” and “our”) collect, use, share, secure, and eventually dispose of (collectively “process”) personal data. Personal data is any information that does, or could, identify you.</p><br>
+            <p>This Notice applies to personal data collected by our websites, apps, and products (collectively “services”), and in the course of routine offline business contact with you where we are the data controller. Additional information on our personal data practices may be provided in offer descriptions, supplemental privacy notices or notices provided prior to or at the time of data collection. Certain Clarivate websites may have their own privacy notice that describes how we handle personal data for those websites specifically. To the extent a notice provided at the time of collection or a website or service specific privacy notice conflict with this Notice, such specific notice or supplemental privacy statement will control.</p>
+            <p>Click on the links below to learn more about how we treat your personal data.</p><br>
+            <p>Click <a target="_blank" href="https://clarivate.com/privacy-center/notices-policies/privacy-policy-for-california-residents/">here</a> for our supplemental privacy notice for California residents under the CCPA/CPRA.</p>
+            <p>Click <a target="_blank" href="https://clarivate.com/privacy-center/notices-policies/united-states-regional-privacy-notice/">here</a> for our supplemental privacy notice for residents of Virginia, Colorado, Utah and Connecticut.</p>
+            <p>Click <a target="_blank" href="https://clarivate.com/privacy-center/notices-policies/mainland-china-addendum/">here</a> for our supplemental privacy notice for individuals in China under the PIPL.</p>
+            <p>Click <a target="_blank" href="https://clarivate.com/privacy-center/notices-policies/brazil-privacy-notice/">here</a> for our supplemental privacy notice for individuals in Brazil under the LGPD.</p>
+            <br>
+            <h4>SCIENTIFIC & ACADEMIC RESEARCH | RESEARCH PUBLISHING SOLUTIONS</h4>
+            <h4>ScholarOne</h4>
+            <h4>Comprehensive workflow management for scholarly journals</h4>
+            <strong>Simplify journal management with a flexible, trusted solution:</strong>
+            <p>As the world of scholarly publishing continually evolves, you need a reliable solution that can adapt with your changing needs.<p>
+
+            <p>With ScholarOne Manuscripts, you can easily align your journal management with your strategy—whether you need to establish more efficient workflows, attract and retain a broader pool of reviewers and authors, or adopt increasingly open models. Maintain and build your prestige in the publishing landscape with a solution that protects your data and reputation.</p>
+
+            <strong>Tackle your biggest challenges:</strong>
+            <ul>
+              <li>Reduce friction for your editors and staff.<br>Unmatched configurability, high-touch implementation and support, and complete access to your data mean you can design and maintain a system that perfectly meets your needs, even as they change.</li>
+              <li>Attract and retain reviewers and authors.<br>Engage researchers with a first-rate user experience, including an intuitive interface that 80% of surveyed authors and reviewers find easy to use.</li>
+              <li>Preserve research integrity.<br>Detect anomalous behavior and reduce integrity-related retractions by uncovering issues before publication.</li>
+            </ul>
+
+          </div>
+        </div>
+
+
+        <div style="display: inline-block;">
+          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+            <img src="/images/creative-commons.png" alt="creative commons" style="display:block; margin:auto; width:300px;">
+          </a>
+        </div>
+      </div>
+
+      <br>
+
+      <div style="display: inline-block;">
+        <a href="https://journals.indexcopernicus.com/search/details?id=38734" target="_blank">
+          <img src="/images/index-copernicus.png" alt="creative commons" style="display:block; margin:10px auto; width:300px;">
+        </a>
+      </div>
+
+      <div>
+        <span>Detailed Journal Evaluation Report in the ICI Journals Master List database 2022</span>
+        <h3>“European Research Studies Journal”<br>ISSN: 1108-2976<br>ICV 2022: 88.33</h3>     
+        <p class="text-left">The result of the assessment in the ICI Journals Master List database – the Index Copernicus Value (ICV) – is a measure of the parametric power of a scientific journal. It indicates to what extent the journal meets international standards in the field of key functional areas of this medium of science.</p>
+        <p class="text-left">The ICV consists of two main components: quality of the journal and journal’s impact.</p>
+      </div>
+      <br>
+      <br>
+
+      <div>
+        <h3>Description</h3>
+        <table style="width:100%;">
+          <tr>
+            <td><strong>Subject Area</strong></td>
+            <td>Business, Management and Accounting<br>Business, Management and Accounting (miscellaneous)</td>
+          </tr>
+          <tr>
+            <td><strong>Category</strong></td>
+            <td>Economics, Econometrics and Finance<br>Economics, Econometrics and Finance (miscellaneous)</td>
+          </tr>
+          <tr>
+            <td><strong>Publisher</strong></td>
+            <td>International Strategic Management Association, EU</td>
+          </tr>
+          <tr>
+            <td><strong>ISSN</strong></td>
+            <td>1108-2976</td>
+          </tr>
+        </table>
+        <div style="font-size: 20px;line-height: 29px;border: 1px solid #ccc;width: 250px;margin: auto;padding: 10px;">
+          <div><strong>H Index:</strong> 38</div>
+        </div>
+      </div>
+      <br>
+      <br>
+
+      <div>
+        <h5><strong>Identifying Fake Journals</strong></h5>
+        <h5><strong>6 April 2023</strong></h5>
+        <h5><strong>Statement from COPE Officers</strong></h5>
+        <p class="text-left">COPE believes that authors and institutions should treat lists of predatory (or fake) journals with the same degree of scrutiny as they do with the journals themselves. <strong>Lists that are not transparent about criteria used should not be relied on.</strong> Moreover, such lists may perpetuate systemic bias and include journals with limited resources, but which are legitimate journals with the best intentions.</p>
+        <p class="text-left">COPE supports the use of <strong>Think.Check.Submit.</strong> A simple checklist authors can use before submitting research to a journal. <strong>Think.Check.Submit.</strong> asks the author questions aligned with the Principles of Transparency and Best Practice in Scholarly Publishing, a set of criteria used by COPE, DOAJ, OASPA and WAME when assessing journals which apply for membership of their organizations. Many predatory journals and publishers do not fulfil these criteria.</p>
+        <p class="text-left">COPE’s Predatory Publishing discussion document expands on how authors, reviewers, editors, and institutions can identify predatory journals.</p>
+        <br>
+        <strong>Related resources:</strong><br>
+        <strong>Think.Check.Submit.</strong><br>
+        <span><strong>Predatory Publishing</strong>, COPE discussion document </span><br>
+        <span><strong>Avoiding predatory publishers</strong>, guest article</span><br>
+      </div>
+
+		</div>
+	</div>
+</div>
+
+
+
+<div class="widget widget-dynamic " data-count="2"> 
+
+<div class="center-inner-row no-overflow">           
+  <div style="max-width: 1340px; margin: auto;">
+  	<h3 style="text-align: center;">Indexes</h3>
+    <div>The Journal is supported by the International Strategic Management Association a non-governmental, non-profit organization, the ISMASYC Group LTD and the Insurance Department of the University of Malta. </div>
+    <!-- <div> The ERS Journal has been evaluated and accepted by&nbsp;<a href="https://www.scopus.com/sourceid/21100216333?origin=resultslist#tabs=1" target="_blank">Scopus</a> ,&nbsp;<a href="http://www.aeaweb.org/journal.html" target="_blank">JEL</a> and it is included in <a href="http://www.econis.eu/DB=1/LNG=EN/" target="_blank">ZBW (ECONIS)</a>, <a href="http://www.ssrn.com/" target="_blank">SSRN</a> and the <a href="http://www.econlit.org/" target="_blank">EconLit</a>, the electronic indexing and abstracting service of the American Economic Association. The ERS Journal has started to be distributed by <a href="http://www.epnet.com/" target="_blank" title="EBSCO Publishing">EBSCO Publishing</a> , MA USA.</div> -->
+    <br>
+    <div class="indexer-icons">
+      <a target="_blank" href="http://www.aeaweb.org/">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/aea_logo.png">
+        </div>
+      </a>
+      <a target="_blank" href="https://www.aeaweb.org/econlit/">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/econlit.png">
+        </div>
+      </a>
+      <a target="_blank" href="http://www.epnet.com/">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/epLogo.png">
+        </div>
+      </a>
+      <a target="_blank" href="http://econpapers.repec.org/article/ersjournl/">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/repec.png">
+        </div>
+      </a>
+      <a target="_blank" href="https://www.ersj.eu/files/SCOPUS RESULTS 2020 ERSJ.pdf">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/scopus.png">
+        </div>
+      </a>
+      <a target="_blank" href="https://www.ssrn.com/en/">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/SSRN.png">
+        </div>
+      </a>
+      <a target="_blank" href="http://www.econis.eu/DB=1/LNG=EN/">
+        <div>
+          <span class="helper"></span>
+          <img src="/images/indexer-icons/zbw.png">
+        </div>
+      </a>
+      
+      <a target="_blank" href="https://www.um.edu.mt/library/oar/handle/123456789/28456">
+        <div>
+          <img style="position: relative;top: 15px;" src="/images/indexer-icons/logo_malta.png">
+        </div>
+      </a>
+      <a target="_blank" href="https://www.crossref.org/">
+        <div>
+          <img style="position: relative;top: 15px;" src="/images/indexer-icons/crossref.png">
+        </div>
+      </a>
+      <a target="_blank" href="https://journals.indexcopernicus.com/search/details?id=38734">
+        <div>
+          <img style="position: relative;top: 15px;" src="/images/indexer-icons/copernicus.png">
+        </div>
+      </a>
+      
+      <a target="_blank" href="https://scholar.google.com">
+        <div>
+          <img style="position: relative;top: 15px;" src="/images/indexer-icons/scholar.png">
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+    <br>
+    <br>
+
+
+  <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget widget-ArticleListNewAndPopular widget-instance-Home_MainContentB3Home_Row3_Latest">
+      <div id="newPopularList-Home_MainContentB3Home_Row3_Latest" class="fb">
+        <h3 class="widget-dynamic-title">Latest articles</h3>
+        <div class="widget-layout widget-layout--vert">
+                <div class="widget-columns widget-col-1">
+                    <div class="col">
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/3425">
+                                      <div class="widget-dynamic-journal-title">
+                                           Current State of Knowledge and Research Needs of Intralogistics
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/3424">
+                                      <div class="widget-dynamic-journal-title">
+                                           Tourism and Economic Growth: An Empirical Analysis of Greece
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/3461">
+                                      <div class="widget-dynamic-journal-title">
+                                           The Use of E-Tools in Health Care Management for Social Safety and Security in Poland
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/3460">
+                                      <div class="widget-dynamic-journal-title">
+                                           The Idea of the Entrepreneurial University and the Organizational Culture of a Technical University
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/3423">
+                                      <div class="widget-dynamic-journal-title">
+                                           The Role of Money Supply in Shaping Poland’s Gross Domestic Product
+                                      </div>
+                                   </a>
+                                </div>
+                                                  </div>
+                </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="widget widget-ArticleListNewAndPopular widget-instance-Home_MainContentB3Home_Row3_Latest">
+      <div id="newPopularList-Home_MainContentB3Home_Row3_Latest" class="fb">
+        <h3 class="widget-dynamic-title">Most read</h3>
+        <div class="widget-layout widget-layout--vert">
+                <div class="widget-columns widget-col-1">
+                    <div class="col">
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/1407">
+                                      <div class="widget-dynamic-journal-title">
+                                           Perception of Food Quality by Consumers: Literature Review
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/1245">
+                                      <div class="widget-dynamic-journal-title">
+                                           Legal Status of Artificial Intelligence Across Countries: Legislation on the Move
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/1006">
+                                      <div class="widget-dynamic-journal-title">
+                                           Financial Statements of a Company as an Information Base for Decision-Making in a Transforming Economy
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/1411">
+                                      <div class="widget-dynamic-journal-title">
+                                           The Role of Manufacturing and Service Sectors in Economic Growth: An Empirical Study of Developing Countries
+                                      </div>
+                                   </a>
+                                </div>
+                                                              <div class="widget-dynamic-entry">
+                                
+                                   <a href="/journal/611">
+                                      <div class="widget-dynamic-journal-title">
+                                           The Evolution of E-Money
+                                      </div>
+                                   </a>
+                                </div>
+                                                  </div>
+                </div>
+        </div>
+      </div>
+    </div>
+</div>
+<br>
+<br>
+</div>
+
+
+
+<div class="widget widget-dynamic " data-count="3"> 
+
+  <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget widget-SelfServeContent widget-instance-cje_Home_Row2_Industrial_Districts block-tile" style="overflow: hidden;">
+      <div class="homepage-panel-wrap no-padding">
+        <div class="homepage-panel-image">
+          <img alt="" src="/images/call-for-papers.jpg">
+        </div>
+        <div class="homepage-panel-text">
+          <h3>Call for Papers</h3>
+        </div>
+        <p>The <em>European Research Studies Journal</em>&nbsp;is inviting submissions for it's next issue.</p>
+        <p><a href="/page/instructions-to-authors">Learn more and find out how to submit</a></p>
+      </div>
+        <br>
+    </div>
+
+    <div class="widget widget-SelfServeContent widget-instance-cje_Home_Row2_Special_Issue block-tile" style="overflow: hidden;">
+      <div class="homepage-panel-image">
+        <img alt="" src="/images/conferences.jpg">
+      </div>
+      <h3>Conferences</h3>
+      <p>Conferences organized by <em>European Research Studies Journal</em></p>
+      <p><a href="http://icabe.gr">Icabe 2024</a></p>
+      <br>
+    </div>
+
+    <div class="widget widget-SelfServeContent widget-instance-cje_Home_Row2_Developing_countries block-tile" style="overflow: hidden;">
+      <div class="homepage-panel-image">
+      <img alt="Laptop with typing haand" src="/images/workshops.jpg">
+      </div>
+      <h3>Workshops</h3>
+      <p>Workshops held by <em>European Research Studies Journal</em></p>
+      <!-- <a href="/pages/workshops">See the workshops</a>     -->
+      <br>
+    </div>
+
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.center-inner-row -->
+</section>
+        </main>
+    </div>
+
+
+        <div class="widget widget-SitePageFooter widget-instance-SitePageFooter">
+        <div class="ad-banner ad-banner-footer">
+    <div class="widget widget-AdBlock widget-instance-FooterAd">
+        
+
+    </div>
+
+</div>
+
+    </div>
+
+    <div class="oup-footer">
+        <div class="center-inner-row">
+                <div class="widget widget-SelfServeContent widget-instance-OupUmbrellaFooterSelfServe">
+        
+<div class="oup-footer-row">
+<div class="oup-footer-row-links">
+<ul>
+    <li>Copyright © 2024 European Reasearch Studies Journal</li>
+    
+    <li><a href="/page/privacy-policy-statement">Privacy Policy</a></li>
+    <li><a href="/page/terms-and-conditions-of-access-and-permitted-usage-of-european-research-studies-journal-ersj">Terms And Conditions</a></li>
+    <li><a href="/api/sitemap.xml">Sitemap</a></li>
+</ul>
+</div>
+</div>
+<style type="text/css">
+    /* Issue right column fix for tablet/mobile */
+    @media (max-width: 1200px) {
+    .pg_issue .widget-instance-OUP_Issue {
+    width: 100%;
+    }
+    }
+</style>
+    
+    
+    
+    </div>
+
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.oup-footer -->
+    <div class="ss-ui-only">
+        
+    </div>
+
+
+<!--         
+        <div id="revealModal" class="reveal-modal" data-reveal="">
+            <div id="revealContent"></div>
+            <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+        </div>
+        <div id="NeedSubscription" class="reveal-modal small" data-reveal="">
+            <div class="subscription-needed">
+                <h5>This Feature Is Available To Subscribers Only</h5>
+                <p><a href="https://academic.oup.com/sign-in">Sign In</a> or <a href="https://academic.oup.com/my-account/register?siteId=5437&amp;returnUrl=%2fcje">Create an Account</a></p>
+            </div>
+            <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+        </div>
+         -->
+
+<!--         <div id="noAccessReveal" class="reveal-modal tiny" data-reveal="">
+            <p>This PDF is available to Subscribers Only</p>
+            <a class="hide-for-article-page" id="articleLinkToPurchase" data-reveal=""><span>View Article Abstract &amp; Purchase Options</span></a>
+            <div class="issue-purchase-modal">
+                <p>For full access to this pdf, sign in to an existing account, or purchase an annual subscription.</p>
+            </div>
+            <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+        </div> -->
+        
+            
+
+<div data-reveal="math-jax-load" id="math-jax-modal" class="reveal-modal" style="display: none;"></div><div id="oupcookiepolicy_fancybox-tmp"></div><div id="oupcookiepolicy_fancybox-loading"><div></div></div><div id="oupcookiepolicy_fancybox-overlay"></div><div id="oupcookiepolicy_fancybox-wrap" class="oupcookiepolicy_fancybox-ie" style=""><div id="oupcookiepolicy_fancybox-outer"><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-n"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-ne"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-e"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-se"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-s"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-sw"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-w"></div><div class="oupcookiepolicy_fancybox-bg" id="oupcookiepolicy_fancybox-bg-nw"></div><div id="oupcookiepolicy_fancybox-content"></div><a id=""></a><div id="oupcookiepolicy_fancybox-title"></div><a href="javascript:;" id="oupcookiepolicy_fancybox-left"><span class="fancy-ico" id="oupcookiepolicy_fancybox-left-ico"></span></a><a href="javascript:;" id="oupcookiepolicy_fancybox-right"><span class="fancy-ico" id="oupcookiepolicy_fancybox-right-ico"></span></a></div></div>
+
+<script src="/js/cookieconsent.min.js"></script>
+<script type="text/javascript">
+    var mobile_menu = null;
+    window.addEventListener('load', function(){
+
+        mobile_menu = document.getElementById('mobile-menu');
+
+        var mobile_submenus = mobile_menu.getElementsByClassName('mobile-nav-arrow');
+        for (var i = 0; i < mobile_submenus.length; i++)
+        {
+            mobile_submenus[i].parentNode.addEventListener('click', function(){
+                if(this.tagName.toLowerCase() == 'li')
+                {
+                    var el = this.lastElementChild;
+                    if(el.className.search('open') == -1)
+                        el.className = 'open';
+                    else
+                        el.className = '';
+                }
+            });
+        }
+
+        //cookie concent
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#000"
+            },
+            "button": {
+              "background": "#f1d600"
+            }
+          },
+          "content": {
+            "message": "This website uses cookies to ensure you get the best experience on our website.",
+            "dismiss": "OK"
+          }
+        })
+    });
+
+    function toggleMenu()
+    {
+        if(mobile_menu == null)
+            mobile_menu = document.getElementById('mobile-menu');
+
+        if(mobile_menu.className.search("closed") == -1)
+            mobile_menu.className = mobile_menu.className + ' closed';
+        else
+            mobile_menu.className = mobile_menu.className.replace(' closed', '');
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1326 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+
+<head>
+
+<!-- CC:US|CFVC:US -->
+<!-- 2024-09-22T20:19:20Z -->
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<link rel="canonical" href="https://www.emerald.com/insight/content/doi/10.1108/S1571-038620180000025012/full/html" />
+
+
+<meta name="citation_xml_url" content="https://www.emerald.com/insight/content/doi/10.1108/S1571-038620180000025012/full/xml"/>
+
+<!-- CSRF Token -->
+<meta name="csrf-token" content="i2mcDtYjCN7qun4TKZ2xfxy5yBrXNFO3EBvS8gZp">
+
+<title>     Financial Innovation and Technology Firms: A Smart New World with Machines
+ |  Emerald Insight</title>
+
+<meta name="description" content="Financial Innovation and Technology Firms: A Smart New World with Machines - Author: Kevin Chen">
+
+<script type="application/ld+json">{
+    "@type": "WebPage",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Books",
+                "item": "https://www.emerald.com/insight/sitemap/publications#books"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "International Symposia in Economic Theory and Econometrics",
+                "item": "https://www.emerald.com/insight/publication/acronym/isete"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Banking and Finance Issues in Emerging Markets, Volume 25",
+                "item": "https://www.emerald.com/insight/publication/doi/10.1108/S1571-0386201825"
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Financial Innovation and Technology Firms: A Smart New World with Machines"
+            }
+        ]
+    },
+    "@context": "https://schema.org/"
+}</script>
+
+
+    <!--dublincore-->
+
+    <link rel="schema.DC" href="http://purl.org/DC/elements/1.0/">
+     <meta name="dc.Title" content="Financial Innovation and Technology Firms: A Smart New World with Machines">          <meta name="citation_volume" content="25">          <meta name="citation_firstpage" content="279">      <meta name="citation_lastpage" content="292">      <meta name="dc.Subject" content="FinTech,Artificial intelligence,Robo-advisor,Asia,Machine learning,Investment,Crypto-currencies">      <meta name="dc.Description" content="There has been a financial revolution lead by technology firms over the past decade. Many large established technology giants, from Google, Apple to Amazon in the US are entering the financial service industry. Smaller start-ups, in particular robotic advisors, a.k.a. Robo-Advisors, have been taking market shares from traditional asset management firms. In China, firms like Tencent and Alibaba have created a whole new field of online finance. At the center of our study is a critical examination of the key components of the financial innovation over the past 10 years. Mobile banking was the beginning, followed by trading, investment, and insurance business. We study innovation through several cases. Due to the size and number o firms in Financial technology (FinTech) space, the US and China are the focus of the chapter. Artificial intelligence (AI) and machine learning are included for discussion in this chapter. We emphasize a market approach in our study, albeit, incorporating the historical and cultural perspectives in our analysis. Our goal is to develop a thorough understanding of the art and science of financial innovation, from both bottom-up market indicators and a top-down holistic view. We want to demonstrate that the technological changes are just the beginning of a new world of financial services. Unprecedented changes are still yet to come and it is crucially important to be prepared and even embrace the changes. A special discussion was devoted to the phenomenon of FinTech boom in Asia. Lastly, many new technologies are being developed to combat fraudulent activities in the FinTech space.">      <meta name="dc.Date" scheme="WTN8601" content="2018-10-04T00:00:00Z">      <meta name="dc.Type" content="book-part">      <meta name="dc.Format" content="text/html">      <meta name="dc.Identifier" scheme="doi" content="10.1108/S1571-038620180000025012">      <meta name="dc.Identifier" scheme="issn" content="1571-0386">      <meta name="dc.Identifier" scheme="isbn" content="978-1-78756-454-1">          <meta name="dc.Language" content="en">      <meta name="dc.Coverage" content="world">      <meta name="keywords" content="FinTech,Artificial intelligence,Robo-advisor,Asia,Machine learning,Investment,Crypto-currencies">      <meta name="dc.Publisher" content="Emerald Publishing Limited">      <meta name="DCTERMS.bibliographicCitation" scheme="KEV.ctx" content="&amp;ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.spage=279&amp;rft.epage=292&amp;rft.volume=25">      <meta name="citation_inbook_title" content="Banking and Finance Issues in Emerging Markets">      <meta name = "DC.Relation.IsPartOf" content = "https://www.emerald.com/insight/publication/doi/10.1108/S1571-0386201825"> 
+            <meta name = "DC.Relation.IsPartOf" content = "https://www.emerald.com/insight/publication/issn/1571-0386">
+    
+            <meta name="dc.Contributor" content="Kevin Chen">
+    <!--dublincore end-->
+
+
+<link href="/insight/static/css/app.css?id=d1704eeb3e0eb4acb8985ebfec909296" rel="stylesheet">
+
+<style type="text/css" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    /* hide vue content until vue has initialised */
+    [v-cloak]{ display: none; }
+    /* reduce CLS on page load */
+    .search-input-container { height: calc(1.5em + .75rem + 4px); }
+    a.navbar-brand > div.extra-small { height: 1rem; }
+    #breadcrumbs-container { min-height: 2.06667rem; }
+    #search-books-and-journals-container { min-height: calc(1.75rem + 11px); margin-bottom: 1rem; }
+    .header_logo_image { height: calc(14rem / (264/36)); }
+    .toc-alert-button { min-width: calc(13.03472rem + 2.5rem + 14px + 2.405px); min-height: calc(1.75556rem + 2px); }
+</style>
+
+
+
+
+<script type="text/javascript" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+const isReady = (fn) => (document.readyState === "complete" || document.readyState === "interactive") ? setTimeout(fn, 1) : document.addEventListener("DOMContentLoaded", fn)
+
+const supportsWebpImages = function () {
+    const elem = document.createElement('canvas');
+
+    if (!!(elem.getContext && elem.getContext('2d'))) {
+        // was able or not to get WebP representation
+        return elem.toDataURL('image/webp').indexOf('data:image/webp') === 0;
+    }
+
+    // very old browser like IE 8, canvas not supported
+    return false;
+}
+
+document.documentElement.classList.add(supportsWebpImages() ? 'webp' : 'no-webp')
+</script>
+
+<!-- JS helper methods for getting cookies -->
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+window.cookieHelper = {
+    /**
+     * Get the value of a specific cookie
+     * @returns {string | undefined}
+     */
+    getCookieValue: function (key) {
+        return document.cookie
+            .split(';')
+            .map(function(c) { return c.trim().split('=') })
+            .filter(function(c) { return c[0] === key })
+            .map(function(c) { return c[1] })[0]
+    },
+
+    cookieExists: function (cookieName) {
+        return document.cookie.split(';').some((item) => item.trim().indexOf(cookieName) == 0)
+    },
+
+    setCookie: function (cookieName, value, expires, samesite='lax', path='/') {
+        if(expires == null) {
+            const timeOneDay = 24*60*60*1000
+            expires = new Date(new Date().getTime() + timeOneDay).toUTCString()
+        }
+        document.cookie = `${cookieName}=${value}; expires=${expires}; samesite=${samesite}; path=${path};`
+    },
+
+    deleteCookie: function (cookieName) {
+        document.cookie = `${cookieName}=null; expires=${new Date().getTime() - 24*60*60*1000}; Max-Age=0`
+    },
+
+    /**
+     * Get a list of the cookie categories that have been disabled
+     * @returns {string[]} A list of disabled cookie categories
+     */
+    getDisabledCookies: function () {
+        const disableCookiesValue = this.getCookieValue('disabled_cookies')
+        return disableCookiesValue
+            ? disableCookiesValue
+                .split(',')
+                .map(function(c) { return c.trim() })
+            : []
+    },
+
+    arePerformanceCookiesEnabled: function () {
+        return this.getDisabledCookies().indexOf('performance') < 0
+    },
+
+    areFunctionalCookiesEnabled: function () {
+        return this.getDisabledCookies().indexOf('functional') < 0
+    }
+}
+</script>
+
+<!-- Add Analytics snippets - Oct 2018 -->
+<!-- start Mixpanel -->
+
+
+<script type="text/javascript" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">(function(c,a){if(!a.__SV){var b=window;try{var d,m,j,k=b.location,f=k.hash;d=function(a,b){return(m=a.match(RegExp(b+"=([^&]*)")))?m[1]:null};f&&d(f,"state")&&(j=JSON.parse(decodeURIComponent(d(f,"state"))),"mpeditor"===j.action&&(b.sessionStorage.setItem("_mpcehash",f),history.replaceState(j.desiredHash||"",c.title,k.pathname+k.search)))}catch(n){}var l,h;window.mixpanel=a;a._i=[];a.init=function(b,d,g){function c(b,i){var a=i.split(".");2==a.length&&(b=b[a[0]],i=a[1]);b[i]=function(){b.push([i].concat(Array.prototype.slice.call(arguments,0)))}}var e=a;"undefined"!==typeof g?e=a[g]=[]:g="mixpanel";e.people=e.people||[];e.toString=function(b){var a="mixpanel";"mixpanel"!==g&&(a+="."+g);b||(a+=" (stub)");return a};e.people.toString=function(){return e.toString(1)+".people (stub)"};l="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<l.length;h++)c(e,l[h]);var f="set set_once union unset remove delete".split(" ");e.get_group=function(){function a(c){b[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));e.push([d,call2])}}for(var b={},d=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<f.length;c++)a(f[c]);return b};a._i.push([b,d,g])};a.__SV=1.2;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.crossOrigin='anonymous';b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===c.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)}})(document,window.mixpanel||[]);</script>
+
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+let isAuthenticatedPerson = false;
+let mixpanelIdentity = null;
+
+const getMixpanelId = () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const inputId = urlParams.get('distinct_id');
+    if (inputId) {
+        // Identify with the passed in distinct id
+        mixpanel.register({'distinct_id' : inputId});
+        // Remove param from url so that if user bookmarks / shared page they would not reuse the id.
+        urlParams.delete('distinct_id');
+        window.history.pushState('',document.title, window.location.href.replace(window.location.search, '?' + urlParams))
+    }
+}
+const addMixpanelId = () => {
+    // Some ad blockers and privacy extensions block mixpanel being downloaded, so check this function exists before calling it
+    if (typeof(mixpanel.get_distinct_id) === 'function') {
+        const mixpanelId = mixpanel.get_distinct_id();
+        // Find all mixpanel_link classes and append distinct_id query param to the end
+        [...document.querySelectorAll('.mixpanel_link')]
+            .forEach(node => {
+                const currentUrl = new URL(node.href)
+                currentUrl.searchParams.delete('distinct_id');
+                currentUrl.searchParams.append('distinct_id', mixpanelId);
+                node.href = currentUrl.href;
+            })
+    }
+}
+
+// Parse and register last touch UTM tags as super properties. Also add first touch attribution data as a user profile property.
+function addUtmParams () {
+  const urlParams = new URLSearchParams(window.location.search)
+
+  const params = {}
+  const firstParams = {}
+  const campaignKeywords = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term']
+
+  campaignKeywords.forEach(keyword => {
+    if (!urlParams.has(keyword)) return
+
+    const kw = urlParams.get(keyword)
+
+    params[keyword] = kw
+    params[`${keyword} [last touch]`] = kw
+    firstParams[`${keyword} [first touch]`] = kw
+  })
+
+  //register last touch UTM
+  mixpanel.people.set(params)
+  mixpanel.register(params)
+
+  //register first touch UTM
+  mixpanel.people.set_once(firstParams)
+  mixpanel.register_once(firstParams)
+}
+
+const syncMixPanel = () => {
+    getMixpanelId();
+    addMixpanelId();
+    addUtmParams();
+}
+
+
+mixpanelEvents = {
+  hasReturned: false,
+  stack: []
+}
+
+function mixpanelUpdateUserDataForEvent(eventName) {
+  if (!isAuthenticatedPerson) {
+    return;
+  }
+
+  if (['Download', 'Turnaway', 'Saved Search'].includes(eventName)) {
+    mixpanel.people.increment('# of ' + eventName + 's');
+  }
+
+  if (eventName === 'Download') {
+    mixpanel.people.set({ 'Last Download Date': new Date() });
+    mixpanel.identify(mixpanelIdentity);
+  }
+}
+
+function storeOrPushMixpanelEvent(eventType, eventName, data) {
+  if (mixpanelEvents.hasReturned) {
+    mixpanel.push([ eventType, eventName, data ]);
+  } else {
+    mixpanelEvents.stack.push({ eventType, eventName, data });
+  }
+}
+
+function pushStoredMixpanelEvents () {
+  var sizeOfTracker = mixpanelEvents.stack.length;
+  mixpanelEvents.hasReturned = true;
+
+  for (var i = 0; i < sizeOfTracker; i++) {
+    var ev = mixpanelEvents.stack[i];
+
+    if (typeof ev.eventName === 'undefined') continue;
+
+    mixpanel.push([ev.eventType, ev.eventName, ev.data]);
+    // Update the mixpanel data now that the user is authenticated.
+    mixpanelUpdateUserDataForEvent(ev.eventName);
+  }
+}
+
+/**
+ * Set up mixpanel to track a link click. This allows mixpanel to make sure the click event is tracked before
+ * a new page is navigated to
+ * Note: This doesn't handle right click -> open in new tab/window. There appears to be no straightforward way to handle
+ * that short of rewriting the links to point to an internal redirect endpoint and handling the mixpanel event there
+ * @param element {HTMLElement} The link element
+ * @param eventName {string} The name of the mixpanel event
+ * @param makeData {function} A function that takes the element and returns the mixpanel properties for the event
+ */
+function mixpanelTrackLinkClick(element, eventName, makeData) {
+    // use built-in mixpanel link tracking - this tracks left clicks and enter key
+    mixpanel.track_links(element, eventName, makeData)
+
+    // handle middle clicks - shortcut for open in new tab
+    element.addEventListener('mousedown', event => {
+        if (event.button === 1) {
+            storeOrPushMixpanelEvent('track', eventName, makeData(event.currentTarget))
+        }
+    })
+}
+
+const mixpanelOptions = {
+  api_host: "https://api.mixpanel.com",
+  cookie_expiration: 30,
+  loaded: syncMixPanel,
+  debug: false}
+
+mixpanel.init('8e8ac8d2dbd2378f29bd1dd9116a0c9a', mixpanelOptions);
+</script>
+<!-- end Mixpanel -->
+
+
+
+<!-- Google Tag Manager - head section - June 2018 -->
+
+<!-- anti-flicker snippet (recommended)  -->
+<style nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">.async-hide { opacity: 0 !important} </style>
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    (function(a,s,y,n,c,h,i,d,e) {
+        s.className+=' '+y;
+        h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;
+        setTimeout(function(){i();h.end=null},c);
+        h.timeout=c;
+    })
+    (window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-KGFMJXR':true});
+</script>
+
+<!-- Google Tag Manager - START -->
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==" data-nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==" id="GTM-container">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KGFMJXR');</script>
+<!-- Google Tag Manager - END -->
+
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+  ((disableGaKey) => {
+    window[disableGaKey] = !window.cookieHelper.arePerformanceCookiesEnabled()
+
+    isReady(() => {
+      window.events.$on('cookiesUpdated', () => {
+        window[disableGaKey] = !window.cookieHelper.arePerformanceCookiesEnabled()
+      })
+    })
+  })('ga-disable-UA-127317715-1')
+</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/9d150393c6.js" crossorigin="anonymous" defer></script>
+
+<script src="https://scholar.google.com/scholar_js/casa.js" async></script>
+
+</head>
+
+<body data-spy="scroll" data-target=".table-of-contents" data-offset="220" class="">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGFMJXR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="cookies-consent">
+    <cookies-manager
+        banner-class-name=""
+        cookie-policy-url="/insight/site-policies/cookie-policy"
+        root="/insight/" ></cookies-manager>
+</div>
+
+<div id="app" class=" ">
+
+    <header class="mb-0 mb-lg-0 page-header ">
+    <div id="support-banner-container" style="display:inline">
+    <support-banner root="/insight/"></support-banner>
+</div>
+
+    <div class="d-none">
+        
+        <div id="browse-content-template">
+            <nav class="intent_browse_content w-100 medium bg-aquamarine-menu">
+                <div class="justify-content-around d-flex py-2">
+                    <a href="/insight/browse/publications">Books and journals</a>
+                    <a href="/insight/content/case-studies">Case studies</a>
+                    <a href="/insight/content/briefings">Expert Briefings</a>
+                    <a href="/insight/content/open-access">Open Access</a>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <div class="d-none">
+        
+        <div id="publish-with-us-template">
+            <a href="https://www.emeraldgrouppublishing.com/publish-with-us"
+               aria-label="This link opens a new tab where you can access information on how to publish with Emerald."
+               title="This link opens a new tab where you can access information on how to publish with Emerald."
+               target="_blank">
+               Publish with us
+               <span role="img"
+                     aria-hidden="true"
+                     class="far fa-external-link ml-1 text-primary"></span>
+            </a>
+        </div>
+    </div>
+
+    <div id="login-header-container">
+        <page-header
+                id="login-header"
+                theme="light"
+                root="/insight/"
+                defaultusername="Guest user"
+                reloadpageonlogin="true"
+                routes="{&quot;browseBooksAndJournals&quot;:&quot;\/insight\/browse\/publications&quot;,&quot;caseStudies&quot;:&quot;\/insight\/content\/case-studies&quot;,&quot;open-access&quot;:&quot;\/insight\/content\/open-access&quot;,&quot;briefings&quot;:&quot;\/insight\/content\/briefings&quot;,&quot;logout&quot;:&quot;\/insight\/logout&quot;,&quot;login&quot;:&quot;\/insight\/login&quot;,&quot;register&quot;:&quot;\/insight\/register&quot;,&quot;savedSearches&quot;:&quot;\/insight\/savedSearches&quot;,&quot;myProducts&quot;:&quot;\/insight\/products&quot;,&quot;myProfile&quot;:&quot;\/insight\/profile&quot;,&quot;publishWithUs&quot;:&quot;https:\/\/www.emeraldgrouppublishing.com\/publish-with-us&quot;,&quot;home&quot;:&quot;\/insight&quot;}"
+                opencartbaseurl="https://shop.emerald.com/"
+                show_cart_menu="1"
+                account=""
+                additionalaccount = ""
+                country_code="US">
+            <template v-slot:default="props">
+                
+                <meta name="EZproxyRewriting" content="disable">
+                <welcome-message
+                    class="bg-pale-blue text-dark topHeader"
+                    message="Welcome "
+                    :banner-message-array="props.welcomeTexts"
+                    :is-administrator="props.account.isAdministrator"
+                    amp-url="https://manage.emerald.com/">
+                </welcome-message>
+                <meta name="EZproxyRewriting" content="enable">
+            </template>
+        </page-header>
+    </div>
+
+            <div class="nav-div nav-div-search bg-primary py-1 py-md-2 text-dark">
+    <div class="container d-sm-flex d-flex-row align-items-center">
+        <div class="flex-grow-1 search-input-container">
+            <search-content action="/insight/search"
+                            advancedsearch="/insight/advanced-search"
+                            publicationurl="/insight/publication"
+                            value=""
+                            placeholder="Enter your search terms here"
+                            autocomplete="/insight/search/title"
+                            v-bind:errors="[]"
+                            v-bind:showall="true"
+                            v-bind:openaccess="false"
+                            v-bind:home="false">
+            </search-content>
+        </div>
+
+        <div class="d-flex d-flex-row align-items-center justify-content-end">
+            <div class="pr-0 small mr-0 my-0 text-center text-right text-md-left advanced-search-text">
+                <a class="intent_AdvancedSearch font-size-small btn btn-link rounded-0 px-2 py-0 py-md-2 text-white" href="/insight/advanced-search">Advanced <br class="d-none d-sm-inline d-md-none" />search</a>
+            </div>
+
+                    </div>
+    </div>
+</div>
+        <div id="alert-notification-container">
+    <alert-notification></alert-notification>
+</div>
+    </header>
+
+    <main role="main" class="main-content" id="mainContent" tabindex="0">
+                    <div class="ml-0 w-100 bg-white">
+    <div id="breadcrumbs" class="container">
+        <div class="row ml-0" id="breadcrumbs-container">
+            <breadcrumbs
+                root="/insight/"
+                crumbs="[[&quot;Books&quot;,&quot;\/sitemap\/publications#books&quot;],[&quot;International Symposia in Economic Theory and Econometrics&quot;,&quot;\/publication\/acronym\/isete&quot;],[&quot;Banking and Finance Issues in Emerging Markets, Volume 25&quot;,&quot;\/publication\/doi\/10.1108\/S1571-0386201825&quot;],[&quot;Financial Innovation and Technology Firms: A Smart New World with Machines&quot;,&quot;&quot;]]">
+            </breadcrumbs>
+        </div>
+    </div>
+</div>
+        
+        
+    
+    <div id="turnaway-block" class="container-fluid content_block turnaway">
+        <div class="row turnaway__message">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-md-2 col-md-10 pt-3">
+                                                <h2 class="h4 mt-0 mb-3">To read this content please select one of the options below:</h2>
+                        <div class="container">
+                            <div class="row">
+                                                                    <div class="ml-3 mb-3 col-m">
+                                        <add-to-cart
+                                            doi="10.1108/S1571-038620180000025012"
+                                            parent-identifier="10.1108/S1571-0386201825"
+                                            title="Financial Innovation and Technology Firms: A Smart New World with Machines"
+                                            parent-title="Banking and Finance Issues in Emerging Markets"
+                                            :mixpanel-data='{&quot;URI&quot;:&quot;\/content\/doi\/10.1108\/S1571-038620180000025012\/full\/html&quot;,&quot;Format&quot;:&quot;HTML&quot;,&quot;Content ID \/ DOI&quot;:&quot;10.1108\/S1571-038620180000025012&quot;,&quot;Content Title&quot;:&quot;Financial Innovation and Technology Firms: A Smart New World with Machines&quot;,&quot;Parent Title&quot;:&quot;Banking and Finance Issues in Emerging Markets&quot;,&quot;Year Of Publication&quot;:&quot;2018&quot;,&quot;Publication Date&quot;:&quot;4 October 2018&quot;,&quot;Access Method&quot;:&quot;User&quot;,&quot;Access Type&quot;:&quot;controlled&quot;,&quot;Parent Type&quot;:&quot;book&quot;,&quot;Parent ID \/ DOI&quot;:&quot;10.1108\/S1571-0386201825&quot;,&quot;pISBN&quot;:&quot;978-1-78756-454-1&quot;,&quot;eISBN&quot;:&quot;978-1-78756-453-4&quot;,&quot;ISBN&quot;:&quot;978-1-78756-453-4&quot;,&quot;Content Type&quot;:&quot;segment&quot;}'
+                                            image="https://www.emerald.com/insight/content/book/img/10.1108/S1571-0386201825"
+                                            content-type="book-part"
+                                            parent-type="book"
+                                            isbn="978-1-78756-454-1"
+                                            issn=""
+                                            publication-date="4 October 2018"
+                                            account=""
+                                            additionalaccount=""
+                                            opencart_base_url="https://shop.emerald.com/"
+                                            root="/insight/"
+                                            country_code="US"
+                                            origin_view="outside_dropdown"
+                                        ></add-to-cart>
+                                    </div>
+                                    <span class="border-right border-dark divider border-cta"></span>
+                                                                                                    <div class="sa_btn mr-3">
+    <iframe class="sa_frame overflow-hidden border-0" src="/insight/liblynx/seamless-access.html" title="Access through your institution" scrolling="no"></iframe>
+</div>
+
+                                                                <div class="dropdown mb-3">
+    <button class="btn btn-default dropdown-toggle text-light turnaway__dropdown d-flex align-items-center pl-2" type="button" id="menu1" data-toggle="dropdown" data-boundary="window" data-flip="false">
+        <img src="/insight/static/img/logo-white.svg" alt="Emerald logo icon" width="43" class="border-right border-white pr-2"/>
+        <span class="flex-grow-1">Access and purchase options</span>
+        <span class="caret"></span>
+    </button>
+    <div class="dropdown-menu rounded-0 turnaway__dropdownmenu" role="menu" id="access-popup" aria-labelledby="menu1">
+        <div class="container">
+            <div class="row align-middle turnaway__dropdownborderbottom bg-purchase">
+            <div class="col-12 mt-2 mb-3">
+                <span class="d-inline-block font-weight-bold">Purchase options</span>
+            </div>
+        </div>
+    
+            <add-to-cart
+            doi="10.1108/S1571-038620180000025012"
+            parent-identifier="10.1108/S1571-0386201825"
+            title="Financial Innovation and Technology Firms: A Smart New World with Machines"
+            parent-title="Banking and Finance Issues in Emerging Markets"
+            :mixpanel-data='{&quot;URI&quot;:&quot;\/content\/doi\/10.1108\/S1571-038620180000025012\/full\/html&quot;,&quot;Format&quot;:&quot;HTML&quot;,&quot;Content ID \/ DOI&quot;:&quot;10.1108\/S1571-038620180000025012&quot;,&quot;Content Title&quot;:&quot;Financial Innovation and Technology Firms: A Smart New World with Machines&quot;,&quot;Parent Title&quot;:&quot;Banking and Finance Issues in Emerging Markets&quot;,&quot;Year Of Publication&quot;:&quot;2018&quot;,&quot;Publication Date&quot;:&quot;4 October 2018&quot;,&quot;Access Method&quot;:&quot;User&quot;,&quot;Access Type&quot;:&quot;controlled&quot;,&quot;Parent Type&quot;:&quot;book&quot;,&quot;Parent ID \/ DOI&quot;:&quot;10.1108\/S1571-0386201825&quot;,&quot;pISBN&quot;:&quot;978-1-78756-454-1&quot;,&quot;eISBN&quot;:&quot;978-1-78756-453-4&quot;,&quot;ISBN&quot;:&quot;978-1-78756-453-4&quot;,&quot;Content Type&quot;:&quot;segment&quot;}'
+            image="https://www.emerald.com/insight/content/book/img/10.1108/S1571-0386201825"
+            content-type="book-part"
+            parent-type="book"
+            isbn="978-1-78756-454-1"
+            issn=""
+            publication-date="4 October 2018"
+            account="" additionalaccount=""
+            opencart_base_url="https://shop.emerald.com/"
+            root="/insight/"
+            country_code="US"
+            origin_view="dropdown"
+        ></add-to-cart>
+    
+    
+    
+            <div class="row align-middle turnaway__dropdownborderbottom bg-other">
+            <div class="col-12 mt-2 mb-3">
+                <span class="d-inline-block font-weight-bold">Other access</span>
+            </div>
+        </div>
+    
+            <div class="row align-middle turnaway__dropdownborderbottom">
+                        <div class="col-12 mt-2 mb-3">
+                <span class="d-inline-block">You may be able to access this content by logging in via your Emerald profile.</span>
+            </div>
+            <div class="col-12 p-3 mb-3">
+                <a
+                    href="/insight/login?hide=federated"
+                    class="intent_wayf_login turnaway-login-link btn btn-primary rounded-pill p-0 mb-3 d-flex align-items-center justify-content-end turnaway__button"
+                >
+                    <span class="flex-grow-1 align-self-center medium pl-4 pr-4">Login</span>
+                    <span role="img" aria-hidden="true" class="rounded-circle my-auto bg-insight fal fa-xs fa-user text-white d-flex justify-content-center align-items-center turnaway__button-icon"></span>
+                </a>
+            </div>
+        </div>
+    
+    
+    
+    
+    
+    <div class="row align-middle">
+        <div class="col-12 mt-2 mb-3">
+            <span class="d-inline-block">If you think you should have access to this content, click to contact our support team.</span>
+        </div>
+        <div class="col-12 p-3 mb-3">
+            <a
+                data-event-name="Submit Turnaway Enquiry"
+                href="https://emeraldpublishinggroup.freshdesk.com/support/home"
+                target="_blank"
+                class="clickIntercept intent_wayf_enquiry btn btn-primary rounded-pill p-0 text-center d-flex turnaway__button"
+            >
+                <span class="flex-grow-1 align-self-center medium pl-4 pr-4">Contact us</span>
+                <span role="img" aria-hidden="true" class="rounded-circle my-auto bg-insight fal fa-caret-right text-white d-flex justify-content-center align-items-center turnaway__button-icon"></span>
+            </a>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="teaching-notes-turnaway-block" class="container-fluid content_block turnaway" style="display:none;">
+        <div class="row turnaway__message">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-md-2 col-md-10 pt-3">
+                                                <h2 class="h4 mt-0 mb-3">Please note you do not have access to teaching notes</h2>
+                        <div class="container">
+                            <div class="row">
+                                                                    <div class="sa_btn mr-3">
+    <iframe class="sa_frame overflow-hidden border-0" src="/insight/liblynx/seamless-access.html" title="Access through your institution" scrolling="no"></iframe>
+</div>
+
+                                                                <div class="dropdown mb-3">
+    <button class="btn btn-default dropdown-toggle text-light turnaway__dropdown d-flex align-items-center pl-2" type="button" id="menu1" data-toggle="dropdown" data-boundary="window" data-flip="false">
+        <img src="/insight/static/img/logo-white.svg" alt="Emerald logo icon" width="43" class="border-right border-white pr-2"/>
+        <span class="flex-grow-1">Access and purchase options</span>
+        <span class="caret"></span>
+    </button>
+    <div class="dropdown-menu rounded-0 turnaway__dropdownmenu" role="menu" id="access-popup" aria-labelledby="menu1">
+        <div class="container">
+            <div class="row align-middle turnaway__dropdownborderbottom bg-purchase">
+            <div class="col-12 mt-2 mb-3">
+                <span class="d-inline-block font-weight-bold">Purchase options</span>
+            </div>
+        </div>
+    
+            <add-to-cart
+            doi="10.1108/S1571-038620180000025012"
+            parent-identifier="10.1108/S1571-0386201825"
+            title="Financial Innovation and Technology Firms: A Smart New World with Machines"
+            parent-title="Banking and Finance Issues in Emerging Markets"
+            :mixpanel-data='{&quot;URI&quot;:&quot;\/content\/doi\/10.1108\/S1571-038620180000025012\/full\/html&quot;,&quot;Format&quot;:&quot;HTML&quot;,&quot;Content ID \/ DOI&quot;:&quot;10.1108\/S1571-038620180000025012&quot;,&quot;Content Title&quot;:&quot;Financial Innovation and Technology Firms: A Smart New World with Machines&quot;,&quot;Parent Title&quot;:&quot;Banking and Finance Issues in Emerging Markets&quot;,&quot;Year Of Publication&quot;:&quot;2018&quot;,&quot;Publication Date&quot;:&quot;4 October 2018&quot;,&quot;Access Method&quot;:&quot;User&quot;,&quot;Access Type&quot;:&quot;controlled&quot;,&quot;Parent Type&quot;:&quot;book&quot;,&quot;Parent ID \/ DOI&quot;:&quot;10.1108\/S1571-0386201825&quot;,&quot;pISBN&quot;:&quot;978-1-78756-454-1&quot;,&quot;eISBN&quot;:&quot;978-1-78756-453-4&quot;,&quot;ISBN&quot;:&quot;978-1-78756-453-4&quot;,&quot;Content Type&quot;:&quot;segment&quot;}'
+            image="https://www.emerald.com/insight/content/book/img/10.1108/S1571-0386201825"
+            content-type="book-part"
+            parent-type="book"
+            isbn="978-1-78756-454-1"
+            issn=""
+            publication-date="4 October 2018"
+            account="" additionalaccount=""
+            opencart_base_url="https://shop.emerald.com/"
+            root="/insight/"
+            country_code="US"
+            origin_view="dropdown"
+        ></add-to-cart>
+    
+    
+    
+            <div class="row align-middle turnaway__dropdownborderbottom bg-other">
+            <div class="col-12 mt-2 mb-3">
+                <span class="d-inline-block font-weight-bold">Other access</span>
+            </div>
+        </div>
+    
+            <div class="row align-middle turnaway__dropdownborderbottom">
+                        <div class="col-12 mt-2 mb-3">
+                <span class="d-inline-block">You may be able to access teaching notes by logging in via your Emerald profile.</span>
+            </div>
+            <div class="col-12 p-3 mb-3">
+                <a
+                    href="/insight/login?hide=federated"
+                    class="intent_wayf_login turnaway-login-link btn btn-primary rounded-pill p-0 mb-3 d-flex align-items-center justify-content-end turnaway__button"
+                >
+                    <span class="flex-grow-1 align-self-center medium pl-4 pr-4">Login</span>
+                    <span role="img" aria-hidden="true" class="rounded-circle my-auto bg-insight fal fa-xs fa-user text-white d-flex justify-content-center align-items-center turnaway__button-icon"></span>
+                </a>
+            </div>
+        </div>
+    
+    
+    
+    
+    
+    <div class="row align-middle">
+        <div class="col-12 mt-2 mb-3">
+            <span class="d-inline-block">If you think you should have access to this content, click to contact our support team.</span>
+        </div>
+        <div class="col-12 p-3 mb-3">
+            <a
+                data-event-name="Submit Turnaway Enquiry"
+                href="https://emeraldpublishinggroup.freshdesk.com/support/solutions/articles/36000063571"
+                target="_blank"
+                class="clickIntercept intent_wayf_enquiry btn btn-primary rounded-pill p-0 text-center d-flex turnaway__button"
+            >
+                <span class="flex-grow-1 align-self-center medium pl-4 pr-4">Contact us</span>
+                <span role="img" aria-hidden="true" class="rounded-circle my-auto bg-insight fal fa-caret-right text-white d-flex justify-content-center align-items-center turnaway__button-icon"></span>
+            </a>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/ #Teaching-notes-turnaway-block -->
+
+    <div class="container content_block">
+        <div class="row">
+            <div class="offset-md-2 col-md-10">
+                <header class="py-3">
+    <h1 class="content-title intent_article_title mt-0 mb-3">Financial Innovation and Technology Firms: A Smart New World with Machines</h1>
+    <section id="intent_contributors" class="mt-4 intent_contributors">
+    <contributor-block block="&lt;span class=&quot;contrib-group&quot;&gt;
+&lt;div class=&quot;contrib_block__contrib intent_contributor&quot; contrib-type=&quot;author&quot;&gt;
+&lt;a rel=&quot;nofollow&quot; class=&quot;contrib-search-book-part-meta&quot; href=&quot;/insight/search?q=Kevin Chen&quot; aria-label=&quot;Search for more content by contributor Kevin Chen&quot;&gt; &lt;span class=&quot;given-names&quot;&gt;Kevin&lt;/span&gt; &lt;span class=&quot;surname&quot;&gt;Chen&lt;/span&gt; &lt;span class=&quot;degrees&quot;&gt;Ph.D.&lt;/span&gt; &lt;/a&gt;
+&lt;/div&gt;
+&lt;/span&gt;" contrib-count="1" affil-count="0">
+        <span class="contrib-group">
+<div class="contrib_block__contrib intent_contributor" contrib-type="author">
+<a rel="nofollow" class="contrib-search-book-part-meta" href="/insight/search?q=Kevin Chen" aria-label="Search for more content by contributor Kevin Chen"> <span class="given-names">Kevin</span> <span class="surname">Chen</span> <span class="degrees">Ph.D.</span> </a>
+</div>
+</span>
+    </contributor-block>
+</section>
+    <div class="mb-2 row">
+    <div class="col-12 col-md-6">
+                    <p>
+                <span class="intent_book_title">
+                    <a href="/insight/publication/doi/10.1108/S1571-0386201825">Banking and Finance Issues in Emerging Markets</a>
+                </span>
+            </p>
+        
+        
+                    <p class="mt-0">
+                            <abbr title="International Standard Book Number." class="font-weight-normal">ISBN</abbr>:
+                <span class="intent_book_p_isbn">978-1-78756-454-1</span>,
+                <abbr title="International Standard Book Number. Electronic version of Book" class="font-weight-normal">eISBN</abbr>:
+                <span class="intent_book_e_isbn">978-1-78756-453-4</span>
+
+                    </p>
+        
+        
+        <p class="mt-0">
+            
+                                    <span class="intent_journal_publication_date">Publication date: 4 October 2018</span>
+
+                            <span class="ml-2" id="rights-link">
+                    <rights-link-button
+    root="https://marketplace.copyright.com/rs-ui-web/mp/search/all/"
+    doi="10.1108/S1571-038620180000025012">
+</rights-link-button>
+                </span>
+            
+        </p>
+
+                    </div>
+    <div class="col-12 col-md-6 d-flex mt-3 mt-md-0">
+        
+        
+            </div>
+</div>
+    </header>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="container content_block" >
+        <div class="row">
+
+            <div class="offset-md-2 col-md-7">
+                
+                
+                <section id="abstract" class="intent_abstract mb-5 Abstract" tabindex="0">
+            <h2 class="intent_title Abstract__title mb-1">Abstract</h2>
+            
+                <div class="intent_sub_item Abstract__block">
+                                        <section class="intent_sub_content Abstract__block__text">
+                        <p>There has been a financial revolution lead by technology firms over the past decade. Many large established technology giants, from Google, Apple to Amazon in the US are entering the financial service industry. Smaller start-ups, in particular robotic advisors, a.k.a. Robo-Advisors, have been taking market shares from traditional asset management firms. In China, firms like Tencent and Alibaba have created a whole new field of online finance. At the center of our study is a critical examination of the key components of the financial innovation over the past 10 years. Mobile banking was the beginning, followed by trading, investment, and insurance business. We study innovation through several cases. Due to the size and number o firms in Financial technology (FinTech) space, the US and China are the focus of the chapter. Artificial intelligence (AI) and machine learning are included for discussion in this chapter. We emphasize a market approach in our study, albeit, incorporating the historical and cultural perspectives in our analysis. Our goal is to develop a thorough understanding of the art and science of financial innovation, from both bottom-up market indicators and a top-down holistic view. We want to demonstrate that the technological changes are just the beginning of a new world of financial services. Unprecedented changes are still yet to come and it is crucially important to be prepared and even embrace the changes. A special discussion was devoted to the phenomenon of FinTech boom in Asia. Lastly, many new technologies are being developed to combat fraudulent activities in the FinTech space.</p>
+                    </section>
+                </div><!--/ Abstract__block -->
+
+                    </section><!--/ Abstract -->
+
+    
+
+                <section id="keywords_list" class="intent_keywords">
+        <h2 class="intent_title" id="page__keywords-label">Keywords</h2>
+        <ul class="intent_paragraph list-inline" aria-labelledby="page__keywords-label">
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=FinTech"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword FinTech"><span class="intent_text">FinTech</span></a></li>
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=Artificial+intelligence"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword Artificial intelligence"><span class="intent_text">Artificial intelligence</span></a></li>
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=Robo-advisor"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword Robo-advisor"><span class="intent_text">Robo-advisor</span></a></li>
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=Asia"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword Asia"><span class="intent_text">Asia</span></a></li>
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=Machine+learning"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword Machine learning"><span class="intent_text">Machine learning</span></a></li>
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=Investment"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword Investment"><span class="intent_text">Investment</span></a></li>
+                            <li class="list-inline-item mr-0"> <a rel="nofollow" href="/insight/search?q=Crypto-currencies"class="intent_link btn btn-outline-secondary btn-sm my-1"title="Search for keyword Crypto-currencies"><span class="intent_text">Crypto-currencies</span></a></li>
+                    </ul>
+    </section>
+
+                
+                                    <section class="Citation mb-2">
+    <h2 class="h4 intent_citation Citation__title">Citation</h2>
+    <p>
+        <a rel="nofollow" href="/insight/search?q=Kevin Chen" title="Kevin Chen" class="font-weight-light link-dark">Chen, K.</a> (2018), "Financial Innovation and Technology Firms: A Smart New World with Machines", <i>Banking and Finance Issues in Emerging Markets</i> (<i>International Symposia in Economic Theory and Econometrics, Vol. 25</i>), Emerald Publishing Limited, Leeds, pp. 279-292. <a class='intent_doi_link Citation__identifier__link' href='https://doi.org/10.1108/S1571-038620180000025012' title='DOI: https://doi.org/10.1108/S1571-038620180000025012'>https://doi.org/10.1108/S1571-038620180000025012</a>
+    </p>
+
+            <div id="citation-download">
+            <citation-download doi="10.1108/S1571-038620180000025012" 
+                               root="/insight/"/>
+        </div>
+    </section><!--/ Citation -->
+                
+                <section class="mt-1 Body" v-pre>
+        <h2 class="d-inline h4" id="page__publisher-label">Publisher</h2>:
+        <p class="publisher d-inline" aria-labelledby="page__publisher-label">Emerald Publishing Limited</p>
+    </section><!--/ Body -->
+
+                <p class="Citation__identifier">
+        Copyright <span
+            class="intent_copyright_text">&copy; 2018 Emerald Publishing Limited</span>
+    </p>
+                        </div>
+
+            <div class="col-12 col-md-3">
+                            </div>
+        </div><!--/ row -->
+    </div>
+
+    
+    </main>
+
+    <flash message=""></flash>
+
+    <div id="feedback-strip" class="header-feedback dropdown  ">
+  <div class="header-feedback__link ">
+    <button
+      type="button"
+      class="intent_header_feedback_link header-feedback__link-button collapsed"
+      data-toggle="collapse"
+      data-target="#header-feedback-content"
+      aria-expanded="false"
+    >
+      <div class="header-feedback__link-left font-weight-bold text-left">
+        <span id="header-feedback__link-text">Support & Feedback</span> <span id="header-feedback__link-caret" class="toggleCaret fas fa-caret-up fa-lg ml-1"></span>
+      </div>
+    </button>
+    <a href="#" class="header-feedback__link-cookie-button text-white intent_cookie_manage" data-toggle="modal" data-target="#manage-cookies-modal">
+      Manage cookies
+    </a>
+  </div>
+
+  <div id="header-feedback-content" class="intent_header_feedback_content header-feedback__content collapse pt-4 pb-4 text-center text-white">
+    <div class="container">
+      <div class="row px-lg-5">
+        <div class="col-12 col-md-6 text-left mb-4 mb-md-0">
+          <h3>All feedback is valuable</h3>
+          <p>Please <a href="https://eu.surveymonkey.com/r/DGMS7Z8" class="text-light" target="_blank">share your general feedback</a></p>
+        </div>
+
+        <div class="col-12 col-md-6 text-left">
+          <h3>Report an issue or find answers to frequently asked questions</h3>
+          <p>Contact <a href="https://emeraldpublishinggroup.freshdesk.com/support/home" class="text-light" target="_blank">Customer Support</a></p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="feedback-underlay" class="feedback-underlay">
+</div>
+
+    <footer role="contentinfo" class="bg-dark pt-4 text-center text-white">
+    <div class="container">
+        <div class="row px-lg-5 pb-3">
+            <div class="col-12 col-md-3 text-md-left pl-md-2 pr-md-4 pb-4 pb-md-0 text-white">
+                <img data-src="/insight/static/img/emerald_publishing_logo-white.svg" class="img-fluid w-75 mw-sm-100 mw-xl-50 b-lazy" alt="Emerald logo" />
+                <div class="mt-3 ml-md-n1 d-flex flex-row justify-content-center justify-content-md-start align-self-center">
+                    <ul class="list-inline my-2 mt-md-2 mt-lg-0">
+                        <li class="list-inline-item"><a href="https://twitter.com/EmeraldGlobal" target="_blank" rel="noopener noreferrer" title="Twitter (opens in new window)" aria-label="Twitter (opens in new window)" class="text-white font-size-small p-1"><span role="img" class="fab fa-twitter"></span></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/EmeraldPublishingImpact/" target="_blank" rel="noopener noreferrer" title="Facebook (opens in new window)" aria-label="Facebook (opens in new window)" class="text-white font-size-small p-1"><span role="img" class="fab fa-facebook-f"></span></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/company/emerald-group-publishing-limited" target="_blank" rel="noopener noreferrer" title="LinkedIn (opens in new window)" aria-label="LinkedIn (opens in new window)" class="text-white font-size-small p-1"><span role="img" class="fab fa-linkedin-in"></span></a></li>
+                        <li class="list-inline-item"><a href="https://www.youtube.com/user/EmeraldPublishing67" target="_blank" rel="noopener noreferrer" title="YouTube (opens in new window)" aria-label="YouTube (opens in new window)" class="text-white font-size-small p-1"><span role="img" class="fab fa-youtube-square"></span></a></li>
+                    </ul>
+                </div>
+                <div class="text-white font-size-xsmall font-weight-light">&copy; 2024 Emerald Publishing Limited. All rights reserved, including rights for text and data mining, artificial intelligence training and similar technologies.</div>
+            </div>
+            <!-- These links have title and aria-label so that the "opens in new window" warning shows up in tooltips, as well as Narrator and NVDA reading out the link names and new window warnings without duplication -->
+            <div class="col-12 col-md-3 text-md-left pl-md-5 pb-4 pb-md-0">
+                <h2 class="h4 mb-md-3">Services</h2>
+                <ul class="list-unstyled my-0">
+                    <li><a href="https://www.emeraldgrouppublishing.com/services/authors" class="mixpanel_link intent_footer_link_services_authors text-white font-size-small font-weight-light" target="_blank" rel="noopener noreferrer" aria-label="Authors (opens in new window)" title="Authors (opens in new window)">Authors</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/services/journal-editors" class="mixpanel_link intent_footer_link_services_editors text-white font-size-small font-weight-light" target="_blank" rel="noopener noreferrer" aria-label="Editors (opens in new window)" title="Editors (opens in new window)">Editors</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/services/librarians" class="mixpanel_link intent_footer_link_services_librarians text-white font-size-small font-weight-light" target="_blank" rel="noopener noreferrer" aria-label="Librarians (opens in new window)" title="Librarians (opens in new window)">Librarians</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/services/researchers" class="mixpanel_link intent_footer_link_services_research text-white font-size-small font-weight-light" target="_blank" rel="noopener noreferrer" aria-label="Researchers (opens in new window)" title="Researchers (opens in new window)">Researchers</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/services/reviewers" class="mixpanel_link intent_footer_link_services_reviewers text-white font-size-small font-weight-light" target="_blank" rel="noopener noreferrer" aria-label="Reviewers (opens in new window)" title="Reviewers (opens in new window)">Reviewers</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-3 text-md-left pb-4 pb-md-0">
+                <h2 class="h4 mb-md-3">About</h2>
+                <ul class="list-unstyled my-0">
+                    <li><a href="https://www.emeraldgrouppublishing.com/about/" target="_blank" rel="noopener noreferrer" aria-label="About Emerald (opens in new window)" title="About Emerald (opens in new window)" class="mixpanel_link intent_footer_link_about_emerald text-white font-size-small font-weight-light">About Emerald</a></li>
+                    <li><a href="https://careers.emeraldpublishing.com" target="_blank" rel="noopener noreferrer" aria-label="Working for Emerald (opens in new window)" title="Working for Emerald (opens in new window)" class="intent_footer_link_about_working text-white font-size-small font-weight-light">Working for Emerald</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/about/contact-us" target="_blank" rel="noopener noreferrer" aria-label="Contact us (opens in new window)" title="Contact us (opens in new window)" class="mixpanel_link intent_footer_link_about_contact text-white font-size-small font-weight-light">Contact us</a></li>
+                    <li><a href="/insight/sitemap/publications" class="intent_footer_link_publication_sitemap text-white font-size-small font-weight-light">Publication sitemap</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-3 text-md-left">
+                <h2 class="h4 mb-md-3">Policies and information</h2>
+                <ul class="list-unstyled my-0">
+                    <li><a href="/insight/site-policies" class="intent_footer_link_policies_privacy text-white font-size-small font-weight-light">Privacy notice</a></li>
+                    <li><a href="/insight/site-policies" class="intent_footer_link_policies_site_policies text-white font-size-small font-weight-light">Site policies</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/about/policies-and-information/modern-slavery-act" target="_blank" rel="noopener noreferrer" aria-label="Modern Slavery Act (opens in new window)" title="Modern Slavery Act (opens in new window)" class="mixpanel_link intent_footer_link_policies_modern_slavery text-white font-size-small font-weight-light">Modern Slavery Act</a></li>
+                    <li><a href="https://www.emeraldgrouppublishing.com/sites/default/files/2020-08/MCB-Pension-Chair-Statement-2019.pdf" target="_blank" rel="noopener noreferrer" aria-label="Chair of Trustees governance statement (opens in new window, PDF, 511 KB)" title="Chair of Trustees governance statement (opens in new window, PDF, 511 KB)" class="mixpanel_link intent_footer_link_trustees_governance_statement text-white font-size-small font-weight-light">Chair of Trustees governance statement</a></li>
+                    <li><a href="/insight/accessibility" class="intent_footer_link_accessibility text-white font-size-small font-weight-light">Accessibility</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div id="topscroll">
+    <top-scroll text="Back to top" visibleoffset="500"></top-scroll>
+</div>
+
+    </div>
+
+<script type="text/javascript" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    window.subDir = "/insight/"
+
+    function document_ready (callback) {
+        if (document.readyState !== 'loading') {
+            callback()
+        } else {
+            document.addEventListener('DOMContentLoaded', callback)
+        }
+    }
+
+    // Replacement for $(element).on(event, selector, handler), as addEventListener
+    // does not support the selector parameter.
+    function add_event_listener(element, event, selector, handler) {
+        if (element === null) {
+            return
+        }
+        element.addEventListener(event, function (e) {
+            for (let target = e.target; target && target !== this; target = target.parentNode) {
+                if (target instanceof Element && target.matches(selector)) {
+                    handler.call(target, e)
+                }
+            }
+        }, false)
+    }
+</script>
+
+<script src="/insight/static/js/manifest.js?id=bf526d8f397db3044526d8a29f4ab821" defer></script>
+<script src="/insight/static/js/vendor.js?id=1ad3c16f98039b6cb7c17989d3b6766c" defer></script>
+<script src="/insight/static/js/app.js?id=904745544b2e93a9bb5efcd52caed459" defer></script>
+<script src="/insight/static/js/vendor/dragscroll.js?id=150f32f78896241390129daaff2ebed9" defer></script>
+<script src="/insight/static/js/mixpanel/mixpanel.js?id=a8237b34f4932b653178db5ff7c26496" defer></script>
+
+<script type="text/javascript" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+  document_ready(function () {
+    // enable bootstrap tooltips globally
+    $('[data-toggle="tooltip"]').tooltip()
+  })
+</script>
+
+<script type="text/javascript" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+  document_ready(function () {
+
+    document.querySelector('.header-feedback__link-button').addEventListener('click', function () {
+        $('#header-feedback__link-caret').toggleClass('fa-caret-up fa-caret-down');
+        if( $('#header-feedback__link-text').text() == 'Close')
+        {
+            $('#header-feedback__link-text').text('Support & Feedback');
+            $('#feedback-underlay').hide();
+        } else {
+            $('#header-feedback__link-text').text('Close');
+            $('#feedback-underlay').show();
+        }
+    });
+
+    let scrollMagnet = $('.scroll-magnet-item')
+
+    if (typeof scrollMagnet[0] === 'undefined') {
+      return
+    }
+
+    $.get(window.subDir + 'api/banner', function (data) {
+      if (data.status === 'Down') {
+
+        let bodyElement = $('body')
+        bodyElement.attr('data-offset', 215)
+
+        let scrollMagnet = $('.scroll-magnet-item')
+
+        if (typeof scrollMagnet[0] === 'undefined') {
+          return
+        }
+
+        let observer = new MutationObserver(function () {
+          const scrollingBanner = 'is-scrolling--support-banner'
+          const isScrolling = 'is-scrolling'
+
+          if (scrollMagnet.hasClass(isScrolling) && !scrollMagnet.hasClass(scrollingBanner)) {
+            scrollMagnet.addClass(scrollingBanner)
+          }
+
+          if (!scrollMagnet.hasClass(isScrolling) && scrollMagnet.hasClass(scrollingBanner)) {
+            scrollMagnet.removeClass(scrollingBanner)
+          }
+        })
+
+        observer.observe(scrollMagnet[0], {
+          attributes: true,
+          attributeFilter: ['class'],
+          childList: false,
+          characterData: false
+        })
+      }
+    })
+
+  })
+</script>
+
+<script src="/insight/static/js/mixpanel/mixpanel-cookies.js?id=e74fd8be58799c9220a39e93a7051c7f" defer></script>
+
+<script type="application/javascript" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    document_ready(function() {
+        if (document.referrer) {
+            document.querySelectorAll('.turnaway-login-link').forEach(link => {
+                const loginHref = new URL(link.href)
+                loginHref.searchParams.set('referrer', document.referrer)
+                // We pass this page's referrer to /login so that later we can record the initial referrer without the roundtrip
+                // to liblynx muddying the waters. We have to get it via JS because this page may be cached at the CDN for guest
+                // users, in which case the server-written version of the referrer may be incorrect
+                link.href = loginHref
+            })
+        }
+    })
+</script>
+  <script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    document.querySelector('#access-popup').addEventListener('click', function (event) {
+      event.stopPropagation()
+    })
+  </script>
+  <script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    document.querySelector('#access-popup').addEventListener('click', function (event) {
+      event.stopPropagation()
+    })
+  </script>
+    <div id="shivPlaceholder" tabindex="-1" class="shivContents position-relative text-center mt-3 mb-3 px-5 py-3 pt-4 border table-responsive" style="display: none">
+    <div style="z-index: 999; right: 1rem; top: 0;" class="position-absolute shiv-header row text-right">
+        <button style="font-size: 2.1rem; width:2.1rem; height:2.1rem; overflow: hidden;" type="button" class="close" title="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="free dragscroll">
+        <div class="shivContent d-inline-block m-auto text-left position-relative"></div>
+    </div>
+</div>
+
+<script src="/insight/static/js/emerald/js_shiv.js?id=82575e0833ba874edd4978c3da18b553" defer></script>
+    <script type="text/javascript" id="trendmd-block" nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+    if (window.cookieHelper.areFunctionalCookiesEnabled()) {
+      /**
+       * If we just included the script, it would execute at a deferred point in time,
+       * regardless of our cookie setting, therefore it's added as a script element only
+       * on condition that functional cookies have actually been enabled
+       **/
+      const trendmdBlock = document.getElementById("trendmd-block");
+      const trendmdScriptTag = document.createElement("script");
+
+      trendmdScriptTag.src ='//js.trendmd.com/trendmd.min.js';
+      trendmdScriptTag.setAttribute('data-trendmdconfig', '{"element":"#trendmd-suggestions"}');
+      trendmdScriptTag.setAttribute('defer', 'true');
+
+      trendmdBlock.append(trendmdScriptTag);
+
+      const eventName = 'TrendMD'
+
+      function mixpanelProperties (el) {
+        const url = (el.href || '').split('?')[0]
+        return {
+          'Article name': el.text,
+          'Format': url.endsWith('.pdf') ? 'PDF' : 'HTML',
+          'Link Type': url.includes('emerald') ? 'Internal' : 'External',
+          url: el.href
+        }
+      }
+
+      let alreadySeenLinks = []
+
+      isReady(() => {
+        const suggestions = document.querySelector('#trendmd-suggestions')
+        suggestions.classList.add('d-none')
+
+        const suggestionsHeader = document.querySelector('.trendmd-replacement-heading')
+        suggestionsHeader.classList.add('d-none')
+      
+        add_event_listener(suggestions, 'DOMNodeInserted', '.trendmd-widget-list', event => {
+          const links = Array.from(event.currentTarget.querySelectorAll('a.trendmd-widget-list-item__link'))
+          const newLinks = links.filter(l => !alreadySeenLinks.includes(l))
+          // add new links to the already seen list so we can make sure we don't attach listeners to them more than once
+          alreadySeenLinks = alreadySeenLinks.concat(newLinks)
+
+          newLinks.forEach(link => mixpanelTrackLinkClick(link, eventName, mixpanelProperties))
+
+          suggestionsHeader.classList.remove('d-none')
+          suggestions.classList.remove('d-none')
+        })
+
+      });
+    }
+</script>
+
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js' defer></script>
+
+    <script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+        function elementExists (targetName) {
+            return targetName !== null && typeof targetName !== 'undefined';
+        }
+
+        function toggleTurnawayDisplay ({ element, visibility, turnawayBlockDisplay, teachingNotesDisplay }) {
+            element.addEventListener('click', function () {
+                const $tocScroll = $('#tocscroll');
+                const teachingNotesTurnawayBlock = document.querySelector('#teaching-notes-turnaway-block');
+                const turnawayBlock = document.querySelector('#turnaway-block');
+
+                if (elementExists($tocScroll.get(0))) {
+                    $tocScroll.css('visibility', visibility);
+                }
+
+                if (elementExists(turnawayBlock)) {
+                    turnawayBlock.style.display = turnawayBlockDisplay;
+                }
+
+                if (elementExists(teachingNotesTurnawayBlock)) {
+                    teachingNotesTurnawayBlock.style.display = teachingNotesDisplay;
+                }
+            })
+        }
+
+        isReady(() => {
+            const turnawayBlock = document.querySelector('#turnaway-block');
+            const cases = document.querySelector('#cases');
+            const teachingNotes = document.querySelector('#teaching-notes');
+            const teachingNotesTurnawayBlock = document.querySelector('#teaching-notes-turnaway-block');
+            
+            const hash = window.location.hash.substr(1);
+            if (hash === 'teaching-notes-tab') {
+                if (elementExists(turnawayBlock)) {
+                    turnawayBlock.style.display = "none";
+                }
+
+                if (elementExists(teachingNotesTurnawayBlock)) {
+                    teachingNotesTurnawayBlock.style.display = "block";
+                }
+            }
+
+            if (elementExists(cases)) {
+                toggleTurnawayDisplay({ element: cases, visibility: 'visible', turnawayBlockDisplay: 'block', teachingNotesDisplay: 'none' });
+            }
+
+            if (elementExists(teachingNotes)) {
+                toggleTurnawayDisplay({ element: teachingNotes, visibility: 'hidden', turnawayBlockDisplay: 'none', teachingNotesDisplay: 'block' });
+            }
+        });
+
+        window.addEventListener('load', (event) => {
+            window.scrollTo(0, 0);
+        });
+    </script>
+
+    <script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+  function trackingEnabled() {
+    const isLockss = (navigator.userAgent === 'LOCKSS cache');
+    const shouldSkipTracking = (window.location.href.indexOf('skipTracking=true') > -1);
+    return !isLockss && !shouldSkipTracking;
+  };
+</script>
+
+
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+  const mixPanelJson = {"URI":"\/content\/doi\/10.1108\/S1571-038620180000025012\/full\/html","Format":"HTML","Denied, Reason":"No License","Content ID \/ DOI":"10.1108\/S1571-038620180000025012","Content Title":"Financial Innovation and Technology Firms: A Smart New World with Machines","Parent Title":"Banking and Finance Issues in Emerging Markets","Year Of Publication":"2018","Publication Date":"4 October 2018","Access Method":"User","Access Type":"controlled","Parent Type":"book","Parent ID \/ DOI":"10.1108\/S1571-0386201825","pISBN":"978-1-78756-454-1","eISBN":"978-1-78756-453-4","ISBN":"978-1-78756-453-4","Content Type":"segment"};
+  const mixPanelCurrentPageEvent = 'Turnaway';
+
+  let teachingNotesAlreadyClicked = false;
+  let caseStudyAlreadyClicked = false;
+  let articleAlreadyClicked = false;
+
+  function mixpanelTrack(eventName, mixPanelData) {
+    storeOrPushMixpanelEvent('track', eventName, mixPanelData);
+    mixpanelUpdateUserDataForEvent(eventName);
+  }
+
+  function trackTeachingNoteDownload() {
+    if (teachingNotesAlreadyClicked) {
+      return;
+    }
+    teachingNotesAlreadyClicked = true;
+
+    const mixPanelData = JSON.parse(JSON.stringify(mixPanelJson));
+    mixPanelData['Content Type'] = 'Teaching Note';
+    mixpanelTrack(mixPanelCurrentPageEvent, mixPanelData);
+  }
+
+  function trackCaseStudyDownload() {
+    if (caseStudyAlreadyClicked) {
+      return;
+    }
+    caseStudyAlreadyClicked = true;
+
+    const mixPanelData = JSON.parse(JSON.stringify(mixPanelJson));
+    mixPanelData['Content Type'] = 'case study';
+    mixpanelTrack(mixPanelCurrentPageEvent, mixPanelData);
+  }
+
+  function trackArticleDownload() {
+    if (articleAlreadyClicked) {
+      return;
+    }
+    articleAlreadyClicked = true;
+
+    const mixPanelData = JSON.parse(JSON.stringify(mixPanelJson));
+    mixPanelData['Content Type'] = 'article';
+    mixpanelTrack(mixPanelCurrentPageEvent, mixPanelData);
+  }
+
+  function eventInterceptInit() {
+    add_event_listener(window, 'click', 'a.clickIntercept', function () {
+      const $this = $(this);
+      switch($this.data("contentType")) {
+        case 'Case Study':
+          trackCaseStudyDownload();
+          break;
+        case 'Teaching Note':
+          trackTeachingNoteDownload();
+          break;
+        case 'Article':
+          trackArticleDownload();
+          break;
+        default:
+          const mixPanelData = JSON.parse(JSON.stringify(mixPanelJson));
+          const clickEventName = $this.data("eventName");
+          mixpanelTrack(clickEventName, mixPanelData);
+      }
+    })
+  }
+
+  // Check if the tabs were already clicked on page land, if it was then track the relevant event
+  function checkSelectedTabs() {
+    const teachingNotes = document.querySelector('#teaching-notes')
+    if (teachingNotes != null && teachingNotes.getAttribute('aria-selected') === 'true') {
+      trackTeachingNoteDownload()
+      return
+    }
+
+    const cases = document.querySelector('#cases')
+    if (cases != null && cases.getAttribute('aria-selected') === 'true') {
+      trackCaseStudyDownload()
+      return
+    }
+
+    const articles = document.querySelector('#articles')
+    if (articles != null && articles.getAttribute('aria-selected') === 'true') {
+      trackArticleDownload()
+      return
+    }
+
+    mixpanelTrack(mixPanelCurrentPageEvent, mixPanelJson)
+  }
+
+  (function(){
+    if (trackingEnabled()) {
+      checkSelectedTabs();
+      eventInterceptInit();
+    };
+  })();
+</script>
+
+
+
+<script nonce="vw/M1EJtfJm4SIes+W5PaCZGFTwAGtQUq/fcbk8QS9ZWpPve9CW6MVbxhTZeopQWzWf9HgCW2H9DE5IQs2sQjQ==">
+var _ll = _ll || [];
+
+function counterTrack(endpoint) {
+  window._ll = [];
+
+  window._ll.push(['setEndpoint', endpoint ]);
+
+  window._ll.push(['setDefaults', {"pid":"0959a6c7150c5e64","plname":"Emerald Publishing Limited"} ]);
+
+  var counterJson = {"tm":{"title":"Banking and Finance Issues in Emerging Markets","doi":"10.1108\/S1571-0386201825","dt":"book","isbn":"978-1-78756-453-4"},"im":{"doi":"10.1108\/S1571-038620180000025012","title":"Financial Innovation and Technology Firms: A Smart New World with Machines","yop":"2018","pdate":"4 October 2018","dt":"segment","stype":"chapter"},"aid":"00001","aname":"Guest User","sid":"w5dykz5gGgrKHcdk3jwqxXG0EWAYied4K9ql4J6u","uri":"\/content\/doi\/10.1108\/S1571-038620180000025012\/full\/html","fmt":"HTML","referrer":"","deny":"No_License","am":"regular","at":"controlled"};
+
+  
+    window._ll.push(['trackDenial', counterJson ]);
+
+     // track turnaway abtract page as investigation
+        window._ll.push(['trackItemInvestigation', counterJson ]);
+    
+  };
+
+function counterLoadScript(){
+  let d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+
+      const liblynxSuffix = '/log/js/counter5.min.js';
+  
+  const liblynxPrefixOne = "https://connect.lib";
+  const liblynxPrefixTwo = "lynx.com";
+
+  const liblynxSrc = liblynxPrefixOne + liblynxPrefixTwo + liblynxSuffix;
+
+  g.type='text/javascript';
+  g.async=true;
+  g.id='counter_script';
+  g.defer=true;
+  g.src=liblynxSrc;
+  s.parentNode.insertBefore(g,s);
+};
+
+function counterGetEndpoint() {
+  const baseUrlOne = "https://connect.lib".replace('https:','').replace('http:','');
+  const baseUrlTwo = "lynx.com";
+  return baseUrlOne + baseUrlTwo + "/log/counter";
+};
+
+document_ready(() => {
+  if (trackingEnabled()) {
+    counterTrack(counterGetEndpoint())
+    counterLoadScript()
+  }
+})
+</script>
+
+
+</body>
+</html>

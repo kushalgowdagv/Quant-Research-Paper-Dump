@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Factors that Determine Dividend Payout. Evidence from the Financial Service Sector in South Africa</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Dividend payout signals good news to investors. Firms&amp;rsquo; that pays out dividends demonstrate that they have enough cash to distribute the excess">
+        <meta name="csrf-token" content="97mrrqFn9jeJ1KGxsztuVbCiffRjUzQlYKriedBX">
+        <meta name="citation_publisher" content="Sryahwa Publications LLC" />
+<meta name="citation_title" content="Factors that Determine Dividend Payout. Evidence from the Financial Service Sector in South Africa" />
+    <meta name="citation_author" content="Samuel Tabot Enow" />
+    <meta name="citation_author" content="Eslyn Bleighnaul Hugh Isaacs" />
+<meta name="citation_language" content="en"/>
+<meta name="citation_year" content="2018" />
+<meta name="citation_journal_title" content="Journal of Banking and Finance Management" />
+<meta name="citation_volume" content="1" />
+<meta name="citation_issue" content="1" />
+<meta name="citation_firstpage" content="48" />
+<meta name="citation_lastpage" content="53" />
+<meta name="citation_publication_date" content="2018/02/16" />
+<meta name="citation_issn" content="2642-9144" />
+<meta name="citation_doi" content="https://doi.org/10.22259/2642-9144.0101004" />
+<meta name="citation_abstract_html_url" content="https://sryahwapublications.com/article/abstract/2642-9144.0101004" />
+<meta name="citation_pdf_url" content="https://sryahwapublications.com/article/download/2642-9144.0101004" />
+        <link rel="schema.DC" href="https://purl.org/dc/elements/1.1/" />
+            <meta name="DC.Creator.PersonalName" content="Samuel Tabot Enow" />
+            <meta name="DC.Creator.PersonalName" content="Eslyn Bleighnaul Hugh Isaacs" />
+    <meta name="DC.Date.created" scheme="ISO8601"
+    content="2018-02-16" />
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601"
+    content="2018-02-16" />
+<meta name="DC.Date.issued" scheme="ISO8601"
+    content="2018-02-16" />
+<meta name="DC.Date.modified" scheme="ISO8601"
+    content="2018-02-16" />
+<meta name="DC.Description" xml:lang="en"
+    content="Dividend payout signals good news to investors. Firms&amp;rsquo; that pays out dividends demonstrate that they have enough cash to distribute the excess to shareholders while investing in profitable projects. This study investigated the factors that..." />
+<meta name="DC.Format" scheme="IMT" content="application/pdf" />
+<meta name="DC.Identifier" content="1" />
+<meta name="DC.Identifier.pageNumber" content="48-53" />
+<meta name="DC.Identifier.URI" content="https://sryahwapublications.com/article/abstract/2642-9144.0101004" />
+<meta name="DC.Language" scheme="ISO639-1" content="en" />
+<meta name="DC.Rights" content="Copyright (c) 2024 Samuel Tabot Enow, Eslyn Bleighnaul Hugh Isaacs (Author)" />
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by-nc/4.0" />
+<meta name="DC.Source" content="" />
+<meta name="DC.Source.ISSN" content="2642-9144" />
+<meta name="DC.Source.Issue" content="1" />
+<meta name="DC.Source.Volume" content="1" />
+<meta name="DC.Source.URI" content="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management" />
+<meta name="DC.Title" content="Factors that Determine Dividend Payout. Evidence from the Financial Service Sector in South Africa" />
+<meta name="DC.Type" content="Text.Serial.Journal" />
+<meta name="DC.Type.articleType" content="Articles"/>
+        <link rel="canonical" href="https://sryahwapublications.com/article/abstract/2642-9144.0101004" />
+        <!-- Schema.org markup for ScholarlyArticle -->
+        <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "Factors that Determine Dividend Payout. Evidence from the Financial Service Sector in South Africa",
+    "description": "Dividend payout signals good news to investors. Firms&amp;rsquo; that pays out dividends demonstrate that they have enough cash to distribute the excess to shareholders while investing in profitable projects. This study investigated the factors that...",
+    "pageStart": "48",
+    "pageEnd": "53",
+    "sameAs": "https://doi.org/10.22259/2642-9144.0101004",
+    "isPartOf": {
+            "name": "Journal of Banking and Finance Management",
+            "issn": "2642-9144",
+            "volumeNumber": "1",
+            "issueNumber": "1",
+            "@type": ["Periodical", "PublicationVolume"]
+        },
+    "url": "https://sryahwapublications.com/article/abstract/2642-9144.0101004",
+    "datePublished": "2018-02-16",
+    "author": [{"@type":"Person","name":"Samuel Tabot Enow"},{"@type":"Person","name":"Eslyn Bleighnaul Hugh Isaacs"}],
+    "publisher": {
+      "@type": "Organization",
+      "name": "Sryahwa Publications"
+    }
+  }
+  </script>
+
+        <!-- Custom CSS -->
+        <link href="https://sryahwapublications.com/assets/css/styles.css" rel="stylesheet">
+        <!-- Livewire Styles -->
+<style >
+    [wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {
+        display: none;
+    }
+
+    [wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {
+        display:none;
+    }
+
+    [wire\:offline] {
+        display: none;
+    }
+
+    [wire\:dirty]:not(textarea):not(input):not(select) {
+        display: none;
+    }
+
+    input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {
+        animation-duration: 50000s;
+        animation-name: livewireautofill;
+    }
+
+    @keyframes livewireautofill { from {} }
+</style>
+        <!-- Google Tag Manager -->
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-NC237R4');
+        </script>
+        <!-- End Google Tag Manager -->
+    </head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NC237R4" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+  <!-- Top header  -->
+  <!-- ============================================================== -->
+  <!-- Start Navigation -->
+            <div class="header header-light dark-text head-shadow">
+    <div class="container">
+                <nav id="navigation" class="navigation navigation-landscape">
+    <div class="nav-header">
+        <a class="nav-brand" href="/">
+            <img src="https://sryahwapublications.com/assets/img/logo.png" class="logo" alt="" />
+        </a>
+        <div class="nav-toggle"></div>
+        <div class="mobile_nav">
+            <ul>
+                <li>
+                    <a href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/submit-manuscript"
+                        class="crs_yuo12 w-auto text-white theme-bg">
+                        <span class="embos_45"><i class="fas fa-plus-circle mr-1 mr-1"></i>Submit Article</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="nav-menus-wrapper" style="transition-property: none;">
+        <ul class="nav-menu">
+
+            <li class=""><a
+                    href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management">Journal Home</a></li>
+            <li class=""><a
+                    href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/articles">Articles</a></li>
+            <li class=""><a
+                    href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/aims-and-scope">Aims
+                    and Scope</a></li>
+            <li class=""><a
+                    href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/editorial-board">Editorial Board</a></li>
+            <li class=""><a
+                    href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/current-issue">Current Issue</a></li>
+            <li class=""><a
+                    href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/archive">Archive</a></li>
+
+        </ul>
+
+        <ul class="nav-menu nav-menu-social align-to-right">
+            <li class="add-listing theme-bg">
+                <a href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/submit-manuscript">
+                    <i class="lni lni-circle-plus mr-1"></i> Submit Manuscript
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>
+        </div>
+  </div>
+  <!-- End Navigation -->
+  <div class="clearfix"></div>
+  <!-- ============================================================== -->
+  <!-- Top header  -->
+  <!-- ============================================================== -->
+                <div class="bg-light rounded py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+                        <div class="tbd-title">
+                            <h1 class="mb-0 ft-bold mb-3">Factors that Determine Dividend Payout. Evidence from the Financial Service Sector in South Africa</h1>
+                        </div>
+                        <div class="jbd-01 d-flex flex-column flex-md-row  align-items-center justify-content-between">
+                            <div class="jbd-flex d-flex align-items-center col-12 col-md-9 justify-content-start">
+                                <div class="jbd-01-caption">
+                                    <div class="jbl_location mb-3">
+                                        <h2 class="h5 mb-0">Author Details</h2>
+                                        <div class="text-muted large text-justify mb-2">
+                                            <span><i class="lni lni-user"></i> Samuel Tabot Enow, Eslyn Bleighnaul Hugh Isaacs</span>
+                                        </div>
+                                                                                    <h2 class="h5 mb-0">Journal Details</h2>
+                                            <div class="mb-2">
+                                                <span><i class="lni lni-briefcase mr-1"></i><a
+                                                        href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management"
+                                                        class="text-secondary">Journal of Banking and Finance Management</a><span
+                                                        class="text-muted"> - ISSN -
+                                                        2642-9144,</span> <a
+                                                        href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/volume-1/issue-1"
+                                                        class="theme-cl">Volume 1,
+                                                        Issue 1</a></span>
+                                            </div>
+                                                                                <div class="mb-2 mt-2">
+                                                                                            <h2 class="h5">Published</h2>
+                                                <span class="muted medium text-muted">
+                                                    <i class="lni lni-calendar"></i> Published:
+                                                    16 February 2018
+                                                </span>
+                                                <span class="muted medium text-muted">
+                                                    | Article Type : <span
+                                                        class="text-success"></span>
+                                                </span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="jbd-01-right text-center col-12 col-md-3">
+
+                                                                    <h2 class="h5 mb-0">Downloads</h2>
+                                    <div
+                                        class="jbd-01 d-flex flex-column flex-md-row  align-items-center justify-content-between">
+                                        <div class="my-3 muted medium theme-cl p-2"><a
+                                                href=" https://sryahwapublications.com/article/download/2642-9144.0101004 "
+                                                class="theme-btn-light btn-sm" target="_blank"><i
+                                                    class="lni lni-download mr-1"></i>Download PDF</a></div>
+                                        <div class="my-3 muted medium theme-cl p-2"><a
+                                                href=" https://sryahwapublications.com/article/pdf/2642-9144.0101004 "
+                                                class="theme-btn-light btn-sm" target="_blank"><i
+                                                    class="lni lni-eye mr-1"></i>View PDF</a></div>
+                                    </div>
+                                                                                                    <div class="pt-1 bd-highlight"> <span class="muted medium theme-cl"><img
+                                                src="https://sryahwapublications.com/assets/img/icons/doi.png" alt="doi"
+                                                width="25" height="25" class="img-fluid" /> <a
+                                                href="https://doi.org/10.22259/2642-9144.0101004"
+                                                class="text-info muted medium theme-cl">10.22259/2642-9144.0101004</a></span>
+                                    </div>
+                                                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ============================ Journal Details Start ================================== -->
+        <section class="py-2 my-0">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 p-0">
+
+                        <div wire:id="fgeMIjero0066hEgySyD" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;fgeMIjero0066hEgySyD&quot;,&quot;name&quot;:&quot;journals.view-article&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;article\/abstract\/2642-9144.0101004&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;b6f11c08&quot;,&quot;data&quot;:{&quot;article&quot;:[],&quot;authors&quot;:[&quot;Samuel Tabot Enow&quot;,&quot;Eslyn Bleighnaul Hugh Isaacs&quot;],&quot;keywords&quot;:[&quot;&quot;],&quot;journal&quot;:[],&quot;volume&quot;:[],&quot;issue&quot;:[]},&quot;dataMeta&quot;:{&quot;models&quot;:{&quot;article&quot;:{&quot;class&quot;:&quot;App\\Article&quot;,&quot;id&quot;:568,&quot;relations&quot;:[&quot;journal&quot;,&quot;volume&quot;,&quot;issue&quot;],&quot;connection&quot;:&quot;mysql&quot;},&quot;journal&quot;:{&quot;class&quot;:&quot;App\\Journal&quot;,&quot;id&quot;:29,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;volume&quot;:{&quot;class&quot;:&quot;App\\Volume&quot;,&quot;id&quot;:47,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;issue&quot;:{&quot;class&quot;:&quot;App\\Issue&quot;,&quot;id&quot;:117,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;}}},&quot;checksum&quot;:&quot;5e71e81f8399fb50cfd620556d462a81a137ed0b722ce3208925f05f921ee702&quot;}}">
+    <section class="middle">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                    <div class="sec_title position-relative mb-2">
+                        <h2 class="ft-bold text-center">Abstract</h2>
+                    </div>
+                </div>
+            </div>
+            <!-- row -->
+            <div class="row align-items-center">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="jbr-wrap text-left border rounded">
+                        <div
+                            class="cats-box mlb-res rounded bg-white d-flex align-items-center justify-content-between px-3 py-3">
+                            <div class="cats-box rounded bg-white d-flex align-items-center">
+                                <div class="cats-box-caption px-2">
+                                    <p style="text-align: justify;">Dividend payout signals good news to investors. Firms&rsquo; that pays out dividends demonstrate that they have enough cash to distribute the excess to shareholders while investing in profitable projects. This study investigated the factors that determine dividend payout using ten companies listed in the financial service sector from 2012-2016. Using a multiple regression analysis, the result reveals that return on asset, return on equity and earnings per share, accounts for only 57% of dividend payout movements. Furthermore, only the earnings per share are significantly positively correlated to dividend payout while return on asset and return on equity was not. This finding implies that, firms in the financial service sector in South Africa have been distributing dividends to their shareholders from their earnings and other sources, which might possibly be from borrowing. This finding is contrary to the theory suggested by finance literature.</p>
+<p style="text-align: justify;"><strong>Keywords:</strong> dividend payout, return on asset, return on equity, Earnings per share, financial service sector.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="row align-items-center justify-content-between mr-1 ml-1 p-3 border rounded">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <a rel="nofollow"
+                        href="https://plu.mx/plum/a/?doi=10.22259/2642-9144.0101004"
+                        data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum"
+                        data-hide-when-empty="true">Impact of Employee Compensation and Benefits on Operating
+                        Performance</a>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                    <span class="__dimensions_badge_embed__"
+                        data-doi="10.22259/2642-9144.0101004"></span>
+                    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+                </div>
+            </div>
+
+            <div class="row mt-4">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="jbr-wrap text-left p-3 border rounded">
+                        <a rel="license nofollow" href="https://creativecommons.org/licenses/by-nc/4.0/">
+                            <img alt="Creative Commons License" src="//i.creativecommons.org/l/by-nc/4.0/88x31.png"
+                                class="pb-2"></a>
+                        <p>This work is licensed under a <a rel="license nofollow"
+                                href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+                                Attribution-NonCommercial
+                                4.0 International License</a>.</p>
+                        <p>Copyright © Author(s) retain the copyright of this article.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    </div>
+
+<!-- Livewire Component wire-end:fgeMIjero0066hEgySyD -->
+
+                    </div>
+
+                    <!-- Sidebar -->
+ <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+     <div class="jb-apply-form bg-white shadow rounded py-3 px-4 box-static">
+                      <div wire:id="Ry6dHBtBfkGnFlL3QmsB" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;Ry6dHBtBfkGnFlL3QmsB&quot;,&quot;name&quot;:&quot;stats&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;article\/abstract\/2642-9144.0101004&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;153640d2&quot;,&quot;data&quot;:{&quot;article&quot;:[]},&quot;dataMeta&quot;:{&quot;models&quot;:{&quot;article&quot;:{&quot;class&quot;:&quot;App\\Article&quot;,&quot;id&quot;:568,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;}}},&quot;checksum&quot;:&quot;9052644f7bdc697fd87c06de7f95864641936e3558ad9cec361327274518c2d7&quot;}}" class="card mb-3">
+    <div class="card-header">
+        <h3 class="mb-0 h-4">Statistics</h3>
+    </div>
+    <div class="card-body">
+        <div class="d-flex flex-row">
+            <p class="p-2"><span class="font-weight-bold">277</span> Views</p>
+            <p class="p-2"><span class="font-weight-bold">623</span> Downloads</p>
+        </div>
+    </div>
+</div>
+
+<!-- Livewire Component wire-end:Ry6dHBtBfkGnFlL3QmsB -->             <div wire:id="PO3gc4URPjPf0etS7Ay4" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;PO3gc4URPjPf0etS7Ay4&quot;,&quot;name&quot;:&quot;components.article-issue&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;article\/abstract\/2642-9144.0101004&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;ba8d7bcc&quot;,&quot;data&quot;:{&quot;article&quot;:[]},&quot;dataMeta&quot;:{&quot;models&quot;:{&quot;article&quot;:{&quot;class&quot;:&quot;App\\Article&quot;,&quot;id&quot;:568,&quot;relations&quot;:[&quot;journal&quot;,&quot;volume&quot;,&quot;issue&quot;],&quot;connection&quot;:&quot;mysql&quot;}}},&quot;checksum&quot;:&quot;5dc5c6b1162b87f2e9ec01df54295bfc0e132e1c348854d16dd7a2faa5d7dffb&quot;}}" class="card mb-3">
+    <div class="card-header">
+        <h3 class="mb-0 h-4">Volume & Issue</h3>
+    </div>
+    <div class="card-body">
+        <p class="p-2">
+            <a href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/volume-1/issue-1"
+                class="theme-cl">Volume 1, Issue 1</a>
+        </p>
+    </div>
+</div>
+
+<!-- Livewire Component wire-end:PO3gc4URPjPf0etS7Ay4 -->
+             <div class="card mb-3">
+                 <div class="card-header">
+                     <h3 class="mb-0 h-4">Article Type</h3>
+                 </div>
+                 <div class="card-body">
+                     <p class="p-2">
+                         
+                     </p>
+                 </div>
+             </div>
+
+             <div class="card mb-3">
+                 <div class="card-header">
+                     <h3 class="mb-0 h-4">How to Cite</h3>
+
+                 </div>
+                 <div class="card-body">
+                     <!-- How to cite widget -->
+                     <div wire:id="X4u2Lc5oEQMc9FdtVSRs" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;X4u2Lc5oEQMc9FdtVSRs&quot;,&quot;name&quot;:&quot;citation-widget&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;article\/abstract\/2642-9144.0101004&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;8705cb5e&quot;,&quot;data&quot;:{&quot;articleId&quot;:568,&quot;selectedFormat&quot;:&quot;apa&quot;},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;4d77c22cc3ecefd54539b688b5ee09c4eb0d5e30c3bd30cdb7c089c95fb421a0&quot;}}">
+    <div class="form-group">
+        <label for="format">Select Citation Format:</label>
+        <select clsss="form-control rounded" wire:model="selectedFormat" id="format">
+            <option value="apa">APA</option>
+            <option value="abnt">ABNT</option>
+            <option value="chicago">Chicago</option>
+            <option value="harvard">Harvard</option>
+            <option value="acm">ACM</option>
+            <option value="ieee">IEEE</option>
+            <option value="mla">MLA</option>
+            <option value="turabian">Turabian</option>
+            <option value="vancouver">Vancouver</option>
+            <option value="ama">AMA</option>
+        </select>
+    </div>
+    <p>Citation:</p>
+    <p class="font-italic text-muted">Samuel Tabot Enow, Eslyn Bleighnaul Hugh Isaacs. (2018-02-16). &quot;Factors that Determine Dividend Payout. Evidence from the Financial Service Sector in South Africa.&quot; *Volume 1*, 1, 48-53</p>
+</div>
+
+<!-- Livewire Component wire-end:X4u2Lc5oEQMc9FdtVSRs -->                 </div>
+             </div>
+                  <!-- Card -->
+         <div class="card mb-4">
+             <div>
+
+                 <!-- Card header -->
+                 <div class="card-header">
+                     <h3 class="mb-0 h-4">Useful Links</h3>
+                 </div>
+                 <ul class="list-group list-group-flush">
+                     <li class="list-group-item bg-transparent"><a href="/author-guidelines" class=""><i
+                                 class="fe fe-play-circle align-middle me-2 text-primary"></i>Author Guildelines</a>
+                     </li>
+                     <li class="list-group-item bg-transparent"><a href="/peer-review-process" class=""><i
+                                 class="fe fe-play-circle align-middle me-2 text-primary"></i>Peer Review Process</a>
+                     </li>
+                     <li class="list-group-item bg-transparent"><a href="/open-access-policy" class=""><i
+                                 class="fe fe-play-circle align-middle me-2 text-primary"></i>Open Access Policy</a>
+                     </li>
+                     <li class="list-group-item bg-transparent"><a href="/plagiarism-policy" class=""><i
+                                 class="fe fe-play-circle align-middle me-2 text-primary"></i>Plagiarism Policy</a></li>
+                     <li class="list-group-item bg-transparent"><a href="/copyright-policy" class=""><i
+                                 class="fe fe-play-circle align-middle me-2 text-primary"></i>Copyright Policy</a></li>
+                     <li class="list-group-item bg-transparent"><a
+                             href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/call-for-papers"
+                             class=""><i class="fe fe-play-circle align-middle me-2 text-primary"></i>Call For
+                             Papers</a></li>
+                     <li class="list-group-item bg-transparent"><a
+                             href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/article-processing-charges"
+                             class=""><i class="fe fe-play-circle align-middle me-2 text-primary"></i>Article
+                             Processing Charges</a></li>
+                     <li class="list-group-item bg-transparent"><a
+                             href="https://sryahwapublications.com/journals/journal-of-banking-and-finance-management/indexing-and-archiving"
+                             class=""><i class="fe fe-play-circle align-middle me-2 text-primary"></i>Indexing and
+                             Archiving</a></li>
+                 </ul>
+             </div>
+         </div>
+
+         
+     </div>
+
+ </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- ============================ Footer Start ================================== -->
+<footer class="light-footer skin-light-footer style-2 br-top">
+    <div class="footer-middle">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                    <div class="footer_widget">
+                        <img src="https://sryahwapublications.com/assets/img/logo.png" class="img-footer small mb-2" alt="" />
+
+                        <div class="address mt-2">
+                            16192 Coastal Highway,<br>Lewes, Delaware 19958, USA
+                        </div>
+                        <div class="address mt-3">
+                            <a href="/cdn-cgi/l/email-protection#c1afa7ae81b2b3b8a0a9b6a0b1b4a3ada8a2a0b5a8aeafb2efa2aeac"><span class="__cf_email__" data-cfemail="d9b0b7bfb699aaaba0b8b1aeb8a9acbbb5b0bab8adb0b6b7aaf7bab6b4">[email&#160;protected]</span></a>
+                        </div>
+                        <div class="address mt-2">
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><a href="#" class="theme-cl"><i
+                                            class="lni lni-facebook-filled"></i></a></li>
+                                <li class="list-inline-item"><a href="#" class="theme-cl"><i
+                                            class="lni lni-twitter-filled"></i></a></li>
+                                <li class="list-inline-item"><a href="#" class="theme-cl"><i
+                                            class="lni lni-youtube"></i></a></li>
+                                <li class="list-inline-item"><a href="#" class="theme-cl"><i
+                                            class="lni lni-instagram-filled"></i></a></li>
+                                <li class="list-inline-item"><a href="#" class="theme-cl"><i
+                                            class="lni lni-linkedin-original"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+                    <div class="footer_widget">
+                        
+                        <ul class="footer-menu">
+                            <li><a href="https://sryahwapublications.com/about-us">About Us</a></li>
+                            <li><a href="https://sryahwapublications.com/contact-us">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+                    <div class="footer_widget">
+                        
+                        <ul class="footer-menu">
+                            <li><a href="https://sryahwapublications.com/author-guidelines">Author Guidelines</a></li>
+                            <li><a href="https://sryahwapublications.com/peer-review-process">Peer Review Process</a></li>
+                            <li><a href="https://sryahwapublications.com/submit-manuscript">Submit Manuscript</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+                    <div class="footer_widget">
+                        
+                        <ul class="footer-menu">
+                            <li><a href="https://sryahwapublications.com/open-access-policy">Open Access Policy</a></li>
+                            <li><a href="https://sryahwapublications.com/privacy-policy">Plagiarism Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
+                    <div class="footer_widget">
+                        
+                        <ul class="footer-menu">
+                            <li><a href="https://sryahwapublications.com/sitemap">Sitemap</a></li>
+                            <li><a href="https://sryahwapublications.com/terms-and-conditions">Terms and conditions</a>
+                            </li>
+                            <li><a href="https://sryahwapublications.com/privacy-policy">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-bottom br-top">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12 col-md-12 text-center">
+                    <p class="mb-0">© 2022 Sryahwa Publications LLC</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- ============================ Footer End ================================== -->
+
+    <!-- ============================ Footer End ================================== -->
+
+    <a id="back2Top" class="top-scroll" title="Back to top" href="#"><i class="ti-arrow-up"></i></a>
+
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://sryahwapublications.com/assets/js/jquery.min.js"></script>
+    <script src="https://sryahwapublications.com/assets/js/popper.min.js"></script>
+    <script src="https://sryahwapublications.com/assets/js/bootstrap.min.js"></script>
+    <!-- <script src="https://sryahwapublications.com/assets/js/slick.js"></script>
+  <script src="https://sryahwapublications.com/assets/js/slider-bg.js"></script>
+  <script src="https://sryahwapublications.com/assets/js/smoothproducts.js"></script>
+  <script src="https://sryahwapublications.com/assets/js/snackbar.min.js"></script>
+  <script src="https://sryahwapublications.com/assets/js/jQuery.style.switcher.js"></script> -->
+    <script src="https://sryahwapublications.com/assets/js/custom.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    <!-- Livewire Scripts -->
+
+<script src="/vendor/livewire/livewire.js?id=fe747446aa84856d8b66" data-turbo-eval="false" data-turbolinks-eval="false" ></script>
+<script data-turbo-eval="false" data-turbolinks-eval="false" >
+    if (window.livewire) {
+	    console.warn('Livewire: It looks like Livewire\'s @livewireScripts JavaScript assets have already been loaded. Make sure you aren\'t loading them twice.')
+	}
+
+    window.livewire = new Livewire();
+    window.livewire.devTools(true);
+    window.Livewire = window.livewire;
+    window.livewire_app_url = '';
+    window.livewire_token = '97mrrqFn9jeJ1KGxsztuVbCiffRjUzQlYKriedBX';
+
+	/* Make sure Livewire loads first. */
+	if (window.Alpine) {
+	    /* Defer showing the warning so it doesn't get buried under downstream errors. */
+	    document.addEventListener("DOMContentLoaded", function () {
+	        setTimeout(function() {
+	            console.warn("Livewire: It looks like AlpineJS has already been loaded. Make sure Livewire\'s scripts are loaded before Alpine.\\n\\n Reference docs for more info: http://laravel-livewire.com/docs/alpine-js")
+	        })
+	    });
+	}
+
+	/* Make Alpine wait until Livewire is finished rendering to do its thing. */
+    window.deferLoadingAlpine = function (callback) {
+        window.addEventListener('livewire:load', function () {
+            callback();
+        });
+    };
+
+    let started = false;
+
+    window.addEventListener('alpine:initializing', function () {
+        if (! started) {
+            window.livewire.start();
+
+            started = true;
+        }
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+        if (! started) {
+            window.livewire.start();
+
+            started = true;
+        }
+    });
+</script>
+    <!-- Pushed scripts will be included here -->
+            <script type="text/javascript" src="https://cdn.plu.mx/widget-details.js"></script>
+        <!-- Track PDF Downloads -->
+    <!--
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelectorAll('.pdf-link').forEach(function(link) {
+                link.addEventListener('click', function(e) {
+                    trackDownload(e.target.rel);
+                });
+            });
+        });
+
+        function trackDownload(uuid) {
+            // Send an AJAX request to your server to track the download.
+            fetch('/track-download', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-Requested-With': 'XMLHttpRequest', // For Laravel to identify as AJAX
+                    'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]')
+                        .content // CSRF token for Laravel
+                },
+                body: JSON.stringify({
+                    uuid: uuid
+                })
+            });
+        }
+    </script> -->
+</body>
